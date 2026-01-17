@@ -1,0 +1,2060 @@
+﻿state,city,city_designation,area_km2,postal_code,population_total,male,female,per_km2
+Berlin,Berlin,,891.12,10178,3782202,1860115,1922087,4 244
+Hamburg,Hamburg,Freie und Hansestadt,755.09,20038,1910160,936740,973420,2 530
+Bayern,München,Landeshauptstadt,310.7,80313,1510378,734925,775453,4 861
+Nordrhein-Westfalen,Köln,,405.02,50667,1087353,527728,559625,2 685
+Hessen,Frankfurt am Main,,248.31,60311,775790,382226,393564,3 124
+Baden-Württemberg,Stuttgart,Landeshauptstadt,207.33,70173,633484,316030,317454,3 055
+Nordrhein-Westfalen,Düsseldorf,,217.41,40213,631217,304616,326601,2 903
+Sachsen,Leipzig,,297.8,04109,619879,305443,314436,2 082
+Nordrhein-Westfalen,Dortmund,,280.71,44135,595471,292178,303293,2 121
+Nordrhein-Westfalen,Essen,,210.34,45121,586608,285411,301197,2 789
+Bremen,Bremen,,318.2,28195,577026,285270,291756,1 813
+Sachsen,Dresden,,328.48,01067,566222,281215,285007,1 724
+Niedersachsen,Hannover,Landeshauptstadt,204.3,30159,548186,268214,279972,2 683
+Bayern,Nürnberg,,186.44,90403,526091,257320,268771,2 822
+Nordrhein-Westfalen,Duisburg,,232.84,47051,503707,249120,254587,2 163
+Nordrhein-Westfalen,Bochum,,145.66,44787,366385,178896,187489,2 515
+Nordrhein-Westfalen,Wuppertal,,168.39,42275,358938,176056,182882,2 132
+Nordrhein-Westfalen,Bielefeld,,258.83,33602,338410,163288,175122,1 307
+Nordrhein-Westfalen,Bonn,,141.06,53111,335789,160546,175243,2 380
+Nordrhein-Westfalen,Münster,,303.28,48143,322904,155052,167852,1 065
+Baden-Württemberg,Mannheim,Universitätsstadt,144.97,68159,316877,158281,158596,2 186
+Baden-Württemberg,Karlsruhe,,173.42,76133,309964,158520,151444,1 787
+Bayern,Augsburg,,146.85,86150,303150,149531,153619,2 064
+Hessen,Wiesbaden,Landeshauptstadt,203.87,65183,285522,136598,148924,1 401
+Nordrhein-Westfalen,Mönchengladbach,,170.47,41061,268943,133625,135318,1 578
+Nordrhein-Westfalen,Gelsenkirchen,,104.94,45879,265885,132249,133636,2 534
+Nordrhein-Westfalen,Aachen,,160.85,52058,252769,132027,120742,1 571
+Niedersachsen,Braunschweig,,192.7,38100,252066,124898,127168,1 308
+Sachsen,Chemnitz,,221.03,09111,250681,123838,126843,1 134
+Schleswig-Holstein,Kiel,Landeshauptstadt,118.65,24103,248873,120699,128174,2 098
+Sachsen-Anhalt,Halle (Saale),,135.56,06108,242172,117365,124807,1 786
+Sachsen-Anhalt,Magdeburg,Landeshauptstadt,201.68,39104,240114,118654,121460,1 191
+Baden-Württemberg,Freiburg im Breisgau,,153.04,79098,237244,112660,124584,1 550
+Nordrhein-Westfalen,Krefeld,,137.77,47798,228550,111419,117131,1 659
+Rheinland-Pfalz,Mainz,,97.73,55116,222889,108873,114016,2 281
+Schleswig-Holstein,Lübeck,Hansestadt,214.19,23539,219044,105259,113785,1 023
+Thüringen,Erfurt,,269.91,99084,215675,104791,110884, 799
+Nordrhein-Westfalen,Oberhausen,,77.09,46045,211099,103059,108040,2 738
+Mecklenburg-Vorpommern,Rostock,Hanse- und Universitätsstadt,181.36,18055,210795,103349,107446,1 162
+Hessen,Kassel,documenta-Stadt,106.79,34117,204687,100203,104484,1 917
+Nordrhein-Westfalen,Hagen,Stadt der FernUniversität,160.45,58095,190490,93469,97021,1 187
+Brandenburg,Potsdam,,188.24,14469,187119,90107,97012, 994
+Saarland,Saarbrücken,Landeshauptstadt,167.52,66111,183509,91475,92034,1 095
+Nordrhein-Westfalen,Hamm,,226.66,59065,180761,89286,91475, 797
+Rheinland-Pfalz,Ludwigshafen am Rhein,,77.43,67059,176110,88552,87558,2 274
+Niedersachsen,Oldenburg (Oldenburg),,103.09,26105,174629,83608,91021,1 694
+Nordrhein-Westfalen,Mülheim an der Ruhr,,91.28,45468,173255,83637,89618,1 898
+Niedersachsen,Osnabrück,,119.8,49074,166960,80585,86375,1 394
+Nordrhein-Westfalen,Leverkusen,,78.87,51373,166414,81121,85293,2 110
+Hessen,Darmstadt,Wissenschaftsstadt,122.07,64283,164792,84206,80586,1 350
+Baden-Württemberg,Heidelberg,,108.83,69117,162960,77929,85031,1 497
+Nordrhein-Westfalen,Solingen,Klingenstadt,89.54,42651,161545,78754,82791,1 804
+Bayern,Regensburg,,80.86,93019,159465,78024,81441,1 972
+Nordrhein-Westfalen,Herne,,51.42,44623,157896,77401,80495,3 071
+Nordrhein-Westfalen,Paderborn,,179.59,33104,155749,77843,77906, 867
+Nordrhein-Westfalen,Neuss,,99.52,41460,155163,75336,79827,1 559
+Bayern,Ingolstadt,,133.35,85047,142308,72076,70232,1 067
+Hessen,Offenbach am Main,,44.88,63065,135490,67279,68211,3 019
+Bayern,Fürth,,63.35,90744,132032,64793,67239,2 084
+Baden-Württemberg,Heilbronn,Universitätsstadt,99.89,74072,130093,65794,64299,1 302
+Baden-Württemberg,Ulm,Universitätsstadt,118.68,89073,129942,64384,65558,1 095
+Baden-Württemberg,Pforzheim,,97.99,75175,128992,63717,65275,1 316
+Bayern,Würzburg,,87.6,97070,128246,61560,66686,1 464
+Niedersachsen,Wolfsburg,,204.62,38440,127256,63352,63904, 622
+Niedersachsen,Göttingen,,117.02,37083,120261,58433,61828,1 028
+Nordrhein-Westfalen,Bottrop,,100.61,46236,118705,57841,60864,1 180
+Baden-Württemberg,Reutlingen,,87.04,72764,118528,58803,59725,1 362
+Bayern,Erlangen,,76.96,91051,117806,58694,59112,1 531
+Rheinland-Pfalz,Koblenz,,105.25,56068,115298,56682,58616,1 095
+Bremen,Bremerhaven,,101.41,27576,114677,56716,57961,1 131
+Nordrhein-Westfalen,Remscheid,,74.52,42853,112970,56058,56912,1 516
+Rheinland-Pfalz,Trier,,117.06,54290,112737,55783,56954, 963
+Nordrhein-Westfalen,Bergisch Gladbach,,83.09,51465,112660,53929,58731,1 356
+Nordrhein-Westfalen,Recklinghausen,,66.5,45657,111693,54223,57470,1 680
+Thüringen,Jena,,114.77,07743,110791,55060,55731, 965
+Nordrhein-Westfalen,Moers,,67.64,47441,105606,51248,54358,1 561
+Niedersachsen,Salzgitter,,224.49,38226,105039,52386,52653, 468
+Hessen,Hanau,Brüder-Grimm-Stadt,76.28,63450,103184,50927,52257,1 353
+Nordrhein-Westfalen,Gütersloh,,112.02,33330,102464,50733,51731, 915
+Niedersachsen,Hildesheim,,92.29,31134,102325,48866,53459,1 109
+Nordrhein-Westfalen,Siegen,Universitätsstadt,114.69,57072,102114,50110,52004, 890
+Rheinland-Pfalz,Kaiserslautern,,139.7,67657,101486,51241,50245, 726
+Brandenburg,Cottbus/Chóśebuz,,165.61,03046,100010,48883,51127, 604
+Mecklenburg-Vorpommern,Schwerin,Landeshauptstadt,130.52,19053,98733,47339,51394, 756
+Baden-Württemberg,Esslingen am Neckar,,46.43,73728,95881,48521,47360,2 065
+Nordrhein-Westfalen,Witten,,72.4,58452,95724,46540,49184,1 322
+Hessen,Gießen,Universitätsstadt,72.61,35390,94996,46730,48266,1 308
+Baden-Württemberg,Ludwigsburg,,43.34,71638,94859,46775,48084,2 189
+Thüringen,Gera,,152.18,07545,94847,45922,48925, 623
+Baden-Württemberg,Tübingen,Universitätsstadt,108.07,72070,93615,44250,49365, 866
+Nordrhein-Westfalen,Düren,,85.01,52349,93323,46221,47102,1 098
+Schleswig-Holstein,Flensburg,,56.73,24937,92667,45905,46762,1 633
+Nordrhein-Westfalen,Iserlohn,,125.49,58636,92404,45063,47341, 736
+Baden-Württemberg,Villingen-Schwenningen,,165.53,78050,89145,43827,45318, 539
+Sachsen,Zwickau,Hochschulstadt,102.58,08056,87593,42936,44657, 854
+Nordrhein-Westfalen,Ratingen,,88.74,40878,87513,42309,45204, 986
+Nordrhein-Westfalen,Lünen,,59.39,44532,87266,42512,44754,1 469
+Baden-Württemberg,Konstanz,Universitätsstadt,54.12,78462,85770,40910,44860,1 585
+Rheinland-Pfalz,Worms,,108.73,67547,85609,42650,42959, 787
+Nordrhein-Westfalen,Marl,,87.76,45772,85001,41621,43380, 969
+Nordrhein-Westfalen,Minden,,101.12,32423,83100,40938,42162, 822
+Schleswig-Holstein,Norderstedt,,58.1,22846,82719,40260,42459,1 424
+Nordrhein-Westfalen,Velbert,,74.9,42551,82462,40423,42039,1 101
+Bayern,Bamberg,,54.62,96031,80580,39589,40991,1 475
+Schleswig-Holstein,Neumünster,,71.66,24534,80185,39772,40413,1 119
+Sachsen-Anhalt,Dessau-Roßlau,,245.78,06844,79686,38528,41158, 324
+Nordrhein-Westfalen,Viersen,,91.1,41747,79250,38609,40641, 870
+Niedersachsen,Delmenhorst,,62.45,27749,78979,38984,39995,1 265
+Nordrhein-Westfalen,Rheine,,145,48431,78220,38599,39621, 539
+Hessen,Marburg,Universitätsstadt,123.91,35037,78203,36852,41351, 631
+Niedersachsen,Lüneburg,Hansestadt,70.5,21335,77511,37099,40412,1 099
+Nordrhein-Westfalen,Dorsten,,171.2,46284,76842,37356,39486, 449
+Nordrhein-Westfalen,Troisdorf,,62,53840,76503,37608,38895,1 234
+Niedersachsen,Wilhelmshaven,,107.11,26382,76247,37481,38766, 712
+Nordrhein-Westfalen,Gladbeck,,35.97,45964,75799,36883,38916,2 107
+Bayern,Landshut,,65.83,84026,75272,36756,38516,1 143
+Bayern,Bayreuth,,66.89,95410,74907,36670,38237,1 120
+Nordrhein-Westfalen,Detmold,,129.39,32756,74835,36108,38727, 578
+Nordrhein-Westfalen,Castrop-Rauxel,,51.68,44575,74370,36409,37961,1 439
+Nordrhein-Westfalen,Arnsberg,,193.72,59759,74206,36458,37748, 383
+Brandenburg,Brandenburg an der Havel,,229.73,14770,73921,36286,37635, 322
+Bayern,Aschaffenburg,,62.45,63701,72918,35432,37486,1 168
+Nordrhein-Westfalen,Bocholt,,119.4,46395,72409,35603,36806, 606
+Nordrhein-Westfalen,Lüdenscheid,,87.02,58507,71463,35125,36338, 821
+Bayern,Kempten (Allgäu),,63.28,87435,70713,35028,35685,1 117
+Hessen,Fulda,,104.05,36037,70366,34810,35556, 676
+Niedersachsen,Celle,,176.02,29221,70293,34005,36288, 399
+Baden-Württemberg,Aalen,,146.58,73430,69147,34458,34689, 472
+Nordrhein-Westfalen,Lippstadt,,113.68,59555,69047,34046,35001, 607
+Nordrhein-Westfalen,Dinslaken,,47.66,46535,67949,32750,35199,1 426
+Hessen,Rüsselsheim am Main,,58.29,65428,67656,33895,33761,1 161
+Nordrhein-Westfalen,Kerpen,Kolpingstadt,113.96,50171,67627,33332,34295, 593
+Nordrhein-Westfalen,Herford,Hansestadt,79.15,32052,67265,33011,34254, 850
+Rheinland-Pfalz,Neuwied,,86.5,56564,66243,32664,33579, 766
+Thüringen,Weimar,,84.47,99423,65611,31599,34012, 777
+Baden-Württemberg,Sindelfingen,,50.83,71063,65504,32668,32836,1 289
+Sachsen,Plauen,,102.11,08523,65218,31970,33248, 639
+Bayern,Rosenheim,,37.22,83013,65192,32453,32739,1 752
+Nordrhein-Westfalen,Dormagen,,85.5,41539,65170,32435,32735, 762
+Nordrhein-Westfalen,Grevenbroich,,102.52,41515,64588,31179,33409, 630
+Mecklenburg-Vorpommern,Neubrandenburg,Vier-Tore-Stadt,86.12,17033,64390,31154,33236, 748
+Baden-Württemberg,Friedrichshafen,,69.93,88045,63441,31422,32019, 907
+Baden-Württemberg,Schwäbisch Gmünd,,113.81,73525,62726,30575,32151, 551
+Nordrhein-Westfalen,Herten,,37.33,45699,62204,30351,31853,1 666
+Baden-Württemberg,Offenburg,,78.37,77652,62195,30807,31388, 794
+Nordrhein-Westfalen,Bergheim,,96.34,50126,62172,30305,31867, 645
+Bayern,Neu-Ulm,GKSt,80.95,89210,61780,30663,31117, 763
+Niedersachsen,Garbsen,,79.49,30823,61594,30032,31562, 775
+Nordrhein-Westfalen,Wesel,,122.56,46483,61277,29776,31501, 500
+Nordrhein-Westfalen,Hürth,,51.22,50354,61252,29876,31376,1 196
+Nordrhein-Westfalen,Euskirchen,,139.49,53879,60256,29737,30519, 432
+Nordrhein-Westfalen,Unna,,88.56,59423,60223,29278,30945, 680
+Mecklenburg-Vorpommern,Greifswald,Universitäts- und Hansestadt,50.81,17489,60071,28501,31570,1 182
+Nordrhein-Westfalen,Langenfeld (Rheinland),,41.15,40764,59908,29103,30805,1 456
+Mecklenburg-Vorpommern,Stralsund,Hansestadt,54.59,18439,59450,28865,30585,1 089
+Baden-Württemberg,Göppingen,,59.21,73033,59300,29501,29799,1 002
+Brandenburg,Frankfurt (Oder),,147.85,15230,58818,28657,30161, 398
+Niedersachsen,Hameln,,102.53,31785,57916,27702,30214, 565
+Nordrhein-Westfalen,Meerbusch,,64.4,40670,57440,27562,29878, 892
+Baden-Württemberg,Baden-Baden,,140.19,76530,57420,27501,29919, 410
+Niedersachsen,Lingen (Ems),,176.19,49808,57075,28507,28568, 324
+Sachsen,Görlitz,,67.53,02826,56694,27284,29410, 840
+Nordrhein-Westfalen,Sankt Augustin,,34.22,53757,56692,27764,28928,1 657
+Nordrhein-Westfalen,Stolberg (Rhld.),Kupferstadt,98.48,52222,56584,27954,28630, 575
+Nordrhein-Westfalen,Pulheim,,72.15,50259,56284,27201,29083, 780
+Nordrhein-Westfalen,Eschweiler,,75.75,52249,56132,27589,28543, 741
+Hessen,Bad Homburg v. d. Höhe,,51.14,61343,55995,26558,29437,1 095
+Baden-Württemberg,Waiblingen,,42.75,71332,55917,27369,28548,1 308
+Niedersachsen,Langenhagen,,71.97,30853,55746,27551,28195, 775
+Nordrhein-Westfalen,Hilden,,25.95,40721,55689,26861,28828,2 146
+Niedersachsen,Nordhorn,,149.86,48529,55619,27426,28193, 371
+Bayern,Schweinfurt,,35.7,97420,55067,27308,27759,1 542
+Hessen,Wetzlar,,75.65,35578,54629,26517,28112, 722
+Nordrhein-Westfalen,Hattingen,,71.67,45525,54620,26519,28101, 762
+Nordrhein-Westfalen,Bad Salzuflen,,100.05,32105,54585,26388,28197, 546
+Bayern,Passau,,69.56,94030,54401,26467,27934, 782
+Rheinland-Pfalz,Neustadt an der Weinstraße,,117.09,67433,53920,26353,27567, 461
+Nordrhein-Westfalen,Kleve,,97.76,47533,53458,26550,26908, 547
+Nordrhein-Westfalen,Ahlen,,123.13,59227,53278,26030,27248, 433
+Nordrhein-Westfalen,Frechen,,45.06,50226,53128,25954,27174,1 179
+Niedersachsen,Wolfenbüttel,,78.74,38300,53034,26166,26868, 674
+Rheinland-Pfalz,Bad Kreuznach,,55.56,55545,52989,25315,27674, 954
+Nordrhein-Westfalen,Ibbenbüren,,108.87,49477,52688,26068,26620, 484
+Nordrhein-Westfalen,Menden (Sauerland),,86.1,58706,52177,25478,26699, 606
+Baden-Württemberg,Böblingen,,39.04,71032,52093,25834,26259,1 334
+Nordrhein-Westfalen,Gummersbach,,95.41,51643,51845,25564,26281, 543
+Baden-Württemberg,Rastatt,,58.98,76437,51800,25947,25853, 878
+Baden-Württemberg,Ravensburg,,92.05,88212,51788,25920,25868, 563
+Niedersachsen,Peine,,119.84,31224,51521,25482,26039, 430
+Rheinland-Pfalz,Speyer,,42.71,67346,51203,24998,26205,1 199
+Schleswig-Holstein,Elmshorn,,21.36,25335,50728,24907,25821,2 375
+Baden-Württemberg,Lörrach,,39.37,79539,50670,24746,25924,1 287
+Niedersachsen,Emden,,112.34,26721,50659,25242,25417, 451
+Niedersachsen,Goslar,,163.88,38640,50253,24592,25661, 307
+Nordrhein-Westfalen,Willich,,67.8,47877,50212,24605,25607, 741
+Nordrhein-Westfalen,Gronau (Westf.),,78.82,48599,50151,25126,25025, 636
+Nordrhein-Westfalen,Erftstadt,,119.89,50374,50018,24230,25788, 417
+Bayern,Freising,GKSt,88.59,85350,49939,25165,24774, 564
+Baden-Württemberg,Heidenheim an der Brenz,,107.09,89522,49895,24928,24967, 466
+Nordrhein-Westfalen,Rheda-Wiedenbrück,,86.72,33378,49849,24930,24919, 575
+Baden-Württemberg,Leonberg,,48.73,71229,49845,24864,24981,1 023
+Bayern,Straubing,,67.59,94315,49775,25214,24561, 736
+Nordrhein-Westfalen,Bad Oeynhausen,,64.83,32545,49566,24345,25221, 765
+Baden-Württemberg,Singen (Hohentwiel),,61.77,78224,49518,24134,25384, 802
+Nordrhein-Westfalen,Bergkamen,,44.9,59192,49475,24606,24869,1 102
+Baden-Württemberg,Lahr/Schwarzwald,,69.84,77933,49420,24807,24613, 708
+Rheinland-Pfalz,Frankenthal (Pfalz),,43.88,67227,49122,24061,25061,1 119
+Nordrhein-Westfalen,Bornheim,,82.69,53332,49074,23918,25156, 593
+Niedersachsen,Cuxhaven,,161.93,27472,48713,23119,25594, 301
+Niedersachsen,Stade,Hansestadt,110.07,21682,48708,23767,24941, 443
+Nordrhein-Westfalen,Alsdorf,,31.68,52477,48518,24062,24456,1 532
+Brandenburg,Oranienburg,,163.69,16515,48492,23665,24827, 296
+Rheinland-Pfalz,Landau in der Pfalz,,82.94,76829,48341,23072,25269, 583
+Bayern,Dachau,GKSt,34.96,85221,48337,23675,24662,1 383
+Nordrhein-Westfalen,Soest,,85.81,59494,48250,23492,24758, 562
+Nordrhein-Westfalen,Hennef (Sieg),,105.89,53773,48190,23403,24787, 455
+Nordrhein-Westfalen,Dülmen,,184.83,48249,47937,23457,24480, 259
+Niedersachsen,Melle,,253.95,49324,47387,23564,23823, 187
+Hessen,Oberursel (Taunus),,45.34,61440,47241,22908,24333,1 042
+Saarland,Neunkirchen,Kreisstadt,75.26,66538,47097,23178,23919, 626
+Nordrhein-Westfalen,Herzogenrath,,33.38,52134,47071,22827,24244,1 410
+Baden-Württemberg,Bruchsal,,93.04,76646,47014,23693,23321, 505
+Bayern,Hof,,58.02,95015,46963,22880,24083, 809
+Baden-Württemberg,Albstadt,,134.4,72458,46831,23278,23553, 348
+Hessen,Rodgau,,65.04,63110,46683,23229,23454, 718
+Nordrhein-Westfalen,Schwerte,Hansestadt an der Ruhr,56.23,58239,46571,22928,23643, 828
+Bayern,Kaufbeuren,,40.02,87600,46386,22925,23461,1 159
+Thüringen,Gotha,,69.58,99867,46300,22783,23517, 665
+Baden-Württemberg,Filderstadt,,38.55,70794,46295,22972,23323,1 201
+Baden-Württemberg,Fellbach,,27.71,70734,46205,22498,23707,1 667
+Bayern,Memmingen,,70.11,87700,46178,22848,23330, 659
+Nordrhein-Westfalen,Bünde,,59.3,32257,45891,22333,23558, 774
+Sachsen-Anhalt,Wittenberg,Lutherstadt,241.77,06886,45588,22091,23497, 189
+Nordrhein-Westfalen,Brühl,,36.12,50321,45515,21670,23845,1 260
+Baden-Württemberg,Weinheim,,58.11,69469,45381,22073,23308, 781
+Niedersachsen,Neustadt am Rübenberge,,358.96,31535,45325,22450,22875, 126
+Niedersachsen,Lehrte,,127.67,31275,45097,22516,22581, 353
+Brandenburg,Falkensee,,43.34,14612,45005,22083,22922,1 038
+Baden-Württemberg,Rottenburg am Neckar,,142.27,72108,44791,22173,22618, 315
+Schleswig-Holstein,Pinneberg,,21.54,25421,44756,21967,22789,2 078
+Nordrhein-Westfalen,Erkelenz,,117.34,41812,44572,21836,22736, 380
+Brandenburg,Bernau bei Berlin,,104.19,16321,44254,21422,22832, 425
+Nordrhein-Westfalen,Kaarst,,37.39,41564,44208,21153,23055,1 182
+Mecklenburg-Vorpommern,Wismar,Hansestadt,41.73,23952,44022,21256,22766,1 055
+Niedersachsen,Gifhorn,,105.39,38518,43941,21621,22320, 417
+Baden-Württemberg,Bietigheim-Bissingen,,31.29,74321,43808,21524,22284,1 400
+Nordrhein-Westfalen,Erkrath,Fundort des Neanderthalers,26.88,40699,43801,20976,22825,1 630
+Nordrhein-Westfalen,Heinsberg,,92.21,52525,43620,21576,22044, 473
+Nordrhein-Westfalen,Borken,,153.24,46325,43589,21513,22076, 284
+Nordrhein-Westfalen,Monheim am Rhein,,23.05,40789,43524,20992,22532,1 888
+Nordrhein-Westfalen,Nettetal,,83.87,41334,43425,21396,22029, 518
+Niedersachsen,Aurich,,197.29,26603,43375,21461,21914, 220
+Bayern,Weiden i.d.OPf.,,70.57,92637,43188,20955,22233, 612
+Nordrhein-Westfalen,Kamen,,40.95,59174,43001,21060,21941,1 050
+Thüringen,Eisenach,,104.17,99817,42817,21168,21649, 411
+Baden-Württemberg,Schwäbisch Hall,,104.19,74523,42743,20927,21816, 410
+Bayern,Amberg,,50.14,92224,42676,21100,21576, 851
+Niedersachsen,Laatzen,,34.16,30880,42560,20432,22128,1 246
+Saarland,Homburg,Kreisstadt,82.61,66424,42498,20751,21747, 514
+Hessen,Dreieich,,53.27,63303,42389,20916,21473, 796
+Bayern,Ansbach,,99.91,91522,42311,20297,22014, 423
+Baden-Württemberg,Kirchheim unter Teck,,40.47,73230,42178,20854,21324,1 042
+Bayern,Coburg,,48.29,96450,42139,20616,21523, 873
+Nordrhein-Westfalen,Siegburg,,23.66,53721,42025,20669,21356,1 776
+Bayern,Germering,GKSt,21.61,82110,41822,20347,21475,1 935
+Hessen,Bensheim,,57.83,64625,41758,20526,21232, 722
+Brandenburg,Eberswalde,,93.63,16225,41704,20357,21347, 445
+Niedersachsen,Wunstorf,,125.74,31515,41666,20278,21388, 331
+Nordrhein-Westfalen,Königswinter,,76.2,53639,41642,20249,21393, 546
+Nordrhein-Westfalen,Hückelhoven,,61.27,41836,41594,20544,21050, 679
+Baden-Württemberg,Nürtingen,,46.88,72622,41447,20658,20789, 884
+Bayern,Schwabach,,40.8,91126,41380,20296,21084,1 014
+Niedersachsen,Buchholz in der Nordheide,,74.76,21244,41290,19880,21410, 552
+Niedersachsen,Buxtehude,Hansestadt,76.69,21614,41256,20413,20843, 538
+Bayern,Neumarkt i.d.OPf.,GKSt,79.01,92305,41255,20356,20899, 522
+Thüringen,Nordhausen,,108.24,99734,41233,20327,20906, 381
+Sachsen,Freiberg,Universitätsstadt,48.31,09599,41045,20683,20362, 850
+Rheinland-Pfalz,Pirmasens,,61.35,66953,40941,20076,20865, 667
+Baden-Württemberg,Schorndorf,,56.83,73614,40614,20060,20554, 715
+Nordrhein-Westfalen,Ahaus,,151.24,48683,40580,20313,20267, 268
+Nordrhein-Westfalen,Lemgo,,100.85,32657,40531,20014,20517, 402
+Baden-Württemberg,Leinfelden-Echterdingen,,29.89,70771,40526,20024,20502,1 356
+Hessen,Hofheim am Taunus,Kreisstadt,57.43,65719,40412,19733,20679, 704
+Saarland,Völklingen,,67.1,66333,40358,19729,20629, 601
+Nordrhein-Westfalen,Löhne,,59.51,32584,40162,19711,20451, 675
+Sachsen-Anhalt,Halberstadt,,143.27,38820,40069,20226,19843, 280
+Hessen,Langen (Hessen),,29.12,63225,40009,19714,20295,1 374
+Baden-Württemberg,Ostfildern,,22.81,73760,39833,19708,20125,1 746
+Baden-Württemberg,Ettlingen,,56.75,76275,39763,19326,20437, 701
+Hessen,Maintal,,32.41,63477,39698,19586,20112,1 225
+Sachsen,Freital,,40.46,01705,39477,19229,20248, 976
+Nordrhein-Westfalen,Niederkassel,,35.79,53859,39424,19464,19960,1 102
+Hessen,Neu-Isenburg,,24.29,63263,39420,19349,20071,1 623
+Sachsen,Pirna,,53.06,01796,39303,19050,20253, 741
+Nordrhein-Westfalen,Mettmann,,42.56,40822,39197,18844,20353, 921
+Sachsen-Anhalt,Weißenfels,,113.96,06667,39181,19310,19871, 344
+Thüringen,Ilmenau,,198.69,98693,39147,20192,18955, 197
+Brandenburg,Königs Wusterhausen,,96.04,15711,39096,19205,19891, 407
+Sachsen-Anhalt,Stendal,Hansestadt,269.24,39576,38946,18880,20066, 145
+Niedersachsen,Papenburg,,118.44,26871,38841,19746,19095, 328
+Nordrhein-Westfalen,Würselen,,34.39,52146,38750,18926,19824,1 127
+Nordrhein-Westfalen,Kamp-Lintfort,,63.14,47475,38731,19009,19722, 613
+Baden-Württemberg,Kehl,,75.07,77694,38721,19258,19463, 516
+Nordrhein-Westfalen,Wesseling,,23.37,50389,38355,18979,19376,1 641
+Nordrhein-Westfalen,Greven,,140.26,48268,38321,18837,19484, 273
+Bayern,Fürstenfeldbruck,GKSt,32.52,82256,38187,18645,19542,1 174
+Baden-Württemberg,Backnang,,39.38,71522,38184,19104,19080, 970
+Sachsen,Bautzen / Budyšin,,66.67,02625,38039,18518,19521, 571
+Nordrhein-Westfalen,Haltern am See,,159.03,45721,38033,18427,19606, 239
+Sachsen-Anhalt,Bitterfeld-Wolfen,,87.23,06766,37850,18473,19377, 434
+Nordrhein-Westfalen,Warendorf,,176.88,48231,37847,18471,19376, 214
+Baden-Württemberg,Tuttlingen,,90.45,78532,37784,19008,18776, 418
+Nordrhein-Westfalen,Beckum,,111.46,59269,37452,18560,18892, 336
+Niedersachsen,Cloppenburg,,70.86,49661,37280,18436,18844, 526
+Nordrhein-Westfalen,Coesfeld,,141.36,48653,37259,18415,18844, 264
+Bayern,Erding,GKSt,54.61,85435,37169,17972,19197, 681
+Thüringen,Suhl,,141.62,98527,36986,18488,18498, 261
+Baden-Württemberg,Sinsheim,,126.99,74889,36978,18345,18633, 291
+Thüringen,Mühlhausen/Thüringen,,135.52,99974,36641,17804,18837, 270
+Nordrhein-Westfalen,Emsdetten,,72.06,48282,36556,18115,18441, 507
+Hessen,Limburg a. d. Lahn,Kreisstadt,45.16,65549,36506,18055,18451, 808
+Niedersachsen,Winsen (Luhe),,109.77,21423,36499,17951,18548, 333
+Rheinland-Pfalz,Ingelheim am Rhein,,73.31,55218,36390,17873,18517, 496
+Nordrhein-Westfalen,Porta Westfalica,,105.22,32457,36300,18155,18145, 345
+Nordrhein-Westfalen,Voerde (Niederrhein),,53.49,46562,36282,17829,18453, 678
+Baden-Württemberg,Crailsheim,,109.08,74564,36239,18418,17821, 332
+Niedersachsen,Meppen,,188.4,49716,36137,18015,18122, 192
+Hessen,Bad Vilbel,,25.68,61118,36021,17621,18400,1 403
+Bayern,Deggendorf,GKSt,77.14,94469,35757,18294,17463, 464
+Nordrhein-Westfalen,Goch,,115.43,47574,35520,17790,17730, 308
+Nordrhein-Westfalen,Steinfurt,,111.67,48565,35456,17670,17786, 318
+Hessen,Mörfelden-Walldorf,,44.13,64546,35359,17947,17412, 801
+Nordrhein-Westfalen,Lage,,76.04,32791,35311,17337,17974, 464
+Hessen,Dietzenbach,Kreisstadt,21.68,63128,35268,17532,17736,1 627
+Nordrhein-Westfalen,Datteln,,66.1,45711,35200,17227,17973, 533
+Niedersachsen,Leer (Ostfriesland),,70.11,26789,35163,17110,18053, 502
+Saarland,St. Ingbert,,49.95,66386,35059,16895,18164, 702
+Baden-Württemberg,Balingen,,90.32,72336,35054,17120,17934, 388
+Niedersachsen,Barsinghausen,,102.81,30890,34955,17261,17694, 340
+Saarland,Saarlouis,Kreisstadt,43.3,66740,34893,16856,18037, 806
+Nordrhein-Westfalen,Kempen,,68.8,47906,34888,16898,17990, 507
+Niedersachsen,Seelze,,54.08,30926,34798,17220,17578, 643
+Sachsen-Anhalt,Merseburg,,53.87,06217,34721,17053,17668, 645
+Nordrhein-Westfalen,Wermelskirchen,,74.8,42929,34673,16870,17803, 464
+Schleswig-Holstein,Wedel,,33.81,22880,34617,16757,17860,1 024
+Rheinland-Pfalz,Zweibrücken,,70.64,66482,34613,17203,17410, 490
+Nordrhein-Westfalen,Geldern,,96.97,47608,34604,17334,17270, 357
+Schleswig-Holstein,Ahrensburg,,35.29,22926,34601,16433,18168, 980
+Hessen,Viernheim,,48.41,68519,34348,16846,17502, 710
+Baden-Württemberg,Biberach an der Riß,,72.15,88400,34331,16906,17425, 476
+Nordrhein-Westfalen,Korschenbroich,,55.24,41352,34324,16688,17636, 621
+Baden-Württemberg,Kornwestheim,,14.65,70806,34177,16825,17352,2 333
+Niedersachsen,Vechta,,87.89,49377,34145,17010,17135, 388
+Niedersachsen,Uelzen,Hansestadt,136.84,29525,33991,16472,17519, 248
+Nordrhein-Westfalen,Hemer,,67.66,58675,33916,16816,17100, 501
+Baden-Württemberg,Rheinfelden (Baden),,62.84,79618,33849,16704,17145, 539
+Hessen,Bad Nauheim,,32.54,61231,33809,16042,17767,1 039
+Sachsen,Radebeul,,26.14,01445,33804,16322,17482,1 293
+Brandenburg,Schwedt/Oder,,360.74,16303,33635,16248,17387, 93
+Bayern,Forchheim,GKSt,44.44,91301,33610,16410,17200, 756
+Nordrhein-Westfalen,Jülich,,90.39,52428,33359,16767,16592, 369
+Hessen,Lampertheim,,72.27,68623,33053,16433,16620, 457
+Baden-Württemberg,Herrenberg,,65.7,71083,32961,16173,16788, 502
+Niedersachsen,Achim,,68.06,28832,32961,16040,16921, 484
+Nordrhein-Westfalen,Delbrück,,157.28,33129,32874,16706,16168, 209
+Brandenburg,Fürstenwalde/Spree,,70.67,15517,32763,16242,16521, 464
+Schleswig-Holstein,Geesthacht,,33.25,21502,32763,16212,16551, 985
+Baden-Württemberg,Radolfzell am Bodensee,,58.55,78315,32575,15679,16896, 556
+Niedersachsen,Nienburg (Weser),,64.53,31582,32423,15689,16734, 502
+Sachsen-Anhalt,Naumburg (Saale),,130.25,06618,32336,15683,16653, 248
+Schleswig-Holstein,Itzehoe,,28.54,25524,32319,15545,16774,1 132
+Nordrhein-Westfalen,Emmerich am Rhein,,80.4,46446,32157,16149,16008, 400
+Sachsen-Anhalt,Bernburg (Saale),,113.92,06406,32106,15530,16576, 282
+Niedersachsen,Georgsmarienhütte,,55.49,49124,32022,15696,16326, 577
+Sachsen-Anhalt,Wernigerode,,170.5,38855,31943,15289,16654, 187
+Nordrhein-Westfalen,Oer-Erkenschwick,,38.66,45739,31918,15585,16333, 826
+Brandenburg,Neuruppin,,305.19,16816,31803,15578,16225, 104
+Niedersachsen,Bramsche,,183.39,49565,31801,16243,15558, 173
+Niedersachsen,Geestland,,356.56,27607,31713,15402,16311, 89
+Thüringen,Altenburg,,45.69,04600,31580,15140,16440, 691
+Sachsen,Hoyerswerda / Wojerecy,,94.99,02977,31404,15158,16246, 331
+Niedersachsen,Burgdorf,,112.56,31303,31302,15247,16055, 278
+Nordrhein-Westfalen,Kreuztal,,71.07,57223,31251,15409,15842, 440
+Nordrhein-Westfalen,Gevelsberg,,26.34,58285,31198,15198,16000,1 184
+Hessen,Friedberg (Hessen),Kreisstadt,50.18,61169,31131,15745,15386, 620
+Nordrhein-Westfalen,Rheinberg,,75.24,47495,31096,15222,15874, 413
+Baden-Württemberg,Weil am Rhein,,19.46,79576,31065,15131,15934,1 596
+Nordrhein-Westfalen,Werl,,76.35,59457,30938,15802,15136, 405
+Nordrhein-Westfalen,Lohmar,,65.62,53797,30894,15085,15809, 471
+Niedersachsen,Walsrode,,336.46,29664,30890,15251,15639, 92
+Bayern,Neuburg a.d.Donau,GKSt,81.29,86633,30881,15525,15356, 380
+Hessen,Taunusstein,,67.02,65232,30820,14900,15920, 460
+Hessen,Bad Hersfeld,Kreisstadt,73.87,36251,30770,15098,15672, 417
+Niedersachsen,Einbeck,,231.92,37574,30725,15021,15704, 132
+Niedersachsen,Osterholz-Scharmbeck,,147.17,27711,30717,14960,15757, 209
+Bayern,Friedberg,,81.25,86316,30670,15049,15621, 377
+Nordrhein-Westfalen,Haan,,24.19,42781,30558,14627,15931,1 263
+Schleswig-Holstein,Rendsburg,,23.75,24768,30545,15548,14997,1 286
+Nordrhein-Westfalen,Ennepetal,Stadt der Kluterthöhle,57.77,58256,30502,14836,15666, 528
+Nordrhein-Westfalen,Rietberg,,110.31,33397,30461,15375,15086, 276
+Rheinland-Pfalz,Andernach,,53.34,56626,30408,14811,15597, 570
+Sachsen-Anhalt,Schönebeck (Elbe),,86.52,39218,30402,14819,15583, 351
+Bayern,Schwandorf,GKSt,123.8,92421,30239,15101,15138, 244
+Baden-Württemberg,Gaggenau,,65.01,76571,30190,14902,15288, 464
+Baden-Württemberg,Bretten,,71.1,75015,30136,14994,15142, 424
+Saarland,Merzig,Kreisstadt,108.98,66663,30070,15051,15019, 276
+Nordrhein-Westfalen,Meschede,Kreis- und  Hochschulstadt,218.52,59872,29988,14953,15035, 137
+Nordrhein-Westfalen,Werne,,76.14,59368,29868,14413,15455, 392
+Nordrhein-Westfalen,Oelde,,102.77,59302,29783,14874,14909, 290
+Bayern,Landsberg am Lech,GKSt,57.9,86886,29739,14842,14897, 514
+Bayern,Unterschleißheim,,14.93,85716,29661,14991,14670,1 987
+Nordrhein-Westfalen,Waltrop,,47.09,45731,29586,14282,15304, 628
+Mecklenburg-Vorpommern,Güstrow,Barlachstadt,71.09,18273,29582,14341,15241, 416
+Hessen,Mühlheim am Main,,20.67,63165,29452,14709,14743,1 425
+Brandenburg,Ludwigsfelde,,109.99,14974,29441,14564,14877, 268
+Baden-Württemberg,Winnenden,,28.05,71364,29436,14494,14942,1 049
+Baden-Württemberg,Vaihingen an der Enz,,73.4,71665,29387,14608,14779, 400
+Niedersachsen,Northeim,,145.85,37154,29337,14326,15011, 201
+Nordrhein-Westfalen,Tönisvorst,,44.34,47918,29331,14479,14852, 662
+Baden-Württemberg,Geislingen an der Steige,,75.83,73312,29261,14813,14448, 386
+Niedersachsen,Springe,,160.13,31832,29258,14202,15056, 183
+Baden-Württemberg,Bühl,,73.18,77815,29214,14348,14866, 399
+Nordrhein-Westfalen,Rösrath,,38.8,51503,29206,14279,14927, 753
+Rheinland-Pfalz,Idar-Oberstein,,91.58,55743,29158,14264,14894, 318
+Sachsen,Riesa,,58.91,01589,29127,14011,15116, 494
+Thüringen,Saalfeld/Saale,,145.56,07318,29121,14174,14947, 200
+Hessen,Kelkheim (Taunus),,30.73,65779,29106,14224,14882, 947
+Sachsen,Meißen,,30.92,01662,29051,13924,15127, 940
+Baden-Württemberg,Emmendingen,,33.78,79312,29035,14071,14964, 860
+Nordrhein-Westfalen,Mechernich,,136.48,53894,28900,14371,14529, 212
+Hessen,Rödermark,,29.99,63322,28835,14082,14753, 961
+Nordrhein-Westfalen,Höxter,,158.16,37671,28749,14231,14518, 182
+Hessen,Hattersheim am Main,,15.8,65795,28720,14326,14394,1 818
+Nordrhein-Westfalen,Schwelm,,20.5,58332,28711,13832,14879,1 401
+Schleswig-Holstein,Reinbek,,31.27,21465,28579,14061,14518, 914
+Nordrhein-Westfalen,Kevelaer,,100.64,47623,28466,14076,14390, 283
+Niedersachsen,Verden (Aller),,71.7,27283,28453,13777,14676, 397
+Nordrhein-Westfalen,Geilenkirchen,,83.16,52511,28399,14233,14166, 341
+Bayern,Königsbrunn,,18.48,86343,28377,13963,14414,1 536
+Sachsen-Anhalt,Zeitz,,87.74,06712,28345,13706,14639, 323
+Hessen,Baunatal,,38.27,34225,28298,13614,14684, 739
+Sachsen,Grimma,,218.23,04668,28269,13895,14374, 130
+Thüringen,Arnstadt,,104.99,99310,28264,14262,14002, 269
+Hessen,Griesheim,,21.55,64347,28210,14085,14125,1 309
+Nordrhein-Westfalen,Leichlingen (Rheinland),Blütenstadt,37.26,42799,28202,13527,14675, 757
+Nordrhein-Westfalen,Neukirchen-Vluyn,,43.5,47506,28110,13583,14527, 646
+Bayern,Olching,,29.92,82140,28052,13687,14365, 938
+Nordrhein-Westfalen,Baesweiler,,27.84,52499,28005,13563,14442,1 006
+Niedersachsen,Lohne (Oldenburg),,91.11,49393,27949,14053,13896, 307
+Brandenburg,Teltow,,21.59,14513,27880,13740,14140,1 291
+Nordrhein-Westfalen,Sundern (Sauerland),,193.27,59846,27783,13918,13865, 144
+Brandenburg,Strausberg,,67.94,15344,27780,13383,14397, 409
+Rheinland-Pfalz,Bad Neuenahr-Ahrweiler,,63.38,53474,27647,13317,14330, 436
+Hessen,Heppenheim (Bergstraße),Kreisstadt,52.12,64646,27610,13758,13852, 530
+Baden-Württemberg,Wangen im Allgäu,,101.35,88239,27608,13454,14154, 272
+Hessen,Butzbach,Friedrich-Ludwig-Weidig-Stadt,106.6,35510,27528,13904,13624, 258
+Nordrhein-Westfalen,Schloß Holte-Stukenbrock,,67.52,33758,27520,13592,13928, 408
+Baden-Württemberg,Ehingen (Donau),,178.33,89584,27504,13895,13609, 154
+Nordrhein-Westfalen,Overath,,68.88,51491,27489,13409,14080, 399
+Nordrhein-Westfalen,Wetter (Ruhr),,31.55,58300,27450,13567,13883, 870
+Nordrhein-Westfalen,Hamminkeln,,164.53,46499,27450,13691,13759, 167
+Nordrhein-Westfalen,Wegberg,,84.34,41844,27305,13210,14095, 324
+Baden-Württemberg,Leimen,,20.64,69181,27286,13458,13828,1 322
+Baden-Württemberg,Weinstadt,,31.71,71384,27245,13399,13846, 859
+Nordrhein-Westfalen,Rheinbach,,69.72,53359,27238,13693,13545, 391
+Bayern,Pfaffenhofen a.d.Ilm,,92.63,85276,27143,13431,13712, 293
+Brandenburg,Hohen Neuendorf,,48.56,16540,27131,13242,13889, 559
+Baden-Württemberg,Wiesloch,,30.24,69168,27120,13496,13624, 897
+Brandenburg,Werder (Havel),,117.12,14542,26970,13228,13742, 230
+Nordrhein-Westfalen,Selm,,60.41,59379,26767,13299,13468, 443
+Baden-Württemberg,Achern,,65.24,77855,26664,13262,13402, 409
+Baden-Württemberg,Mühlacker,,54.32,75417,26664,13302,13362, 491
+Brandenburg,Hennigsdorf,,31.48,16761,26623,13004,13619, 846
+Hessen,Groß-Gerau,,54.47,64521,26614,13264,13350, 489
+Nordrhein-Westfalen,Heiligenhaus,,27.52,42579,26590,12934,13656, 966
+Baden-Württemberg,Remseck am Neckar,,22.82,71686,26589,13270,13319,1 165
+Baden-Württemberg,Neckarsulm,,24.94,74172,26523,13195,13328,1 063
+Sachsen-Anhalt,Aschersleben,,156.83,06449,26416,12722,13694, 168
+Bayern,Lauf a.d.Pegnitz,,59.86,91207,26413,12944,13469, 441
+Niedersachsen,Nordenham,,87.77,26954,26410,13210,13200, 301
+Rheinland-Pfalz,Bingen am Rhein,,37.68,55411,26339,13024,13315, 699
+Hessen,Weiterstadt,,34.4,64331,26291,13396,12895, 764
+Bayern,Zirndorf,,28.79,90513,26257,12766,13491, 912
+Nordrhein-Westfalen,Lübbecke,,65.04,32312,26161,12819,13342, 402
+Bayern,Lindau (Bodensee),GKSt,33.06,88131,26155,12633,13522, 791
+Nordrhein-Westfalen,Harsewinkel,Die Mähdrescherstadt,100.59,33428,26126,13156,12970, 260
+Bayern,Kulmbach,GKSt,92.77,95311,26052,12654,13398, 281
+Nordrhein-Westfalen,Bad Honnef,,48.14,53604,26025,12499,13526, 541
+Hessen,Friedrichsdorf,,30.13,61381,25937,12728,13209, 861
+Schleswig-Holstein,Schleswig,,24.3,24837,25904,12622,13282,1 066
+Bayern,Geretsried,,24.6,82538,25863,12857,13006,1 051
+Hessen,Idstein,Hochschulstadt,79.76,65510,25709,12326,13383, 322
+Baden-Württemberg,Horb am Neckar,,119.76,72160,25695,13004,12691, 215
+Nordrhein-Westfalen,Verl,,71.37,33415,25691,12954,12737, 360
+Niedersachsen,Helmstedt,,66.74,38350,25633,12510,13123, 384
+Niedersachsen,Rinteln,,109.02,31737,25626,12544,13082, 235
+Nordrhein-Westfalen,Brilon,,229.16,59929,25624,12749,12875, 112
+Baden-Württemberg,Öhringen,,67.79,74613,25591,12682,12909, 378
+Baden-Württemberg,Rottweil,,71.76,78628,25548,12642,12906, 356
+Hessen,Obertshausen,,13.62,63179,25531,12570,12961,1 875
+Baden-Württemberg,Weingarten,,12.16,88250,25521,12386,13135,2 099
+Saarland,St. Wendel,Kreisstadt,113.54,66606,25503,12487,13016, 225
+Bayern,Roth,,96.33,91154,25405,12374,13031, 264
+Baden-Württemberg,Ellwangen (Jagst),,127.38,73479,25372,12892,12480, 199
+Nordrhein-Westfalen,Wiehl,,53.26,51674,25356,12357,12999, 476
+Sachsen,Delitzsch,,85.92,04509,25341,12489,12852, 295
+Baden-Württemberg,Ditzingen,,30.38,71254,25318,12564,12754, 833
+Baden-Württemberg,Stutensee,,45.68,76297,25311,12534,12777, 554
+Nordrhein-Westfalen,Lüdinghausen,,140.54,59348,25306,12572,12734, 180
+Sachsen-Anhalt,Sangerhausen,,208.46,06526,25300,12257,13043, 121
+Hessen,Pfungstadt,,42.54,64319,25299,12522,12777, 595
+Nordrhein-Westfalen,Espelkamp,,84.21,32339,25294,12336,12958, 300
+Nordrhein-Westfalen,Salzkotten,,109.8,33154,25283,12536,12747, 230
+Nordrhein-Westfalen,Lennestadt,,135.59,57368,25275,12650,12625, 186
+Nordrhein-Westfalen,Petershagen,,211.94,32469,25226,12625,12601, 119
+Niedersachsen,Norden,,106.33,26506,25210,12342,12868, 237
+Baden-Württemberg,Waldshut-Tiengen,,77.96,79761,25114,12405,12709, 322
+Schleswig-Holstein,Bad Oldesloe,,52.59,23843,25104,12275,12829, 477
+Nordrhein-Westfalen,Meckenheim,,34.84,53340,25031,12125,12906, 718
+Sachsen-Anhalt,Köthen (Anhalt),,77.85,06366,24974,12102,12872, 321
+Nordrhein-Westfalen,Schmallenberg,,303.1,57392,24970,12604,12366, 82
+Nordrhein-Westfalen,Olpe,,85.88,57462,24961,12375,12586, 291
+Nordrhein-Westfalen,Sprockhövel,,47.94,45549,24956,12094,12862, 521
+Niedersachsen,Syke,,128.11,28857,24956,12269,12687, 195
+Brandenburg,Rathenow,,113.1,14712,24918,12106,12812, 220
+Thüringen,Meiningen,,105.64,98617,24867,12273,12594, 235
+Nordrhein-Westfalen,Plettenberg,,96.75,58840,24788,12353,12435, 256
+Thüringen,Rudolstadt,,135.17,07407,24767,12047,12720, 183
+Baden-Württemberg,Bad Mergentheim,,129.96,97980,24752,12156,12596, 190
+Niedersachsen,Haren (Ems),,208.79,49733,24719,12493,12226, 118
+Sachsen,Zittau,,66.75,02763,24710,12238,12472, 370
+Bayern,Herzogenaurach,,47.62,91074,24674,12302,12372, 518
+Nordrhein-Westfalen,Bedburg,,80.42,50181,24645,12171,12474, 306
+Bayern,Waldkraiburg,,21.56,84478,24604,12241,12363,1 141
+Niedersachsen,Ronnenberg,,37.82,30952,24505,12125,12380, 648
+Sachsen,Markkleeberg,,31.47,04416,24488,11697,12791, 778
+Hessen,Riedstadt,Büchnerstadt,73.73,64560,24464,12335,12129, 332
+Nordrhein-Westfalen,Warstein,,158.05,59581,24464,12229,12235, 155
+Nordrhein-Westfalen,Attendorn,Hansestadt,97.92,57439,24452,12254,12198, 250
+Baden-Württemberg,Calw,,59.88,75365,24448,12360,12088, 408
+Brandenburg,Eisenhüttenstadt,,63.47,15890,24447,11974,12473, 385
+Nordrhein-Westfalen,Übach-Palenberg,,26.09,52531,24354,12236,12118, 933
+Baden-Württemberg,Freudenstadt,,87.54,72250,24337,11892,12445, 278
+Niedersachsen,Varel,,113.75,26316,24335,11834,12501, 214
+Niedersachsen,Sehnde,,103.58,31319,24167,12148,12019, 233
+Nordrhein-Westfalen,Jüchen,,71.77,41363,24141,11899,12242, 336
+Hessen,Korbach,"Hansestadt, Kreisstadt",124.11,34497,24089,11782,12307, 194
+Niedersachsen,Westerstede,,179.55,26655,23984,11691,12293, 134
+Sachsen-Anhalt,Staßfurt,,147.18,39418,23963,11635,12328, 163
+Bayern,Starnberg,,61.85,82319,23940,11255,12685, 387
+Sachsen,Limbach-Oberfrohna,,50.21,09212,23923,11762,12161, 476
+Hessen,Gelnhausen,"Barbarossastadt, Kreisstadt",45.15,63571,23841,11605,12236, 528
+Schleswig-Holstein,Husum,,25.8,25813,23814,11391,12423, 923
+Sachsen,Döbeln,,91.75,04720,23728,11700,12028, 259
+Baden-Württemberg,Mosbach,,62.16,74821,23647,11875,11772, 380
+Baden-Württemberg,Leutkirch im Allgäu,,174.97,88299,23588,11868,11720, 135
+Hessen,Dillenburg,Oranienstadt,83.76,35683,23533,11705,11828, 281
+Bayern,Gersthofen,,34.01,86368,23492,11664,11828, 691
+Schleswig-Holstein,Kaltenkirchen,,23.11,24568,23478,11420,12058,1 016
+Thüringen,Sonneberg,,84.69,96515,23435,11398,12037, 277
+Nordrhein-Westfalen,Netphen,,137.39,57250,23430,11635,11795, 171
+Niedersachsen,Hann. Münden,,121.17,34346,23418,11516,11902, 193
+Sachsen-Anhalt,Salzwedel,Hansestadt,306.15,29410,23394,11626,11768, 76
+Bayern,Weilheim i.OB,,55.5,82362,23378,11323,12055, 421
+Bayern,Kitzingen,GKSt,46.99,97318,23377,11594,11783, 497
+Nordrhein-Westfalen,Warburg,Hansestadt,168.84,34414,23336,11453,11883, 138
+Baden-Württemberg,Nagold,,63.1,72202,23321,11588,11733, 370
+Baden-Württemberg,Wertheim,,138.59,97877,23319,11630,11689, 168
+Brandenburg,Senftenberg/Zły Komorow,,127.56,01968,23282,11184,12098, 183
+Sachsen-Anhalt,Quedlinburg,Welterbestadt,120.79,06484,23277,11042,12235, 193
+Nordrhein-Westfalen,Vreden,,135.83,48691,23265,11880,11385, 171
+Hessen,Karben,,43.94,61184,23253,11583,11670, 529
+Bayern,Neusäß,,25.22,86356,23251,11159,12092, 922
+Bayern,Bad Kissingen,GKSt,69.92,97688,23245,10882,12363, 332
+Baden-Württemberg,Überlingen,,58.64,88662,23240,10883,12357, 396
+Niedersachsen,Friesoythe,,247.5,26169,23234,11630,11604, 94
+Hessen,Bad Soden am Taunus,,12.5,65812,23174,11135,12039,1 854
+Bayern,Senden,,25.21,89250,23143,11290,11853, 918
+Thüringen,Bad Salzungen,,152.02,36433,23133,11320,11813, 152
+Nordrhein-Westfalen,Lengerich,,90.79,49525,23067,11481,11586, 254
+Baden-Württemberg,Laupheim,,61.79,88471,23044,11570,11474, 373
+Niedersachsen,Stadthagen,,60.27,31655,22924,11124,11800, 380
+Thüringen,Apolda,,46.26,99510,22896,11244,11652, 495
+Niedersachsen,Rotenburg (Wümme),,99.06,27356,22789,11185,11604, 230
+Sachsen-Anhalt,Burg,,165.55,39288,22738,11504,11234, 137
+Nordrhein-Westfalen,Herdecke,,22.39,58313,22665,10768,11897,1 012
+Sachsen-Anhalt,Eisleben,Lutherstadt,144.74,06295,22609,11128,11481, 156
+Hessen,Büdingen,,122.88,63654,22607,11336,11271, 184
+Baden-Württemberg,Bad Rappenau,,73.56,74906,22586,11223,11363, 307
+Hessen,Eschborn,,12.13,65760,22551,11295,11256,1 859
+Baden-Württemberg,Metzingen,,34.55,72555,22530,11150,11380, 652
+Schleswig-Holstein,Heide,,31.97,25746,22467,10915,11552, 703
+Schleswig-Holstein,Quickborn,,43.16,25451,22339,10864,11475, 518
+Baden-Württemberg,Donaueschingen,,104.69,78166,22312,11121,11191, 213
+Baden-Württemberg,Waldkirch,,48.47,79183,22266,10808,11458, 459
+Baden-Württemberg,Eppingen,,88.58,75031,22252,11130,11122, 251
+Nordrhein-Westfalen,Versmold,,85.57,33775,22242,11155,11087, 260
+Bayern,Aichach,,92.83,86551,22222,10804,11418, 239
+Nordrhein-Westfalen,Halle (Westf.),,69.7,33790,22198,10952,11246, 318
+Nordrhein-Westfalen,Radevormwald,Stadt auf der Höhe,53.86,42477,22159,10785,11374, 411
+Niedersachsen,Soltau,,203.77,29614,22040,10791,11249, 108
+Bayern,Sonthofen,,46.55,87527,22035,10514,11521, 473
+Nordrhein-Westfalen,Elsdorf,,66.17,50189,21993,10844,11149, 332
+Baden-Württemberg,Bad Krozingen,,35.69,79189,21971,10828,11143, 616
+Sachsen-Anhalt,Gardelegen,Hansestadt,636.27,39638,21926,10918,11008, 34
+Baden-Württemberg,Eislingen/Fils,,16.41,73054,21894,10863,11031,1 334
+Bayern,Günzburg,GKSt,55.4,89312,21865,10880,10985, 395
+Bayern,Mühldorf a.Inn,,29.42,84453,21860,10868,10992, 743
+Sachsen,Glauchau,,51.62,08371,21807,10651,11156, 422
+Nordrhein-Westfalen,Xanten,,72.43,46509,21776,10646,11130, 301
+Baden-Württemberg,Waghäusel,,42.84,68753,21766,10888,10878, 508
+Hessen,Seligenstadt,Einhardstadt,30.85,63500,21752,10457,11295, 705
+Hessen,Flörsheim am Main,,22.99,65439,21751,10652,11099, 946
+Nordrhein-Westfalen,Geseke,,97.89,59590,21749,10825,10924, 222
+Hessen,Stadtallendorf,,78.24,35260,21733,10820,10913, 278
+Brandenburg,Zossen,,180.38,15806,21643,11253,10390, 120
+Baden-Württemberg,Hockenheim,,34.84,68766,21631,10694,10937, 621
+Schleswig-Holstein,Eckernförde,,21.58,24340,21620,10256,11364,1 002
+Baden-Württemberg,Schwetzingen,,21.5,68723,21609,10539,11070,1 005
+Bayern,Traunstein,GKSt,48.57,83278,21551,10444,11107, 444
+Nordrhein-Westfalen,Büren,,170.99,33142,21524,11108,10416, 126
+Niedersachsen,Bad Harzburg,,65.52,38667,21503,9998,11505, 328
+Brandenburg,Spremberg/Grodk,,202.32,03130,21497,10388,11109, 106
+Sachsen-Anhalt,Zerbst/Anhalt,,470.91,39261,21483,10571,10912, 46
+Nordrhein-Westfalen,Rees,,109.86,46459,21452,10720,10732, 195
+Niedersachsen,Wildeshausen,,89.7,27793,21424,10587,10837, 239
+Bayern,Puchheim,,12.24,82178,21410,10425,10985,1 749
+Niedersachsen,Osterode am Harz,,102.54,37520,21382,10535,10847, 209
+Nordrhein-Westfalen,Zülpich,,101.01,53909,21375,10578,10797, 212
+Rheinland-Pfalz,Germersheim,,21.68,76726,21295,10718,10577, 982
+Baden-Württemberg,Schramberg,,80.7,78713,21231,10642,10589, 263
+Mecklenburg-Vorpommern,Waren (Müritz),,159.46,17192,21217,9928,11289, 133
+Thüringen,Sondershausen,,201.21,99706,21183,10452,10731, 105
+Hessen,Herborn,,63.76,35745,21142,10452,10690, 332
+Nordrhein-Westfalen,Wipperfürth,Hansestadt,118.3,51688,21059,10494,10565, 178
+Bayern,Nördlingen,GKSt,68.09,86720,21053,10483,10570, 309
+Nordrhein-Westfalen,Hörstel,,107.54,48477,21049,10599,10450, 196
+Bayern,Traunreut,,45.06,83294,21021,10433,10588, 467
+Hessen,Groß-Umstadt,,86.84,64823,21018,10380,10638, 242
+Nordrhein-Westfalen,Wülfrath,,32.27,42489,21009,10145,10864, 651
+Brandenburg,Luckenwalde,,46.61,14943,21000,10258,10742, 451
+Baden-Württemberg,Mössingen,,50.03,72116,20979,10203,10776, 419
+Niedersachsen,Schortens,,68.79,26419,20932,10196,10736, 304
+Bayern,Dingolfing,,44,84130,20927,10978,9949, 476
+Hessen,Bruchköbel,,29.88,63486,20894,10202,10692, 699
+Niedersachsen,Wittmund,,210.16,26409,20835,10236,10599, 99
+Sachsen,Werdau,,65.62,08412,20793,10344,10449, 317
+Nordrhein-Westfalen,Stadtlohn,,79.25,48703,20791,10455,10336, 262
+Baden-Württemberg,Bad Waldsee,,108.55,88339,20786,10203,10583, 191
+Nordrhein-Westfalen,Enger,Widukindstadt,41.24,32130,20724,10239,10485, 503
+Baden-Württemberg,Rheinstetten,,32.31,76287,20695,10065,10630, 641
+Rheinland-Pfalz,Schifferstadt,,28.06,67105,20682,10291,10391, 737
+Nordrhein-Westfalen,Meinerzhagen,,115.69,58540,20653,10235,10418, 179
+Hessen,Nidderau,,46.73,61130,20652,10186,10466, 442
+Sachsen,Coswig,,25.88,01640,20561,9839,10722, 794
+Niedersachsen,Burgwedel,,152.85,30938,20481,9746,10735, 134
+Nordrhein-Westfalen,Fröndenberg/Ruhr,,56.23,58730,20450,10058,10392, 364
+Bayern,Lichtenfels,,122.16,96215,20403,10083,10320, 167
+Baden-Württemberg,Korntal-Münchingen,,20.71,70825,20394,10195,10199, 985
+Nordrhein-Westfalen,Ochtrup,,105.63,48607,20392,10398,9994, 193
+Mecklenburg-Vorpommern,Neustrelitz,Residenzstadt,139.89,17235,20385,9771,10614, 146
+Baden-Württemberg,Giengen an der Brenz,,44.07,89537,20358,10177,10181, 462
+Niedersachsen,Duderstadt,,95.64,37115,20320,9972,10348, 212
+Nordrhein-Westfalen,Telgte,,90.9,48291,20301,9879,10422, 223
+Sachsen,Reichenbach im Vogtland,,34.47,08468,20273,9737,10536, 588
+Baden-Württemberg,Tettnang,,71.25,88069,20262,10091,10171, 284
+Baden-Württemberg,Schopfheim,,67.93,79650,20238,9816,10422, 298
+Baden-Württemberg,Oberkirch,,69.1,77704,20237,10053,10184, 293
+Thüringen,Greiz,,84.86,07973,20220,9803,10417, 238
+Niedersachsen,Holzminden,,88.23,37603,20217,10052,10165, 229
+Saarland,Blieskastel,,108.21,66440,20202,9947,10255, 187
+Schleswig-Holstein,Bad Schwartau,,18.39,23611,20169,9364,10805,1 097
+Bayern,Donauwörth,GKSt,77.04,86609,20108,10018,10090, 261
+Nordrhein-Westfalen,Waldbröl,,63.32,51545,20081,9771,10310, 317
+Bayern,Dillingen a.d.Donau,GKSt,75.59,89407,20070,9917,10153, 266
+Thüringen,Leinefelde-Worbis,,115.79,37327,20053,9955,10098, 173
+Bayern,Moosburg a.d.Isar,,43.85,85368,20027,10113,9914, 457
+Sachsen,Borna,,62.45,04552,20013,9715,10298, 320
+Thüringen,Schmalkalden,,105.38,98574,19984,10298,9686, 190
+Baden-Württemberg,Bad Friedrichshall,,24.71,74177,19964,10239,9725, 808
+Saarland,Dillingen/ Saar,,22.05,66763,19941,9753,10188, 904
+Niedersachsen,Sarstedt,,43,31157,19896,9813,10083, 463
+Sachsen-Anhalt,Oschersleben (Bode),,189.88,39387,19885,9948,9937, 105
+Rheinland-Pfalz,Mayen,,58.19,56727,19882,9923,9959, 342
+Nordrhein-Westfalen,Rhede,,78.9,46414,19837,9956,9881, 251
+Schleswig-Holstein,Schenefeld,,9.99,22869,19817,9639,10178,1 984
+Nordrhein-Westfalen,Ennigerloh,,125.56,59320,19812,9893,9919, 158
+Baden-Württemberg,Gerlingen,,17.01,70839,19774,9714,10060,1 162
+Baden-Württemberg,Müllheim im Markgräflerland,,57.91,79379,19756,9574,10182, 341
+Niedersachsen,Bückeburg,,68.9,31675,19754,9539,10215, 287
+Bayern,Bad Aibling,,41.4,83043,19745,9523,10222, 477
+Rheinland-Pfalz,Wittlich,,49.64,54516,19718,9962,9756, 397
+Nordrhein-Westfalen,Marsberg,,182.22,34431,19704,10152,9552, 108
+Sachsen,Aue-Bad Schlema,,36.43,08280,19698,9426,10272, 541
+Sachsen,Torgau,,102.82,04860,19683,9669,10014, 191
+Hessen,Haiger,,106.73,35708,19596,9770,9826, 184
+Niedersachsen,Bad Pyrmont,,61.99,31812,19596,9384,10212, 316
+Schleswig-Holstein,Mölln,,25.05,23879,19566,9293,10273, 781
+Brandenburg,Nauen,,268.15,14641,19563,9768,9795, 73
+Bayern,Sulzbach-Rosenberg,,53.12,92237,19548,9709,9839, 368
+Nordrhein-Westfalen,Wassenberg,,42.43,41849,19541,9629,9912, 461
+Rheinland-Pfalz,Alzey,,35.22,55232,19530,9737,9793, 555
+Bayern,Wolfratshausen,,9.13,82515,19499,9465,10034,2 136
+Nordrhein-Westfalen,Bad Driburg,,115.3,33014,19496,9679,9817, 169
+Bayern,Burghausen,,19.81,84489,19494,9601,9893, 984
+Baden-Württemberg,Sachsenheim,,57.92,74343,19480,9645,9835, 336
+Baden-Württemberg,Hechingen,,66.41,72379,19475,9618,9857, 293
+Sachsen,Annaberg-Buchholz,,28.15,09456,19470,9415,10055, 692
+Hessen,Eschwege,Kreisstadt,63.26,37269,19435,9294,10141, 307
+Hessen,Heusenstamm,,19.03,63150,19426,9649,9777,1 021
+Bayern,Kolbermoor,,19.83,83059,19414,9410,10004, 979
+Bayern,Bad Tölz,,30.8,83646,19360,9411,9949, 629
+Baden-Württemberg,Weil der Stadt,,43.17,71263,19340,9560,9780, 448
+Sachsen,Schkeuditz,,81.47,04435,19234,9918,9316, 236
+Baden-Württemberg,Pfullingen,,30.14,72793,19221,9377,9844, 638
+Sachsen-Anhalt,Haldensleben,,157.13,39340,19188,9502,9686, 122
+Niedersachsen,Seesen,,102.33,38723,19185,9313,9872, 187
+Niedersachsen,Schneverdingen,,234.92,29640,19169,9273,9896, 82
+Saarland,Lebach,,64.21,66822,19108,9886,9222, 298
+Bayern,Bad Reichenhall,GKSt,41.92,83435,19087,9229,9858, 455
+Thüringen,Sömmerda,,87.56,99610,19052,9381,9671, 218
+Sachsen-Anhalt,Blankenburg (Harz),,149.21,38889,19034,9166,9868, 128
+Bayern,Marktoberdorf,,95.15,87616,19033,9651,9382, 200
+Niedersachsen,Bremervörde,,150.42,27432,19023,9534,9489, 126
+Brandenburg,Prenzlau,,142.97,17291,19022,9191,9831, 133
+Nordrhein-Westfalen,Burscheid,,27.33,51399,19005,9310,9695, 695
+Bayern,Weißenburg i.Bay.,GKSt,97.58,91781,18931,9331,9600, 194
+Schleswig-Holstein,Bad Segeberg,,18.87,23795,18891,9365,9526,1 001
+Niedersachsen,Hemmingen,,31.73,30966,18885,9147,9738, 595
+Nordrhein-Westfalen,Bad Berleburg,,275.52,57319,18833,9523,9310, 68
+Sachsen,Radeberg,,29.83,01454,18824,9207,9617, 631
+Rheinland-Pfalz,Bad Dürkheim,,102.55,67098,18821,8885,9936, 184
+Hessen,Hochheim am Main,,19.47,65239,18810,9255,9555, 966
+Bayern,Alzenau,,59.3,63755,18787,9202,9585, 317
+Schleswig-Holstein,Uetersen,,11.43,25436,18776,9232,9544,1 643
+Niedersachsen,Alfeld (Leine),,72.88,31061,18679,9211,9468, 256
+Hessen,Schwalmstadt,Konfirmationsstadt,84.79,34613,18661,9443,9218, 220
+Schleswig-Holstein,Glinde,,11.21,21509,18656,9152,9504,1 664
+Baden-Württemberg,Renningen,,31.15,71272,18655,9210,9445, 599
+Hessen,Vellmar,,13.97,34246,18622,8903,9719,1 333
+Nordrhein-Westfalen,Bergneustadt,,37.89,51702,18621,9044,9577, 491
+Bayern,Illertissen,,36.39,89257,18578,9214,9364, 511
+Hessen,Kronberg im Taunus,,18.58,61476,18569,8820,9749, 999
+Niedersachsen,Hessisch Oldendorf,,120.32,31840,18556,9071,9485, 154
+Rheinland-Pfalz,Konz,,44.57,54329,18539,9125,9414, 416
+Rheinland-Pfalz,Lahnstein,,37.62,56112,18536,8982,9554, 493
+Sachsen,Crimmitschau,,61.14,08451,18479,8993,9486, 302
+Rheinland-Pfalz,Wörth am Rhein,,131.62,76744,18405,9085,9320, 140
+Nordrhein-Westfalen,Vlotho,,76.93,32602,18403,9265,9138, 239
+Mecklenburg-Vorpommern,Parchim,,124.81,19370,18270,8826,9444, 146
+Saarland,Püttlingen,,23.95,66346,18243,8785,9458, 762
+Baden-Württemberg,Buchen (Odenwald),,138.93,74722,18203,8923,9280, 131
+Bayern,Schrobenhausen,,75.26,86529,18199,9099,9100, 242
+Hessen,Pohlheim,,38,35415,18199,8930,9269, 479
+Hessen,Frankenberg (Eder),Philipp-Soldan-Stadt,124.86,35066,18138,9131,9007, 145
+Baden-Württemberg,Sigmaringen,,92.84,72488,18127,9206,8921, 195
+Sachsen,Großenhain,,130.36,01558,18077,8868,9209, 139
+Bayern,Vilshofen an der Donau,,86.29,94474,18061,8995,9066, 209
+Bayern,Freilassing,,14.81,83395,18036,8780,9256,1 218
+Bayern,Bobingen,,50.26,86399,18022,8920,9102, 359
+Bayern,Oberasbach,,12.09,90522,17807,8591,9216,1 473
+Hessen,Nidda,,118.33,63667,17768,8953,8815, 150
+Nordrhein-Westfalen,Werdohl,,33.38,58791,17762,8788,8974, 532
+Baden-Württemberg,Trossingen,,24.2,78647,17744,8953,8791, 733
+Nordrhein-Westfalen,Freudenberg,,54.6,57258,17738,8846,8892, 325
+Baden-Württemberg,Bad Saulgau,,97.34,88348,17724,8770,8954, 182
+Brandenburg,Forst (Lausitz)/Baršć (Łužyca),,110.69,03149,17721,8600,9121, 160
+Niedersachsen,Damme,,104.39,49401,17686,8807,8879, 169
+Bayern,Bad Wörishofen,,57.79,86825,17683,8556,9127, 306
+Saarland,Bexbach,,31.09,66450,17663,8675,8988, 568
+Baden-Württemberg,Bad Säckingen,,25.35,79713,17637,8443,9194, 696
+Niedersachsen,Diepholz,,104.7,49356,17608,8627,8981, 168
+Bayern,Cham,,80.69,93413,17593,8840,8753, 218
+Hessen,Babenhausen,,66.85,64832,17579,8744,8835, 263
+Bayern,Garching b.München,,28.17,85748,17577,9060,8517, 624
+Nordrhein-Westfalen,Bad Münstereifel,,150.83,53902,17568,8486,9082, 116
+Sachsen,Auerbach/Vogtl.,,55.52,08209,17562,8464,9098, 316
+Niedersachsen,Bad Münder am Deister,,107.97,31848,17511,8606,8905, 162
+Hessen,Bad Wildungen,,120.1,34537,17473,8597,8876, 145
+Nordrhein-Westfalen,Gescher,Glockenstadt,80.84,48712,17467,8809,8658, 216
+Rheinland-Pfalz,Bitburg,,47.55,54634,17465,8775,8690, 367
+Baden-Württemberg,Stockach,,69.73,78333,17402,8571,8831, 250
+Rheinland-Pfalz,Sinzig,,41.1,53489,17399,8492,8907, 423
+Rheinland-Pfalz,Remagen,,33.21,53424,17387,8606,8781, 524
+Schleswig-Holstein,Schwarzenbek,,11.65,21493,17370,8537,8833,1 491
+Hessen,Kelsterbach,,15.41,65451,17365,8956,8409,1 127
+Thüringen,Bad Langensalza,,129.37,99947,17338,8444,8894, 134
+Nordrhein-Westfalen,Horn-Bad Meinberg,,90.15,32805,17329,8459,8870, 192
+Schleswig-Holstein,Eutin,,41.38,23701,17296,8169,9127, 418
+Nordrhein-Westfalen,Oerlinghausen,,32.69,33813,17287,8417,8870, 529
+Thüringen,Heilbad Heiligenstadt,,70.87,37308,17260,8588,8672, 244
+Bayern,Marktredwitz,GKSt,49.52,95615,17254,8339,8915, 348
+Bayern,Gunzenhausen,,82.72,91710,17237,8340,8897, 208
+Rheinland-Pfalz,Bendorf,,24.12,56170,17208,8521,8687, 713
+Hessen,Ginsheim-Gustavsburg,,13.94,65462,17143,8504,8639,1 230
+Hessen,Hünfeld,Konrad-Zuse-Stadt,119.75,36088,17130,8722,8408, 143
+Bayern,Kelheim,,100.23,93309,17094,8548,8546, 171
+Hessen,Eltville am Rhein,,46.77,65343,17040,8257,8783, 364
+Brandenburg,Wittenberge,,50.63,19322,16982,8285,8697, 335
+Hessen,Bürstadt,,34.46,68642,16980,8417,8563, 493
+Bayern,Kronach,,66.98,96317,16924,8330,8594, 253
+Bayern,Penzberg,,25.73,82377,16909,8284,8625, 657
+Nordrhein-Westfalen,Bad Lippspringe,,51.01,33175,16884,8191,8693, 331
+Sachsen,Kamenz / Kamjenc,,98.3,01917,16861,8366,8495, 172
+Hessen,Königstein im Taunus,,25.05,61462,16831,8036,8795, 672
+Baden-Württemberg,Brackenheim,,45.75,74336,16795,8537,8258, 367
+Niedersachsen,Bassum,,168.85,27211,16794,8372,8422, 99
+Hessen,Reinheim,,27.7,64354,16729,8253,8476, 604
+Sachsen-Anhalt,Thale,,137.94,06502,16721,8216,8505, 121
+Sachsen,Wurzen,,69,04808,16715,8056,8659, 242
+Sachsen,Heidenau,,11.07,01809,16667,8165,8502,1 506
+Baden-Württemberg,Blaustein,,55.61,89134,16606,8425,8181, 299
+Hessen,Kirchhain,,90.95,35274,16578,8177,8401, 182
+Hessen,Raunheim,,12.6,65479,16564,8409,8155,1 315
+Nordrhein-Westfalen,Straelen,,74,47638,16544,8262,8282, 224
+Bayern,Pocking,,68.86,94060,16509,8077,8432, 240
+Nordrhein-Westfalen,Erwitte,,89.41,59597,16484,8110,8374, 184
+Baden-Württemberg,Künzelsau,,75.18,74653,16436,8339,8097, 219
+Sachsen,Marienberg,,133.49,09496,16420,8172,8248, 123
+Saarland,Sulzbach/ Saar,,16.07,66280,16368,8066,8302,1 019
+Niedersachsen,Bad Bentheim,,99.99,48455,16321,8112,8209, 163
+Schleswig-Holstein,Bargteheide,,15.82,22941,16320,7825,8495,1 032
+Nordrhein-Westfalen,Kierspe,,71.91,58566,16320,8006,8314, 227
+Nordrhein-Westfalen,Altena,,44.42,58762,16315,8081,8234, 367
+Nordrhein-Westfalen,Brakel,,173.92,33034,16310,8152,8158, 94
+Nordrhein-Westfalen,Halver,,77.23,58553,16284,8012,8272, 211
+Baden-Württemberg,Freiberg am Neckar,,13.14,71691,16227,7941,8286,1 235
+Bayern,Mindelheim,,56.42,87719,16226,8170,8056, 288
+Brandenburg,Guben,,43.99,03172,16210,7712,8498, 368
+Hessen,Alsfeld,,129.71,36304,16205,8035,8170, 125
+Sachsen,Eilenburg,,46.85,04838,16201,7798,8403, 346
+Schleswig-Holstein,Preetz,,14.4,24211,16186,7675,8511,1 124
+Hessen,Erlensee,,18.58,63526,16162,8139,8023, 870
+Baden-Württemberg,Wendlingen am Neckar,,12.15,73240,16159,7997,8162,1 330
+Sachsen,Markranstädt,,58.46,04420,16145,7911,8234, 276
+Hessen,Schlüchtern,,113.3,36381,16126,8020,8106, 142
+Bayern,Füssen,,43.5,87629,16072,7613,8459, 369
+Baden-Württemberg,Marbach am Neckar,,18.06,71672,16010,7870,8140, 886
+Baden-Württemberg,Breisach am Rhein,,54.59,79206,16007,7900,8107, 293
+Baden-Württemberg,Walldorf,,19.91,69190,15995,7891,8104, 803
+Hessen,Bad Arolsen,,126.47,34454,15984,7925,8059, 126
+Hessen,Michelstadt,,86.98,64720,15975,7893,8082, 184
+Niedersachsen,Weener,,81.23,26826,15916,7934,7982, 196
+Thüringen,Zeulenroda-Triebes,,135.14,07937,15890,7719,8171, 118
+Nordrhein-Westfalen,Drensteinfurt,,106.6,48317,15865,7816,8049, 149
+Brandenburg,Finsterwalde,,77.52,03238,15864,7609,8255, 205
+Niedersachsen,Königslutter am Elm,,131.13,38154,15860,7853,8007, 121
+Saarland,Wadern,,111.22,66687,15860,7919,7941, 143
+Nordrhein-Westfalen,Rahden,,137.48,32369,15859,8007,7852, 115
+Baden-Württemberg,Langenau,,75.03,89129,15792,7981,7811, 210
+Brandenburg,Lübbenau/Spreewald / Lubnjow/Błota,,139.51,03222,15774,7711,8063, 113
+Baden-Württemberg,Ebersbach an der Fils,,26.26,73061,15768,7800,7968, 600
+Sachsen,Taucha,,33.22,04425,15759,7617,8142, 474
+Schleswig-Holstein,Neustadt in Holstein,,19.73,23730,15749,7421,8328, 798
+Bayern,Altdorf b.Nürnberg,,48.59,90518,15746,7838,7908, 324
+Sachsen,Schwarzenberg/Erzgeb.,,46.31,08340,15740,7560,8180, 340
+Mecklenburg-Vorpommern,Ribnitz-Damgarten,Bernsteinstadt,122.83,18311,15729,7433,8296, 128
+Hessen,Dieburg,,23.08,64807,15723,7682,8041, 681
+Bayern,Bad Neustadt a.d.Saale,,36.9,97616,15720,7682,8038, 426
+Hessen,Hofgeismar,,86.37,34369,15626,7612,8014, 181
+Bayern,Stadtbergen,,11.49,86391,15614,7663,7951,1 359
+Brandenburg,Templin,,379.59,17268,15604,7494,8110, 41
+Rheinland-Pfalz,Boppard,,74.88,56154,15593,7615,7978, 208
+Hessen,Schwalbach am Taunus,,6.47,65824,15566,7554,8012,2 406
+Baden-Württemberg,Eppelheim,,5.7,69214,15543,7676,7867,2 727
+Bayern,Mainburg,,61.54,84048,15517,7853,7664, 252
+Schleswig-Holstein,Bad Bramstedt,,24.14,24576,15451,7527,7924, 640
+Niedersachsen,Clausthal-Zellerfeld,Berg- und Universitätsstadt,43.69,38678,15436,8637,6799, 353
+Nordrhein-Westfalen,Blomberg,,99.1,32825,15417,7757,7660, 156
+Niedersachsen,Munster,,194.52,29633,15413,7891,7522, 79
+Bayern,Lohr a.Main,,90.42,97816,15353,7671,7682, 170
+Niedersachsen,Gehrden,,43.27,30989,15329,7333,7996, 354
+Hessen,Ober-Ramstadt,,41.88,64372,15313,7563,7750, 366
+Baden-Württemberg,Schriesheim,,31.61,69198,15309,7498,7811, 484
+Bayern,Dorfen,,99.56,84405,15197,7560,7637, 153
+Baden-Württemberg,Isny im Allgäu,,85.39,88316,15190,7647,7543, 178
+Niedersachsen,Brake (Unterweser),,38.3,26919,15102,7393,7709, 394
+Hessen,Fritzlar,Dom- und Kaiserstadt,88.81,34560,15101,7438,7663, 170
+Baden-Württemberg,Markgröningen,,28.17,71706,15099,7570,7529, 536
+Hessen,Witzenhausen,,126.78,37213,15097,7392,7705, 119
+Hessen,Usingen,,55.81,61250,15095,7384,7711, 270
+Bayern,Neustadt b.Coburg,GKSt,61.89,96465,15089,7465,7624, 244
+Sachsen-Anhalt,Landsberg,,125.99,06188,15088,7521,7567, 120
+Baden-Württemberg,Bad Wurzach,,182.24,88410,15083,7682,7401, 83
+Bayern,Karlstadt,,98.15,97753,15062,7443,7619, 153
+Sachsen,Weißwasser/O.L.,Běła Woda,63.43,02943,14992,7152,7840, 236
+Niedersachsen,Langelsheim,,108.76,38685,14960,7434,7526, 138
+Bayern,Neustadt a.d.Donau,,93.53,93333,14949,7651,7298, 160
+Bayern,Schwabmünchen,,55.5,86830,14926,7313,7613, 269
+Niedersachsen,Jever,,42.24,26441,14913,7033,7880, 353
+Baden-Württemberg,Münsingen,,116.93,72525,14860,7347,7513, 127
+Bayern,Stein,,19.51,90547,14851,7083,7768, 761
+Nordrhein-Westfalen,Hückeswagen,Schloss-Stadt,50.52,42499,14770,7420,7350, 292
+Baden-Württemberg,Uhingen,,24.79,73066,14753,7282,7471, 595
+Bayern,Selb,GKSt,86.07,95100,14727,7157,7570, 171
+Nordrhein-Westfalen,Hilchenbach,,81.12,57271,14714,7296,7418, 181
+Hessen,Homberg (Efze),"Reformationsstadt, Kreisstadt",100.11,34576,14712,7456,7256, 147
+Bayern,Abensberg,,60.26,93326,14685,7551,7134, 244
+Baden-Württemberg,Oberndorf am Neckar,,55.92,78727,14684,7335,7349, 263
+Niedersachsen,Pattensen,,67.12,30982,14678,7128,7550, 219
+Rheinland-Pfalz,Montabaur,,33.77,56410,14677,7138,7539, 435
+Baden-Württemberg,Kraichtal,,80.59,76703,14635,7261,7374, 182
+Hessen,Langenselbold,,26.23,63505,14630,7162,7468, 558
+Bayern,Immenstadt i.Allgäu,,81.44,87509,14622,7045,7577, 180
+Bayern,Neutraubling,,9.75,93073,14614,7275,7339,1 499
+Sachsen,Wilsdruff,,81.6,01723,14613,7211,7402, 179
+Schleswig-Holstein,Tornesch,,20.61,25436,14606,7129,7477, 709
+Baden-Württemberg,Lauda-Königshofen,,94.44,97922,14596,7264,7332, 155
+Baden-Württemberg,Plochingen,,10.64,73207,14590,7267,7323,1 371
+Nordrhein-Westfalen,Sassenberg,,78.08,48336,14566,7396,7170, 187
+Schleswig-Holstein,Ratzeburg,,30.29,23909,14552,6889,7663, 480
+Bayern,Burglengenfeld,,93.26,93133,14527,7170,7357, 156
+Saarland,Ottweiler,,45.56,66564,14522,7294,7228, 319
+Baden-Württemberg,Eberbach,,81.15,69412,14489,7066,7423, 179
+Nordrhein-Westfalen,Olsberg,,118,59939,14481,7167,7314, 123
+Bayern,Eggenfelden,,44.35,84307,14439,7157,7282, 326
+Baden-Württemberg,Gernsbach,,82.03,76593,14438,7181,7257, 176
+Baden-Württemberg,Markdorf,,40.91,88677,14406,7161,7245, 352
+Bayern,Landau a.d.Isar,,84.4,94405,14402,7290,7112, 171
+Sachsen-Anhalt,Sandersdorf-Brehna,,82.16,06792,14398,6946,7452, 175
+Nordrhein-Westfalen,Spenge,,40.35,32139,14389,7075,7314, 357
+Sachsen,Löbau,,78.9,02708,14389,6970,7419, 182
+Niedersachsen,Zeven,,74.13,27404,14376,7282,7094, 194
+Hessen,Neu-Anspach,,36.12,61267,14359,7033,7326, 398
+Bayern,Grafing b.München,,29.58,85567,14348,7066,7282, 485
+Hessen,Lich,,77.61,35423,14310,6988,7322, 184
+Baden-Württemberg,Murrhardt,,71.15,71540,14248,7080,7168, 200
+Hessen,Bad Camberg,,54.6,65520,14229,6928,7301, 261
+Nordrhein-Westfalen,Kalkar,,88.2,47546,14199,7090,7109, 161
+Sachsen,Mittweida,Hochschulstadt,41.26,09648,14198,7081,7117, 344
+Sachsen,Dippoldiswalde,,103.99,01744,14174,6982,7192, 136
+Sachsen-Anhalt,Leuna,,88.12,06237,14174,7077,7097, 161
+Rheinland-Pfalz,Grünstadt,,18.09,67269,14169,6972,7197, 783
+Niedersachsen,Uslar,,113.59,37170,14166,7012,7154, 125
+Bayern,Vöhringen,,23.69,89269,14134,6955,7179, 597
+Bayern,Buchloe,,36.18,86807,14119,7021,7098, 390
+Hessen,Melsungen,,63.09,34212,14107,7039,7068, 224
+Hessen,Erbach,Kreisstadt,61.52,64711,14099,6886,7213, 229
+Sachsen,Oschatz,,55.44,04758,14089,6895,7194, 254
+Hessen,Lorsch,Karolingerstadt,25.24,64653,14088,6853,7235, 558
+Bayern,Weißenhorn,,53.72,89264,14088,7099,6989, 262
+Baden-Württemberg,Erbach,,63.29,89155,14080,7082,6998, 222
+Bayern,Höchstadt a.d.Aisch,,70.87,91315,14063,6993,7070, 198
+Hessen,Aßlar,,43.57,35614,14043,6962,7081, 322
+Schleswig-Holstein,Schwentinental,,17.81,24223,14032,6737,7295, 788
+Sachsen,Schneeberg,,23.35,08289,14028,7019,7009, 601
+Hessen,Rotenburg a. d. Fulda,,79.97,36199,14020,6900,7120, 175
+Brandenburg,Wittstock/Dosse,,420.21,16909,13994,6922,7072, 33
+Baden-Württemberg,Ettenheim,,48.8,77955,13985,6898,7087, 287
+Bayern,Haßfurt,,52.66,97437,13982,6956,7026, 266
+Brandenburg,Lübben (Spreewald) / Lubin (Błota),,120.85,15907,13967,6667,7300, 116
+Sachsen-Anhalt,Jessen (Elster),,353.93,06917,13966,6963,7003, 39
+Hessen,Bad Soden-Salmünster,,58.59,63628,13960,6915,7045, 238
+Bayern,Hilpoltstein,,89.72,91161,13953,7079,6874, 156
+Brandenburg,Lauchhammer,,89.3,01979,13951,6805,7146, 156
+Niedersachsen,Quakenbrück,,17.96,49610,13947,6871,7076, 777
+Bayern,Krumbach (Schwaben),,44.64,86381,13940,6838,7102, 312
+Hessen,Grünberg,,89.22,35305,13940,6818,7122, 156
+Sachsen,Hohenstein-Ernstthal,,18.58,09337,13937,6725,7212, 750
+Hessen,Solms,,34.02,35606,13921,6945,6976, 409
+Baden-Württemberg,Philippsburg,,50.54,76661,13910,7099,6811, 275
+Hessen,Bebra,,93.71,36179,13908,6843,7065, 148
+Hessen,Lauterbach (Hessen),Kreisstadt,101.98,36341,13883,6772,7111, 136
+Bayern,Eichstätt,GKSt,47.79,85072,13867,6675,7192, 290
+Sachsen,Frankenberg/Sa.,Garnisonsstadt,65.62,09669,13862,6836,7026, 211
+Baden-Württemberg,Holzgerlingen,,13.39,71088,13841,6805,7036,1 034
+Baden-Württemberg,Asperg,,5.8,71679,13836,6864,6972,2 386
+Niedersachsen,Löningen,,143.52,49624,13823,6863,6960, 96
+Sachsen,Meerane,,19.81,08393,13797,6725,7072, 696
+Baden-Württemberg,Spaichingen,,18.5,78549,13795,6924,6871, 746
+Brandenburg,Beelitz,,181.31,14547,13794,6917,6877, 76
+Baden-Württemberg,Bad Dürrheim,,62.08,78073,13793,6659,7134, 222
+Brandenburg,Angermünde,,324.24,16278,13775,6618,7157, 42
+Nordrhein-Westfalen,Sendenhorst,,96.95,48324,13760,6787,6973, 142
+Bayern,Pegnitz,,99.98,91257,13741,6861,6880, 137
+Hessen,Biedenkopf,,90.31,35216,13717,6855,6862, 152
+Bayern,Pfarrkirchen,,52.35,84347,13694,6822,6872, 262
+Sachsen-Anhalt,Wanzleben-Börde,,188.44,39164,13669,6816,6853, 73
+Niedersachsen,Haselünne,,159.43,49740,13663,6737,6926, 86
+Baden-Württemberg,Pfullendorf,,90.5,88630,13654,6728,6926, 151
+Mecklenburg-Vorpommern,Bergen auf Rügen,,51.49,18528,13650,6544,7106, 265
+Sachsen-Anhalt,Genthin,,232.69,39307,13646,6704,6942, 59
+Hessen,Eppstein,,24.19,65817,13645,6651,6994, 564
+Hessen,Linden,,22.77,35440,13631,6776,6855, 599
+Baden-Württemberg,Neckargemünd,,26.16,69151,13629,6676,6953, 521
+Baden-Württemberg,Tauberbischofsheim,,69.29,97941,13621,6766,6855, 197
+Niedersachsen,Wiesmoor,,82.94,26639,13610,6579,7031, 164
+Thüringen,Schmölln,,94.53,04626,13607,6675,6932, 144
+Bayern,Neustadt a.d.Aisch,,61.21,91413,13523,6570,6953, 221
+Niedersachsen,Bad Salzdetfurth,,67.18,31162,13523,6618,6905, 201
+Niedersachsen,Bergen,,164.39,29303,13520,6674,6846, 82
+Nordrhein-Westfalen,Bad Laasphe,,135.95,57334,13504,6809,6695, 99
+Sachsen-Anhalt,Hettstedt,,37.03,06333,13498,6641,6857, 365
+Sachsen-Anhalt,Oebisfelde-Weferlingen,,249.96,39646,13479,6771,6708, 54
+Niedersachsen,Dinklage,,72.8,49413,13468,6702,6766, 185
+Baden-Württemberg,Weinsberg,,22.22,74189,13468,6769,6699, 606
+Niedersachsen,Sulingen,,110.83,27232,13430,6636,6794, 121
+Hessen,Wolfhagen,Hans-Staden-Stadt,112.29,34466,13411,6665,6746, 119
+Hessen,Weilburg,,57.51,35781,13395,6731,6664, 233
+Niedersachsen,Schüttorf,,19.45,48465,13387,6738,6649, 688
+Nordrhein-Westfalen,Velen,,70.75,46342,13381,6758,6623, 189
+Baden-Württemberg,Östringen,,53.28,76684,13299,6799,6500, 250
+Nordrhein-Westfalen,Olfen,,52.43,59399,13298,6406,6892, 254
+Nordrhein-Westfalen,Beverungen,,98.09,37688,13277,6562,6715, 135
+Bayern,Plattling,,35.9,94447,13270,6651,6619, 370
+Brandenburg,Zehdenick,,223.06,16792,13267,6601,6666, 59
+Nordrhein-Westfalen,Schleiden,,121.67,53937,13233,6654,6579, 109
+Bayern,Roding,,119.61,93426,13224,6852,6372, 111
+Schleswig-Holstein,Fehmarn,,185.5,23769,13218,6407,6811, 71
+Baden-Württemberg,St. Georgen im Schwarzwald,,59.85,78112,13203,6544,6659, 221
+Hessen,Rosbach v. d. Höhe,,45.33,61191,13199,6465,6734, 291
+Bayern,Treuchtlingen,,103.38,91757,13181,6739,6442, 128
+Baden-Württemberg,Herbrechtingen,,58.63,89542,13179,6530,6649, 225
+Bayern,Altötting,,23.07,84503,13172,6283,6889, 571
+Baden-Württemberg,Wehr,,35.64,79664,13113,6430,6683, 368
+Bayern,Wasserburg a.Inn,,18.8,83512,13112,6603,6509, 697
+Mecklenburg-Vorpommern,Bad Doberan,,32.85,18209,13105,6217,6888, 399
+Hessen,Hadamar,,40.99,65589,13093,6699,6394, 319
+Hessen,Wächtersbach,,50.79,63607,13061,6514,6547, 257
+Nordrhein-Westfalen,Linnich,,65.43,52441,13056,6488,6568, 200
+Hessen,Hungen,,86.78,35410,13033,6430,6603, 150
+Sachsen-Anhalt,Südliches Anhalt,,193.41,06369,13004,6546,6458, 67
+Niedersachsen,Twistringen,,114.38,27239,12952,6545,6407, 113
+Bayern,Rödental,,49.97,96472,12947,6393,6554, 259
+Baden-Württemberg,Besigheim,,16.83,74354,12923,6482,6441, 768
+Sachsen-Anhalt,Möckern,,527.78,39291,12885,6532,6353, 24
+Bayern,Feuchtwangen,,137.21,91555,12875,6476,6399, 94
+Hessen,Hessisch Lichtenau,,105.72,37235,12798,6501,6297, 121
+Nordrhein-Westfalen,Winterberg,,147.95,59955,12792,6432,6360, 86
+Niedersachsen,Herzberg am Harz,,71.88,37412,12783,6278,6505, 178
+Bayern,Hersbruck,,22.9,91217,12772,6227,6545, 558
+Bayern,Schongau,,21.34,86956,12769,6298,6471, 598
+Bayern,Bad Windsheim,,78.24,91438,12766,6221,6545, 163
+Baden-Württemberg,Sulz am Neckar,,87.62,72172,12760,6401,6359, 146
+Baden-Württemberg,Bad Urach,,55.42,72574,12755,6340,6415, 230
+Brandenburg,Velten,,23.42,16727,12733,6274,6459, 544
+Baden-Württemberg,Tamm,,8.78,71732,12726,6390,6336,1 449
+Baden-Württemberg,Ladenburg,,19,68526,12704,6144,6560, 669
+Brandenburg,Jüterbog,,176.48,14913,12661,6116,6545, 72
+Baden-Württemberg,Blaubeuren,,79.11,89143,12657,6412,6245, 160
+Schleswig-Holstein,Brunsbüttel,,65.21,25541,12651,6396,6255, 194
+Nordrhein-Westfalen,Steinheim,,75.69,32839,12643,6208,6435, 167
+Bayern,Vilsbiburg,,68.84,84137,12621,6312,6309, 183
+Hessen,Gladenbach,,72.28,35075,12594,6309,6285, 174
+Bayern,Röthenbach a.d.Pegnitz,,14.29,90552,12565,6085,6480, 879
+Hessen,Borken (Hessen),,82.46,34582,12565,6311,6254, 152
+Nordrhein-Westfalen,Bad Wünnenberg,,161.3,33181,12546,6283,6263, 78
+Bayern,Ebersberg,,40.84,85560,12527,6161,6366, 307
+Baden-Württemberg,Neuenburg am Rhein,,44.1,79395,12520,6255,6265, 284
+Thüringen,Waltershausen,,60.62,99880,12512,6201,6311, 206
+Nordrhein-Westfalen,Preußisch Oldendorf,,68.76,32361,12456,6137,6319, 181
+Baden-Württemberg,Laichingen,,69.83,89150,12447,6332,6115, 178
+Thüringen,Zella-Mehlis,,52.99,98544,12445,6126,6319, 235
+Baden-Württemberg,Wernau (Neckar),,10.89,73249,12443,6178,6265,1 143
+Mecklenburg-Vorpommern,Ludwigslust,,78.64,19288,12420,5974,6446, 158
+Baden-Württemberg,Titisee-Neustadt,,89.64,79822,12395,6113,6282, 138
+Mecklenburg-Vorpommern,Anklam,Hansestadt,56.68,17389,12363,5822,6541, 218
+Baden-Württemberg,Gaildorf,,62.59,74405,12361,6131,6230, 197
+Mecklenburg-Vorpommern,Hagenow,,67.54,19230,12344,6135,6209, 183
+Brandenburg,Bad Freienwalde (Oder),,131.11,16259,12296,6018,6278, 94
+Bayern,Maxhütte-Haidhof,,34.69,93142,12278,6177,6101, 354
+Bayern,Dinkelsbühl,GKSt,75.16,91550,12272,6014,6258, 163
+Baden-Württemberg,Burladingen,,123.3,72393,12263,6099,6164, 99
+Bayern,Osterhofen,,111.16,94486,12237,6116,6121, 110
+Sachsen,Frohburg,,145.29,04654,12186,6006,6180, 84
+Niedersachsen,Bad Fallingbostel,,64.02,29683,12119,6014,6105, 189
+Bayern,Miesbach,,32.44,83714,12109,5993,6116, 373
+Mecklenburg-Vorpommern,Wolgast,,61.73,17438,12092,5964,6128, 196
+Baden-Württemberg,Steinheim an der Murr,,23.18,71711,12082,5959,6123, 521
+Brandenburg,Perleberg,,138.69,19348,12026,5891,6135, 87
+Brandenburg,Erkner,,16.53,15537,12008,5695,6313, 726
+Schleswig-Holstein,Lauenburg/ Elbe,,9.56,21481,11999,5974,6025,1 255
+Baden-Württemberg,Oberderdingen,,33.57,75038,11956,5885,6071, 356
+Sachsen,Neustadt in Sachsen,,83.12,01844,11929,5753,6176, 144
+Nordrhein-Westfalen,Monschau,,94.6,52156,11895,5867,6028, 126
+Baden-Württemberg,Hemsbach,,12.85,69502,11884,5799,6085, 925
+Baden-Württemberg,Lauffen am Neckar,,22.63,74348,11863,5901,5962, 524
+Thüringen,Pößneck,,24.43,07381,11858,5699,6159, 485
+Nordrhein-Westfalen,Neuenrade,,54.1,58809,11835,5866,5969, 219
+Sachsen-Anhalt,Bad Dürrenberg,Solestadt,36.26,06231,11801,5774,6027, 325
+Nordrhein-Westfalen,Billerbeck,,91.36,48727,11790,5892,5898, 129
+Sachsen-Anhalt,Wolmirstedt,,54.38,39326,11782,5669,6113, 217
+Hessen,Geisenheim,Hochschulstadt,40.34,65366,11776,5779,5997, 292
+Bayern,Hauzenberg,,82.79,94051,11775,5816,5959, 142
+Baden-Württemberg,Leingarten,,23.47,74211,11772,5833,5939, 502
+Hessen,Oestrich-Winkel,,59.51,65375,11769,5733,6036, 198
+Nordrhein-Westfalen,Drolshagen,,67.11,57489,11766,5956,5810, 175
+Baden-Württemberg,Walldürn,,105.91,74731,11760,5978,5782, 111
+Bayern,Lindenberg i.Allgäu,,11.84,88161,11741,5802,5939, 992
+Brandenburg,Pritzwalk,,167.32,16928,11736,5770,5966, 70
+Bayern,Geisenfeld,,88.3,85290,11729,6129,5600, 133
+Baden-Württemberg,Schwaigern,,49.49,74193,11726,5910,5816, 237
+Bayern,Marktheidenfeld,,35.7,97828,11724,5872,5852, 328
+Sachsen,Zwönitz,,64.24,08297,11702,5656,6046, 182
+Baden-Württemberg,Bopfingen,,76.96,73441,11696,5771,5925, 152
+Thüringen,Hildburghausen,,72.89,98646,11682,5799,5883, 160
+Niedersachsen,Bad Nenndorf,,23.22,31542,11629,5618,6011, 501
+Hessen,Bad Schwalbach,Kreisstadt,40.27,65307,11602,5723,5879, 288
+Sachsen-Anhalt,Coswig (Anhalt),,296.82,06869,11468,5755,5713, 39
+Bayern,Trostberg,,51.55,83308,11463,5613,5850, 222
+Bayern,Lauingen (Donau),,44.39,89415,11445,5770,5675, 258
+Bayern,Ochsenfurt,,63.57,97199,11434,5708,5726, 180
+Baden-Württemberg,Engen,,70.56,78234,11431,5701,5730, 162
+Sachsen,Ebersbach-Neugersdorf,,20.45,02730,11421,5471,5950, 558
+Rheinland-Pfalz,Diez,,12.41,65582,11388,5923,5465, 918
+Niedersachsen,Wittingen,,225.83,29378,11388,5715,5673, 50
+Bayern,Rothenburg ob der Tauber,GKSt,41.67,91541,11385,5476,5909, 273
+Sachsen-Anhalt,Gräfenhainichen,,159.92,06773,11380,5510,5870, 71
+Baden-Württemberg,Welzheim,,37.99,73642,11378,5553,5825, 299
+Baden-Württemberg,Rheinau,,73.5,77866,11365,5730,5635, 155
+Rheinland-Pfalz,Mülheim-Kärlich,,16.42,56218,11321,5583,5738, 689
+Baden-Württemberg,Riedlingen,,64.96,88499,11271,5814,5457, 174
+Nordrhein-Westfalen,Isselburg,,42.8,46419,11260,5672,5588, 263
+Baden-Württemberg,Herbolzheim,,35.48,79336,11242,5668,5574, 317
+Bayern,Waldkirchen,,80.01,94065,11221,5560,5661, 140
+Brandenburg,Bad Belzig,,236.09,14806,11216,5456,5760, 48
+Thüringen,Eisenberg,,24.67,07607,11196,5441,5755, 454
+Baden-Württemberg,Rutesheim,,16.22,71277,11194,5531,5663, 690
+Nordrhein-Westfalen,Werther (Westf.),,35.42,33824,11193,5498,5695, 316
+Hessen,Braunfels,,47.28,35619,11167,5374,5793, 236
+Niedersachsen,Schöningen,,35.47,38364,11167,5434,5733, 315
+Nordrhein-Westfalen,Balve,,74.81,58802,11108,5535,5573, 148
+Baden-Württemberg,Meßstetten,,76.8,72469,11086,5679,5407, 144
+Baden-Württemberg,Kenzingen,,36.93,79341,11071,5489,5582, 300
+Nordrhein-Westfalen,Rüthen,,158.15,59602,11049,5699,5350, 70
+Baden-Württemberg,Haigerloch,,76.44,72401,11044,5518,5526, 144
+Sachsen,Stollberg/Erzgeb.,,38.99,09366,11033,5272,5761, 283
+Baden-Württemberg,Lorch,,34.28,73547,11032,5550,5482, 322
+Baden-Württemberg,Donzdorf,,39.82,73072,11031,5535,5496, 277
+Bayern,Regen,,65.14,94209,11009,5489,5520, 169
+Hessen,Gernsheim,Schöfferstadt,40.11,64579,11006,5482,5524, 274
+Brandenburg,Wildau,,9.11,15745,10994,5429,5565,1 207
+Schleswig-Holstein,Glückstadt,,22.75,25348,10987,5437,5550, 483
+Baden-Württemberg,Gengenbach,,61.9,77723,10984,5308,5676, 177
+Baden-Württemberg,Altensteig,,53.19,72213,10983,5598,5385, 206
+Nordrhein-Westfalen,Lichtenau,,192.57,33165,10940,5629,5311, 57
+Bayern,Langenzenn,,46.33,90579,10924,5291,5633, 236
+Sachsen,Oelsnitz/Erzgeb.,,26.28,09376,10883,5282,5601, 414
+Niedersachsen,Gronau (Leine),,88.39,31028,10882,5380,5502, 123
+Mecklenburg-Vorpommern,Boizenburg/ Elbe,,47.42,19258,10881,5388,5493, 229
+Hessen,Steinbach (Taunus),,4.4,61449,10869,5249,5620,2 470
+Sachsen,Lichtenstein/Sa.,,15.47,09350,10853,5200,5653, 702
+Bayern,Hammelburg,,128.88,97762,10826,5354,5472, 84
+Thüringen,Dingelstädt,,107.47,37351,10789,5406,5383, 100
+Sachsen-Anhalt,Osterwieck,,213.11,38835,10768,5459,5309, 51
+Hessen,Bad Orb,,47.75,63619,10759,5164,5595, 225
+Niedersachsen,Dissen am Teutoburger Wald,,31.9,49201,10730,5431,5299, 336
+Baden-Württemberg,Endingen am Kaiserstuhl,,26.7,79346,10708,5307,5401, 401
+Schleswig-Holstein,Barmstedt,,17.17,25355,10683,5223,5460, 622
+Hessen,Felsberg,,83.32,34587,10658,5300,5358, 128
+Bayern,Bad Staffelstein,,99.51,96231,10651,5184,5467, 107
+Niedersachsen,Neuenhaus,,31.37,49828,10650,5345,5305, 339
+Sachsen,Bischofswerda,,46.21,01877,10648,5085,5563, 230
+Bayern,Burgau,,25.92,89331,10628,5386,5242, 410
+Baden-Württemberg,Bad Wildbad,,105.22,75323,10601,5202,5399, 101
+Niedersachsen,Werlte,,63.81,49757,10588,5421,5167, 166
+Niedersachsen,Bad Iburg,,36.47,49186,10574,5087,5487, 290
+Bayern,Simbach a.Inn,,47.33,84359,10521,5166,5355, 222
+Sachsen-Anhalt,Tangerhütte,,297.07,39517,10516,5245,5271, 35
+Hessen,Lollar,,21.39,35457,10509,5183,5326, 491
+Schleswig-Holstein,Büdelsdorf,,6.48,24782,10470,4993,5477,1 616
+Sachsen-Anhalt,Gommern,,161.36,39245,10464,5086,5378, 65
+Thüringen,Schleusingen,,125.59,98553,10449,5158,5291, 83
+Sachsen,Flöha,,27.76,09557,10426,5006,5420, 376
+Baden-Württemberg,Aulendorf,,52.33,88326,10422,5245,5177, 199
+Sachsen-Anhalt,Braunsbedra,,74.64,06242,10413,5229,5184, 140
+Sachsen,Burgstädt,,25.88,09217,10402,5079,5323, 402
+Rheinland-Pfalz,Betzdorf,,9.56,57518,10401,5145,5256,1 088
+Mecklenburg-Vorpommern,Grevesmühlen,,52.38,23936,10398,5035,5363, 199
+Nordrhein-Westfalen,Nideggen,,65.04,52385,10397,5070,5327, 160
+Baden-Württemberg,Weilheim an der Teck,,26.51,73235,10397,5207,5190, 392
+Rheinland-Pfalz,Nieder-Olm,,11.22,55268,10393,5045,5348, 926
+Hessen,Steinau an der Straße,Brüder-Grimm-Stadt,104.86,36396,10381,5158,5223, 99
+Sachsen,Nossen,,122.74,01683,10377,5203,5174, 85
+Baden-Württemberg,Wildberg,,56.68,72218,10372,5271,5101, 183
+Baden-Württemberg,Süßen,,12.79,73079,10366,5130,5236, 810
+Baden-Württemberg,Neuenstadt am Kocher,,41.17,74196,10350,5213,5137, 251
+Bayern,Erlenbach a.Main,,16.31,63906,10335,5173,5162, 634
+Bayern,Bogen,,49.74,94327,10333,5149,5184, 208
+Baden-Württemberg,Blumberg,,98.72,78176,10329,5194,5135, 105
+Sachsen,Olbernhau,,125.34,09526,10307,5079,5228, 82
+Mecklenburg-Vorpommern,Demmin,Hansestadt,82.06,17109,10293,4866,5427, 125
+Bayern,Beilngries,,100.02,92339,10282,5230,5052, 103
+Niedersachsen,Bad Lauterberg im Harz,,41.56,37431,10258,4948,5310, 247
+Sachsen-Anhalt,Querfurt,,156.38,06268,10253,4955,5298, 66
+Sachsen-Anhalt,Tangermünde,,90.45,39590,10228,4895,5333, 113
+Bayern,Münchberg,,68.78,95213,10200,4958,5242, 148
+Niedersachsen,Rehburg-Loccum,,99.97,31547,10188,5152,5036, 102
+Hessen,Rüdesheim am Rhein,,51.41,65385,10180,5070,5110, 198
+Schleswig-Holstein,Niebüll,,30.63,25899,10159,4900,5259, 332
+Thüringen,Bleicherode,,108.17,99752,10151,5095,5056, 94
+Hessen,Oberzent,,165.61,64760,10129,5069,5060, 61
+Baden-Württemberg,Heubach,,25.78,73540,10105,4968,5137, 392
+Brandenburg,Mittenwalde,,99.13,15749,10084,5122,4962, 102
+Thüringen,Meuselwitz,,53.66,04610,10079,4866,5213, 188
+Baden-Württemberg,Mengen,,49.81,88512,10077,5070,5007, 202
+Hessen,Niddatal,,40.25,61194,10059,4969,5090, 250
+Hessen,Gudensberg,,46.49,34281,10059,5005,5054, 216
+Hessen,Schotten,,133.56,63679,10053,5108,4945, 75
+Hessen,Neustadt (Hessen),,56.86,35279,10051,5321,4730, 177
+Schleswig-Holstein,Wahlstedt,,15.75,23812,10050,4866,5184, 638
+Thüringen,Bad Frankenhausen/Kyffhäuser,,91.06,06567,10042,4961,5081, 110
+Baden-Württemberg,Aichtal,,23.6,72631,10031,5042,4989, 425
+Bayern,Gemünden a.Main,,75.06,97737,10012,5008,5004, 133
+Rheinland-Pfalz,Bad Ems,,15.41,56130,10002,4854,5148, 649
+Hessen,Schlitz,,142.06,36110,9987,5009,4978, 70
+Schleswig-Holstein,Oldenburg in Holstein,,39.69,23758,9983,4834,5149, 252
+Niedersachsen,Bad Bevensen,,48.37,29549,9983,4600,5383, 206
+Brandenburg,Trebbin,,126.36,14959,9964,5049,4915, 79
+Saarland,Friedrichsthal,,8.99,66299,9887,4799,5088,1 100
+Sachsen,Oelsnitz/Vogtl.,,53.66,08606,9873,4814,5059, 184
+Hessen,Bad König,,46.73,64732,9857,4763,5094, 211
+Rheinland-Pfalz,Osthofen,,18.62,67574,9833,4856,4977, 528
+Niedersachsen,Fürstenau,,78.64,49584,9833,4832,5001, 125
+Bayern,Heilsbronn,,62.23,91560,9832,4891,4941, 158
+Baden-Württemberg,Bad Liebenzell,,33.78,75378,9829,4838,4991, 291
+Brandenburg,Altlandsberg,,106.6,15345,9799,4828,4971, 92
+Niedersachsen,Bockenem,,109.95,31167,9785,4988,4797, 89
+Mecklenburg-Vorpommern,Pasewalk,,55.21,17309,9785,4656,5129, 177
+Hessen,Laubach,,97.01,35321,9775,4792,4983, 101
+Niedersachsen,Dassel,,113.24,37586,9754,4928,4826, 86
+Niedersachsen,Visselhövede,,159.2,27374,9747,4780,4967, 61
+Sachsen-Anhalt,Wettin-Löbejün,,127.66,06193,9706,4795,4911, 76
+Bayern,Hemau,,122.34,93155,9700,5008,4692, 79
+Niedersachsen,Bleckede,,140.65,21354,9692,4634,5058, 69
+Sachsen,Brandis,,34.89,04821,9689,4792,4897, 278
+Sachsen-Anhalt,Oberharz am Brocken,,271.73,38875,9676,4787,4889, 36
+Sachsen,Großröhrsdorf,,40.95,01900,9672,4765,4907, 236
+Sachsen-Anhalt,Klötze,,279.53,38486,9666,4779,4887, 35
+Rheinland-Pfalz,Bad Breisig,,19.93,53498,9655,4722,4933, 484
+Mecklenburg-Vorpommern,Grimmen,,50.51,18507,9649,4535,5114, 191
+Bayern,Wertingen,,51.88,86637,9625,4805,4820, 186
+Bayern,Miltenberg,,60.25,63897,9622,4695,4927, 160
+Niedersachsen,Lüchow (Wendland),,89.46,29439,9588,4621,4967, 107
+Brandenburg,Luckau,,207.44,15926,9585,4794,4791, 46
+Bayern,Töging a.Inn,,13.65,84513,9560,4705,4855, 700
+Sachsen,Sebnitz,,88.24,01855,9537,4667,4870, 108
+Niedersachsen,Bad Gandersheim,,90.85,37581,9519,4623,4896, 105
+Hessen,Runkel,,43.71,65594,9518,4761,4757, 218
+Bayern,Nittenau,,98.73,93149,9506,4772,4734, 96
+Brandenburg,Storkow (Mark),,180.72,15859,9491,4669,4822, 53
+Sachsen,Zwenkau,,46.3,04442,9479,4666,4813, 205
+Thüringen,Ohrdruf,,113.6,99885,9476,4703,4773, 83
+Bayern,Rain,,77.13,86641,9472,4693,4779, 123
+Sachsen,Wilkau-Haßlau,,12.65,08112,9461,4465,4996, 748
+Brandenburg,Werneuchen,,117.02,16356,9441,4732,4709, 81
+Rheinland-Pfalz,Höhr-Grenzhausen,,15.88,56203,9439,4589,4850, 594
+Sachsen-Anhalt,Ilsenburg (Harz),,63.08,38871,9435,4646,4789, 150
+Sachsen-Anhalt,Osterburg (Altmark),Hansestadt,231.14,39606,9421,4529,4892, 41
+Niedersachsen,Obernkirchen,,32.45,31683,9407,4730,4677, 290
+Bayern,Ichenhausen,,34.27,89335,9403,4788,4615, 274
+Rheinland-Pfalz,Kandel,,26.69,76870,9400,4600,4800, 352
+Nordrhein-Westfalen,Tecklenburg,,70.49,49545,9398,4640,4758, 133
+Sachsen-Anhalt,Hohenmölsen,,75.69,06679,9395,4560,4835, 124
+Schleswig-Holstein,Heiligenhafen,,18.32,23774,9373,4489,4884, 512
+Bayern,Rehau,,80.33,95111,9366,4587,4779, 117
+Bayern,Freystadt,,80.56,92342,9345,4818,4527, 116
+Rheinland-Pfalz,Vallendar,,13.22,56179,9313,4465,4848, 704
+Rheinland-Pfalz,Weißenthurm,,3.99,56575,9306,4788,4518,2 332
+Rheinland-Pfalz,Eisenberg (Pfalz),,18.75,67304,9305,4645,4660, 496
+Baden-Württemberg,Ochsenhausen,,59.96,88416,9301,4767,4534, 155
+Nordrhein-Westfalen,Lügde,Stadt der Osterräder,88.64,32676,9298,4590,4708, 105
+Bayern,Wunsiedel,,54.88,95632,9294,4562,4732, 169
+Bayern,Bad Griesbach i.Rottal,,70.13,94086,9279,4586,4693, 132
+Sachsen-Anhalt,Kemberg,,237.09,06901,9279,4587,4692, 39
+Baden-Württemberg,Bad Schussenried,,55.01,88427,9277,4714,4563, 169
+Thüringen,Steinbach-Hallenberg,,76.73,98587,9273,4571,4702, 121
+Mecklenburg-Vorpommern,Torgelow,,72.19,17358,9269,4552,4717, 128
+Brandenburg,Bad Liebenwerda,,138.88,04924,9253,4513,4740, 67
+Nordrhein-Westfalen,Borgholzhausen,,55.99,33829,9252,4613,4639, 165
+Niedersachsen,Elze,,47.81,31008,9252,4605,4647, 194
+Sachsen,Waldheim,,41.71,04736,9214,4765,4449, 221
+Niedersachsen,Elsfleth,,115.19,26931,9187,4671,4516, 80
+Baden-Württemberg,Laufenburg (Baden),,23.57,79725,9182,4526,4656, 390
+Mecklenburg-Vorpommern,Sassnitz,,47.41,18546,9169,4340,4829, 193
+Sachsen,Niesky,,53.82,02906,9144,4395,4749, 170
+Bayern,Auerbach i.d.OPf.,,78.26,91275,9127,4515,4612, 117
+Nordrhein-Westfalen,Breckerfeld,Hansestadt,59.09,58339,9120,4514,4606, 154
+Brandenburg,Kyritz,,157.38,16866,9114,4422,4692, 58
+Rheinland-Pfalz,Mendig,,23.75,56743,9108,4472,4636, 383
+Sachsen-Anhalt,Zörbig,,114.31,06780,9086,4477,4609, 79
+Bayern,Berching,,131.18,92334,9063,4592,4471, 69
+Bayern,Neuötting,,36.6,84524,9062,4532,4530, 248
+Sachsen-Anhalt,Zahna-Elster,,149.34,06895,9044,4478,4566, 61
+Baden-Württemberg,Furtwangen im Schwarzwald,,82.57,78120,9030,4599,4431, 109
+Schleswig-Holstein,Reinfeld (Holstein),,17.37,23858,9023,4446,4577, 519
+Niedersachsen,Hemmoor,,45.07,21745,9007,4405,4602, 200
+Bayern,Furth im Wald,,67.07,93437,8998,4558,4440, 134
+Sachsen-Anhalt,Bad Lauchstädt,Goethestadt,85.57,06246,8995,4454,4541, 105
+Sachsen,Zschopau,Motorradstadt,22.79,09405,8980,4280,4700, 394
+Bayern,Zwiesel,,41.16,94227,8978,4381,4597, 218
+Thüringen,Neustadt an der Orla,,86.06,07806,8971,4349,4622, 104
+Hessen,Wetter (Hessen),,104.53,35083,8956,4479,4477, 86
+Schleswig-Holstein,Plön,,35.98,24306,8919,4188,4731, 248
+Bayern,Vohburg a.d.Donau,,45.17,85088,8918,4539,4379, 197
+Sachsen,Brand-Erbisdorf,,46.33,09618,8908,4373,4535, 192
+Hessen,Florstadt,,39.6,61197,8902,4370,4532, 225
+Bayern,Hallstadt,,14.6,96103,8888,4391,4497, 609
+Bayern,Obernburg a.Main,,24.82,63785,8884,4393,4491, 358
+Hessen,Ortenberg,,54.7,63683,8872,4393,4479, 162
+Niedersachsen,Bersenbrück,,42.54,49593,8844,4338,4506, 208
+Thüringen,Neuhaus am Rennweg,,108.22,98724,8815,4488,4327, 81
+Sachsen,Naunhof,,39.71,04683,8811,4294,4517, 222
+Baden-Württemberg,Waldenbuch,,22.7,71111,8796,4332,4464, 387
+Bayern,Volkach,,60.19,97332,8789,4430,4359, 146
+Thüringen,Schleiz,,108.21,07907,8788,4459,4329, 81
+Rheinland-Pfalz,Bad Bergzabern,,10.71,76887,8786,4193,4593, 820
+Sachsen-Anhalt,Raguhn-Jeßnitz,,97.83,06779,8782,4268,4514, 90
+Baden-Württemberg,Rauenberg,,11.12,69231,8727,4322,4405, 785
+Baden-Württemberg,Meßkirch,,76.22,88605,8725,4417,4308, 114
+Baden-Württemberg,Möckmühl,,49.6,74219,8713,4472,4241, 176
+Schleswig-Holstein,Kappeln,,43.33,24376,8683,4177,4506, 200
+Sachsen-Anhalt,Ballenstedt,,87.3,06493,8682,4213,4469, 99
+Mecklenburg-Vorpommern,Barth,,41.18,18356,8681,4127,4554, 211
+Brandenburg,Herzberg (Elster),,149.01,04916,8678,4198,4480, 58
+Nordrhein-Westfalen,Borgentreich,Orgelstadt,138.94,34434,8673,4537,4136, 62
+Rheinland-Pfalz,Wissen,,34.88,57537,8648,4276,4372, 248
+Mecklenburg-Vorpommern,Ueckermünde,Seebad,85.87,17373,8638,4175,4463, 101
+Rheinland-Pfalz,Nierstein,,19.34,55283,8631,4234,4397, 446
+Hessen,Staufenberg,,28.58,35460,8630,4283,4347, 302
+Bayern,Rottenburg a.d.Laaber,,90.11,84056,8616,4368,4248, 96
+Baden-Württemberg,Großbottwar,,25.51,71723,8591,4258,4333, 337
+Bayern,Tirschenreuth,,103.95,95643,8580,4162,4418, 83
+Baden-Württemberg,Neuenbürg,,28.15,75305,8566,4310,4256, 304
+Baden-Württemberg,Staufen im Breisgau,,23.32,79219,8553,4045,4508, 367
+Rheinland-Pfalz,Wörrstadt,,16.75,55286,8553,4254,4299, 511
+Bayern,Viechtach,,62.47,94234,8544,4283,4261, 137
+Brandenburg,Doberlug-Kirchhain,,150.36,03253,8536,4357,4179, 57
+Baden-Württemberg,Kuppenheim,,18.08,76456,8534,4204,4330, 472
+Thüringen,Hermsdorf,,7.49,07629,8527,4411,4116,1 138
+Rheinland-Pfalz,Kirn,,16.53,55606,8523,4118,4405, 516
+Nordrhein-Westfalen,Barntrup,,59.46,32683,8522,4231,4291, 143
+Mecklenburg-Vorpommern,Teterow,Bergringstadt,47.07,17166,8459,4150,4309, 180
+Baden-Württemberg,Kandern,,62.26,79400,8456,4127,4329, 136
+Baden-Württemberg,Bönnigheim,,20.13,74357,8447,4154,4293, 420
+Sachsen,Colditz,,84.07,04680,8447,4146,4301, 100
+Rheinland-Pfalz,Kirchen (Sieg),,39.76,57548,8443,4164,4279, 212
+Sachsen,Hainichen,,51.74,09661,8441,4165,4276, 163
+Sachsen-Anhalt,Mücheln (Geiseltal),,99.03,06249,8431,4238,4193, 85
+Bayern,Neunburg vorm Wald,,110.14,92431,8431,4363,4068, 77
+Sachsen-Anhalt,Lützen,,96.93,06686,8422,4180,4242, 87
+Thüringen,Stadtilm,,120.26,99326,8408,4167,4241, 70
+Bayern,Helmbrechts,,58.72,95233,8372,4130,4242, 143
+Hessen,Bad Sooden-Allendorf,,73.75,37242,8370,4170,4200, 113
+Sachsen,Penig,,63.36,09322,8340,4118,4222, 132
+Sachsen,Lauter-Bernsbach,,30.28,08315,8339,4044,4295, 275
+Bayern,Herrieden,,81.66,91567,8325,4183,4142, 102
+Niedersachsen,Dannenberg (Elbe),,76.62,29451,8316,4122,4194, 109
+Schleswig-Holstein,Kellinghusen,,18.81,25548,8313,4128,4185, 442
+Sachsen-Anhalt,Mansfeld,,144.61,06343,8309,4185,4124, 57
+Brandenburg,Premnitz,,46.27,14727,8307,4038,4269, 180
+Rheinland-Pfalz,Landstuhl,Sickingenstadt,15.34,66849,8305,4009,4296, 541
+Brandenburg,Großräschen/Rań,,81.86,01983,8298,4049,4249, 101
+Nordrhein-Westfalen,Willebadessen,,128.41,34439,8297,4216,4081, 65
+Baden-Württemberg,Zell am Harmersbach,,36.41,77736,8295,4074,4221, 228
+Baden-Württemberg,Bad Herrenalb,,33.01,76332,8284,4068,4216, 251
+Baden-Württemberg,Dornstetten,,24.2,72280,8282,4092,4190, 342
+Nordrhein-Westfalen,Schieder-Schwalenberg,,60.04,32816,8276,4098,4178, 138
+Brandenburg,Beeskow,,77.9,15848,8272,3945,4327, 106
+Bayern,Arnstein,,112.1,97450,8272,4162,4110, 74
+Bayern,Grafenau,,63.73,94475,8229,3995,4234, 129
+Rheinland-Pfalz,Daun,,49.02,54550,8220,4047,4173, 168
+Baden-Württemberg,Knittlingen,,26.33,75438,8208,4040,4168, 312
+Sachsen,Bad Lausick,,70.02,04651,8207,3998,4209, 117
+Mecklenburg-Vorpommern,Bützow,,39.85,18246,8191,4173,4018, 206
+Sachsen,Leisnig,,78.09,04703,8177,4052,4125, 105
+Rheinland-Pfalz,Ramstein-Miesenbach,,43.01,66877,8167,4021,4146, 190
+Thüringen,Bad Sulza,,94.1,99518,8161,4038,4123, 87
+Rheinland-Pfalz,Simmern/ Hunsrück,,11.96,55469,8155,3891,4264, 682
+Sachsen-Anhalt,Könnern,,125.78,06420,8115,4095,4020, 65
+Nordrhein-Westfalen,Medebach,Hansestadt,126.05,59964,8108,4089,4019, 64
+Rheinland-Pfalz,Ransbach-Baumbach,,12.15,56235,8108,3943,4165, 667
+Thüringen,Weida,,36.8,07570,8106,3977,4129, 220
+Mecklenburg-Vorpommern,Kühlungsborn,Ostseebad,16.17,18225,8084,3738,4346, 500
+Sachsen-Anhalt,Calbe (Saale),,57.25,39240,8078,3947,4131, 141
+Bayern,Baiersdorf,,11.81,91083,8074,4040,4034, 684
+Baden-Württemberg,Hüfingen,,58.53,78183,8071,4007,4064, 138
+Rheinland-Pfalz,Kirchheimbolanden,,26.36,67292,8067,3888,4179, 306
+Sachsen-Anhalt,Oranienbaum-Wörlitz,,116.07,06785,8065,4135,3930, 69
+Baden-Württemberg,Oberkochen,,23.55,73447,8055,4045,4010, 342
+Sachsen-Anhalt,Bad Schmiedeberg,,161.23,06905,8053,3952,4101, 50
+Sachsen,Lauta,,42.14,02991,8053,3939,4114, 191
+Baden-Württemberg,Neresheim,,118.51,73450,8049,4121,3928, 68
+Bayern,Gundelfingen a.d.Donau,,54.06,89423,8026,4047,3979, 148
+Sachsen-Anhalt,Barby,,154.04,39249,8023,4002,4021, 52
+Rheinland-Pfalz,Schweich,,31.08,54338,8013,3850,4163, 258
+Sachsen,Kirchberg,,39.56,08107,7979,3878,4101, 202
+Brandenburg,Rheinsberg,,328.14,16831,7971,3924,4047, 24
+Sachsen-Anhalt,Teuchern,,81.67,06682,7968,3988,3980, 98
+Bayern,Teublitz,,38.23,93158,7938,3948,3990, 208
+Sachsen-Anhalt,Bismark (Altmark),,290.7,39629,7899,3952,3947, 27
+Sachsen,Altenberg,,145.9,01773,7893,4015,3878, 54
+Baden-Württemberg,Weikersheim,,80.93,97990,7881,3931,3950, 97
+Rheinland-Pfalz,Gerolstein,,64.43,54568,7860,3907,3953, 122
+Sachsen,Bad Düben,,45.8,04849,7859,3690,4169, 172
+Brandenburg,Elsterwerda,,40.5,04910,7847,3838,4009, 194
+Sachsen,Lößnitz,,30.49,08294,7794,3836,3958, 256
+Baden-Württemberg,Löffingen,,88.02,79843,7787,3928,3859, 88
+Sachsen,Lugau/Erzgeb.,,22.29,09385,7771,3770,4001, 349
+Brandenburg,Kremmen,,209.54,16766,7745,3814,3931, 37
+Sachsen,Oederan,,77.33,09569,7706,3798,3908, 100
+Thüringen,Bad Liebenstein,,48.81,36448,7697,3720,3977, 158
+Brandenburg,Calau/Kalawa,,163.49,03205,7695,3791,3904, 47
+Sachsen,Treuen,,43.74,08233,7679,3745,3934, 176
+Sachsen,Klingenthal,,50.44,08248,7669,3701,3968, 152
+Bayern,Parsberg,,57.32,92331,7667,3916,3751, 134
+Bayern,Leipheim,,32.16,89340,7661,3982,3679, 238
+Sachsen,Falkenstein/Vogtl.,,31.06,08223,7654,3629,4025, 246
+Hessen,Sontra,,111.28,36205,7653,3887,3766, 69
+Sachsen-Anhalt,Seeland,,79.06,06469,7651,3806,3845, 97
+Brandenburg,Vetschau/Spreewald / Wětošow/Błota,,111.42,03226,7645,3778,3867, 69
+Niedersachsen,Hardegsen,,84.03,37181,7644,3756,3888, 91
+Bayern,Vohenstrauß,,74.91,92648,7637,3783,3854, 102
+Bayern,Naila,,37.04,95119,7618,3704,3914, 206
+Sachsen,Radeburg,,54.02,01471,7614,3779,3835, 141
+Rheinland-Pfalz,Saarburg,,20.63,54439,7612,3698,3914, 369
+Nordrhein-Westfalen,Horstmar,Stadt der Burgmannshöfe,44.76,48612,7605,4272,3333, 170
+Baden-Württemberg,Elzach,,75.28,79215,7601,3771,3830, 101
+Baden-Württemberg,Bad Wimpfen,,19.38,74206,7575,3714,3861, 391
+Hessen,Breuberg,,30.76,64747,7556,3763,3793, 246
+Bayern,Münnerstadt,,93.11,97702,7556,3813,3743, 81
+Niedersachsen,Otterndorf,,33.55,21762,7555,3553,4002, 225
+Sachsen-Anhalt,Allstedt,,150.47,06542,7550,3787,3763, 50
+Baden-Württemberg,Gundelsheim,,38.44,74831,7550,3799,3751, 196
+Sachsen,Groitzsch,,70.17,04539,7542,3598,3944, 107
+Bayern,Laufen,,35.28,83410,7541,3808,3733, 214
+Rheinland-Pfalz,Oppenheim,,7.1,55276,7535,3651,3884,1 061
+Niedersachsen,Esens,,21.67,26427,7517,3536,3981, 347
+Rheinland-Pfalz,Hermeskeil,,30.89,54411,7511,4100,3411, 243
+Sachsen-Anhalt,Harzgerode,,165.02,06493,7510,3722,3788, 46
+Sachsen,Belgern-Schildau,,158.99,04874,7495,3729,3766, 47
+Bayern,Bad Kötzting,,62.15,93444,7493,3702,3791, 121
+Hessen,Homberg (Ohm),,88.04,35315,7485,3787,3698, 85
+Baden-Württemberg,Renchen,,32.08,77871,7451,3732,3719, 232
+Niedersachsen,Bad Sachsa,,33.2,37441,7428,3565,3863, 224
+Brandenburg,Treuenbrietzen,,212.43,14929,7422,3611,3811, 35
+Thüringen,Bad Berka,,55.32,99438,7385,3562,3823, 133
+Bayern,Ebern,,95.01,96106,7365,3775,3590, 78
+Sachsen,Pockau-Lengefeld,,83.43,09514,7349,3654,3695, 88
+Sachsen-Anhalt,Kalbe (Milde),,273.64,39624,7348,3724,3624, 27
+Thüringen,Eisfeld,,86.52,98673,7344,3666,3678, 85
+Bayern,Scheßlitz,,94.87,96110,7344,3768,3576, 77
+Schleswig-Holstein,Meldorf,,21.26,25704,7318,3518,3800, 344
+Bayern,Greding,,103.73,91171,7309,3766,3543, 70
+Sachsen,Pulsnitz,,26.76,01896,7301,3566,3735, 273
+Sachsen,Roßwein,,44.11,04741,7297,3651,3646, 165
+Hessen,Zwingenberg,,5.66,64673,7284,3582,3702,1 287
+Bayern,Freyung,,48.63,94078,7263,3589,3674, 149
+Hessen,Gedern,,75.24,63688,7250,3675,3575, 96
+Rheinland-Pfalz,Annweiler am Trifels,,39.87,76855,7249,3564,3685, 182
+Baden-Württemberg,Haslach im Kinzigtal,,18.67,77716,7241,3581,3660, 388
+Rheinland-Pfalz,Birkenfeld,,13.64,55765,7236,3686,3550, 530
+Mecklenburg-Vorpommern,Malchin,,109.28,17139,7231,3554,3677, 66
+Bayern,Dettelbach,,60.95,97337,7228,3648,3580, 119
+Sachsen-Anhalt,Aken (Elbe),,59.99,06385,7225,3535,3690, 120
+Thüringen,Roßleben-Wiehe,,73.08,06571,7206,3526,3680, 99
+Rheinland-Pfalz,Bernkastel-Kues,,23.71,54470,7205,3484,3721, 304
+Brandenburg,Wriezen,,95.14,16269,7200,3577,3623, 76
+Hessen,Immenhausen,,28.54,34376,7190,3552,3638, 252
+Schleswig-Holstein,Nortorf,,12.77,24589,7175,3514,3661, 562
+Brandenburg,Müncheberg,,152.29,15374,7135,3629,3506, 47
+Sachsen,Markneukirchen,,69.04,08258,7132,3519,3613, 103
+Thüringen,Friedrichroda,,36.87,99894,7116,3428,3688, 193
+Baden-Württemberg,Ilshofen,,54.87,74532,7115,3615,3500, 130
+Thüringen,Königsee,,103.01,07426,7113,3525,3588, 69
+Bayern,Geiselhöring,,99.68,94333,7093,3612,3481, 71
+Sachsen,Lengenfeld,,46.99,08485,7084,3457,3627, 151
+Bayern,Höchstädt a.d.Donau,,37.45,89420,7073,3477,3596, 189
+Thüringen,Am Ettersberg,,92.44,99439,7070,3526,3544, 76
+Rheinland-Pfalz,Gau-Algesheim,,13.99,55435,7043,3437,3606, 503
+Bayern,Ebermannstadt,,49.95,91320,7041,3507,3534, 141
+Baden-Württemberg,Bonndorf im Schwarzwald,,75.91,79848,7017,3572,3445, 92
+Hessen,Neukirchen,,66.25,34626,7014,3482,3532, 106
+Hessen,Reichelsheim (Wetterau),,27.56,61203,6997,3487,3510, 254
+Hessen,Heringen (Werra),,61.2,36266,6996,3492,3504, 114
+Sachsen,Eibenstock,,112.24,08309,6975,3400,3575, 62
+Mecklenburg-Vorpommern,Neustadt-Glewe,,94.05,19306,6974,3480,3494, 74
+Bayern,Gerolzhofen,,18.39,97447,6966,3444,3522, 379
+Niedersachsen,Moringen,,82.39,37186,6956,3592,3364, 84
+Baden-Württemberg,Schelklingen,,75.87,89601,6952,3598,3354, 92
+Sachsen,Böhlen,,25.27,04564,6931,3425,3506, 274
+Rheinland-Pfalz,Polch,,28.68,56751,6930,3468,3462, 242
+Baden-Württemberg,Dietenheim,,18.75,89165,6922,3460,3462, 369
+Bayern,Vilseck,,64.7,92249,6920,3455,3465, 107
+Bayern,Schwarzenbach a.d.Saale,,59.18,95120,6878,3414,3464, 116
+Rheinland-Pfalz,Edenkoben,,17.89,67480,6838,3451,3387, 382
+Sachsen,Gröditz,,28.94,01609,6834,3428,3406, 236
+Hessen,Volkmarsen,,67.47,34471,6830,3440,3390, 101
+Bayern,Uffenheim,,59.47,97215,6807,3395,3412, 114
+Sachsen,Geithain,,54.71,04643,6797,3321,3476, 124
+Thüringen,Kahla,,7.9,07768,6795,3350,3445, 860
+Bayern,Waldmünchen,,101.17,93449,6781,3402,3379, 67
+Hessen,Waldeck,Nationalparkstadt,115.7,34513,6780,3378,3402, 59
+Rheinland-Pfalz,Rodalben,,15.69,66976,6768,3298,3470, 431
+Brandenburg,Ketzin/Havel,,93.65,14669,6758,3305,3453, 72
+Sachsen-Anhalt,Hecklingen,,95.93,39444,6735,3306,3429, 70
+Sachsen-Anhalt,Gerbstedt,,102.87,06347,6730,3345,3385, 65
+Baden-Württemberg,Neuenstein,,47.86,74632,6722,3390,3332, 140
+Baden-Württemberg,Boxberg,,101.71,97944,6710,3442,3268, 66
+Bayern,Grafenwöhr,,216.21,92655,6710,3241,3469, 31
+Sachsen-Anhalt,Jerichow,,272.03,39319,6708,3402,3306, 25
+Sachsen,Hartha,,54.4,04746,6700,3319,3381, 123
+Baden-Württemberg,Maulbronn,,25.4,75433,6697,3386,3311, 264
+Baden-Württemberg,Osterburken,,47.32,74706,6694,3421,3273, 141
+Thüringen,Stadtroda,,24.18,07646,6684,3239,3445, 276
+Bayern,Bad Brückenau,,23.71,97769,6674,3253,3421, 281
+Sachsen-Anhalt,Arendsee (Altmark),,271.13,39619,6666,3344,3322, 25
+Bayern,Waldsassen,,66.53,95652,6666,3290,3376, 100
+Rheinland-Pfalz,Herdorf,,17.99,57562,6661,3301,3360, 370
+Bayern,Mitterteich,,39.38,95666,6644,3263,3381, 169
+Bayern,Bad Rodach,,77.65,96476,6643,3294,3349, 86
+Thüringen,Buttstädt,,104.8,99628,6638,3346,3292, 63
+Thüringen,Blankenhain,,113.75,99444,6609,3281,3328, 58
+Hessen,Zierenberg,,86.55,34289,6609,3254,3355, 76
+Sachsen,Rötha,,45.41,04571,6605,3474,3131, 145
+Rheinland-Pfalz,Altenkirchen (Westerwald),,10.98,57610,6603,3187,3416, 601
+Baden-Württemberg,Rosenfeld,,51.11,72348,6590,3338,3252, 129
+Sachsen,Pegau,,48.78,04523,6590,3249,3341, 135
+Sachsen,Glashütte,,95.64,01768,6581,3347,3234, 69
+Thüringen,Römhild,,122.45,98630,6571,3331,3240, 54
+Mecklenburg-Vorpommern,Malchow,Inselstadt,44.71,17213,6558,3182,3376, 147
+Mecklenburg-Vorpommern,Laage,,114.9,18299,6555,3272,3283, 57
+Thüringen,Artern,,45.05,06556,6551,3225,3326, 145
+Mecklenburg-Vorpommern,Friedland,,141.79,17098,6550,3217,3333, 46
+Bayern,Neumarkt-Sankt Veit,,61.07,84494,6543,3292,3251, 107
+Bayern,Thannhausen,,20.03,86470,6526,3257,3269, 326
+Niedersachsen,Rodenberg,,15.61,31552,6525,3272,3253, 418
+Baden-Württemberg,Heitersheim,,11.71,79423,6495,3225,3270, 555
+Sachsen-Anhalt,Havelberg,Hansestadt,150.12,39539,6494,3187,3307, 43
+Rheinland-Pfalz,Bad Sobernheim,,54.18,55566,6484,3185,3299, 120
+Thüringen,Kölleda,,89.52,99625,6465,3308,3157, 72
+Bayern,Burgkunstadt,,40.6,96224,6459,3167,3292, 159
+Bayern,Wassertrüdingen,,53.57,91717,6427,3246,3181, 120
+Baden-Württemberg,Beilstein,,25.24,71717,6422,3216,3206, 254
+Mecklenburg-Vorpommern,Wittenburg,,80.08,19243,6418,3225,3193, 80
+Rheinland-Pfalz,Linz am Rhein,,17.98,53545,6417,3098,3319, 357
+Sachsen-Anhalt,Annaburg,,226.59,06925,6403,3187,3216, 28
+Sachsen,Rodewisch,,26.87,08228,6396,3094,3302, 238
+Baden-Württemberg,Neuffen,,17.43,72639,6396,3212,3184, 367
+Baden-Württemberg,Güglingen,,16.27,74363,6391,3221,3170, 393
+Schleswig-Holstein,Glücksburg (Ostsee),,39.68,24960,6381,3058,3323, 161
+Bayern,Nabburg,,62.36,92507,6349,3166,3183, 102
+Baden-Württemberg,Zell im Wiesental,,36.12,79669,6336,3163,3173, 175
+Baden-Württemberg,Geisingen,,73.75,78187,6315,3194,3121, 86
+Bayern,Klingenberg a.Main,,21.13,63911,6310,3128,3182, 299
+Baden-Württemberg,Trochtelfingen,,79.2,72818,6304,3189,3115, 80
+Sachsen,Dohna,,28.59,01809,6303,3154,3149, 220
+Baden-Württemberg,Gammertingen,,52.97,72501,6298,3208,3090, 119
+Rheinland-Pfalz,Bad Marienberg (Westerwald),,9.95,56470,6279,3108,3171, 631
+Sachsen,Bernsdorf,,59.86,02994,6257,3095,3162, 105
+Bayern,Dietfurt a.d.Altmühl,,78.7,92345,6257,3268,2989, 80
+Thüringen,Werra-Suhl-Tal,,77.67,99837,6255,3171,3084, 81
+Sachsen-Anhalt,Arnstein,,122.33,06456,6254,3128,3126, 51
+Bayern,Windsbach,,68.12,91575,6248,3177,3071, 92
+Baden-Württemberg,Alpirsbach,,64.56,72275,6242,3227,3015, 97
+Rheinland-Pfalz,Hachenburg,,21.43,57627,6236,2959,3277, 291
+Bayern,Riedenburg,,100.3,93339,6230,3139,3091, 62
+Hessen,Großalmerode,,37.59,37247,6226,3091,3135, 166
+Baden-Württemberg,Dornhan,,44.91,72175,6219,3098,3121, 138
+Baden-Württemberg,Vogtsburg im Kaiserstuhl,,37.36,79235,6218,3137,3081, 166
+Hessen,Spangenberg,Liebenbachstadt,97.71,34286,6214,3202,3012, 64
+Brandenburg,Falkenberg/Elster,,82.16,04895,6205,3064,3141, 76
+Nordrhein-Westfalen,Nieheim,,79.71,33039,6189,3232,2957, 78
+Bayern,Bad Königshofen i.Grabfeld,,69.51,97631,6176,3018,3158, 89
+Rheinland-Pfalz,Bad Hönningen,,20.09,53557,6173,3021,3152, 307
+Baden-Württemberg,Meersburg,,12.07,88709,6168,2904,3264, 511
+Mecklenburg-Vorpommern,Plau am See,,116.27,19395,6166,3020,3146, 53
+Mecklenburg-Vorpommern,Lübz,,74.69,19386,6146,2946,3200, 82
+Brandenburg,Biesenthal,,60.92,16359,6120,3043,3077, 100
+Bayern,Schlüsselfeld,,70.24,96132,6087,3172,2915, 87
+Baden-Württemberg,Bräunlingen,,62.14,78199,6058,3055,3003, 97
+Rheinland-Pfalz,Kusel,,14.37,66869,6057,3222,2835, 422
+Baden-Württemberg,Haiterbach,,28.92,72221,6029,3055,2974, 208
+Rheinland-Pfalz,Dierdorf,,31.98,56269,6026,3021,3005, 188
+Brandenburg,Gransee,,121.68,16775,6022,2944,3078, 49
+Baden-Württemberg,Geislingen,,31.96,72351,5993,2981,3012, 188
+Thüringen,Bad Blankenburg,,35.62,07422,5992,2990,3002, 168
+Niedersachsen,Norderney,,26.31,26548,5990,2818,3172, 228
+Schleswig-Holstein,Marne,,4.83,25709,5979,2849,3130,1 238
+Sachsen,Schirgiswalde-Kirschau,,24.34,02681,5978,3005,2973, 246
+Bayern,Tittmoning,,72.01,84529,5970,3025,2945, 83
+Sachsen,Thalheim/Erzgeb.,,10.79,09380,5961,2850,3111, 552
+Thüringen,An der Schmücke,,95.29,06577,5953,2991,2962, 62
+Bayern,Neustadt a.d.Waldnaab,,9.93,92660,5950,2912,3038, 599
+Baden-Württemberg,Schrozberg,,105.21,74575,5947,3084,2863, 57
+Hessen,Münzenberg,,31.63,35516,5892,2886,3006, 186
+Sachsen-Anhalt,Nienburg (Saale),,79.57,06429,5892,2958,2934, 74
+Thüringen,Großbreitenbach,,80.76,98701,5882,2960,2922, 73
+Rheinland-Pfalz,Westerburg,,18.48,56457,5868,2851,3017, 318
+Bayern,Wemding,,31.6,86650,5860,2855,3005, 185
+Thüringen,Nottertal-Heilinger Höhen,,75.96,99994,5855,3119,2736, 77
+Hessen,Leun,,28.66,35638,5847,2898,2949, 204
+Schleswig-Holstein,Bredstedt,,9.75,25821,5826,2828,2998, 598
+Baden-Württemberg,Neubulach,,24.69,75387,5815,2865,2950, 236
+Sachsen,Herrnhut,,74.13,02747,5814,2895,2919, 78
+Sachsen,Oberlungwitz,,14.68,09353,5812,2821,2991, 396
+Sachsen,Mügeln,,55.08,04769,5794,2890,2904, 105
+Mecklenburg-Vorpommern,Stavenhagen,Reuterstadt,41.02,17153,5768,2880,2888, 141
+Baden-Württemberg,Hausach,,36.07,77756,5760,2866,2894, 160
+Rheinland-Pfalz,Kastellaun,,8.41,56288,5759,2839,2920, 685
+Thüringen,Kaltennordheim,,94.41,36452,5748,2937,2811, 61
+Thüringen,Treffurt,,72.46,99830,5744,2904,2840, 79
+Brandenburg,Fürstenberg/Havel,,213.85,16798,5739,2799,2940, 27
+Sachsen,Rochlitz,,23.76,09306,5716,2720,2996, 241
+Bayern,Kemnath,,56.79,95478,5714,2848,2866, 101
+Niedersachsen,Stadtoldendorf,,24.92,37627,5713,2830,2883, 229
+Sachsen,Grünhain-Beierfeld,,22.25,08344,5713,2833,2880, 257
+Baden-Württemberg,Wolfach,,67.98,77709,5712,2839,2873, 84
+Thüringen,Greußen,,86.82,99718,5711,2843,2868, 66
+Baden-Württemberg,Waibstadt,,25.57,74915,5708,2805,2903, 223
+Hessen,Grebenstein,,49.84,34393,5706,2815,2891, 114
+Rheinland-Pfalz,Wirges,,10.11,56422,5703,2825,2878, 564
+Bayern,Leutershausen,,84.07,91578,5689,2819,2870, 68
+Thüringen,Brotterode-Trusetal,,49.68,98596,5687,2790,2897, 114
+Hessen,Niedenstein,,30.61,34305,5678,2877,2801, 185
+Brandenburg,Seelow,,42.73,15306,5670,2711,2959, 133
+Baden-Württemberg,Neudenau,,32.91,74861,5668,2882,2786, 172
+Bayern,Hirschau,,74.96,92242,5666,2775,2891, 76
+Thüringen,Bad Lobenstein,,48.92,07356,5663,2765,2898, 116
+Rheinland-Pfalz,Traben-Trarbach,,31.35,56841,5662,2803,2859, 181
+Bayern,Harburg (Schwaben),,73.16,86655,5652,2855,2797, 77
+Sachsen,Wittichenau / Kulow,,61.02,02997,5648,2768,2880, 93
+Niedersachsen,Schöppenstedt,,39.74,38170,5639,2774,2865, 142
+Brandenburg,Schwarzheide,,33.44,01987,5637,2772,2865, 169
+Bayern,Zeil a.Main,,35.67,97475,5631,2810,2821, 158
+Niedersachsen,Bodenwerder,Münchhausenstadt,29.05,37619,5618,2725,2893, 193
+Bayern,Abenberg,,48.41,91183,5614,2777,2837, 116
+Baden-Württemberg,Heimsheim,,14.3,71296,5608,3010,2598, 392
+Bayern,Mellrichstadt,,56.03,97638,5599,2737,2862, 100
+Hessen,Battenberg (Eder),,64.71,35088,5585,2834,2751, 86
+Mecklenburg-Vorpommern,Grabow,,72.27,19300,5573,2756,2817, 77
+Rheinland-Pfalz,Prüm,,22.86,54595,5563,2811,2752, 243
+Bayern,Velburg,,175.66,92355,5553,2828,2725, 32
+Rheinland-Pfalz,Hagenbach,,15.86,76767,5551,2747,2804, 350
+Bayern,Monheim,,69.33,86653,5544,2844,2700, 80
+Sachsen,Stolpen,,60.89,01833,5540,2776,2764, 91
+Bayern,Eltmann,,40.81,97483,5538,2791,2747, 136
+Brandenburg,Drebkau/Drjowk,,143.9,03116,5534,2789,2745, 38
+Hessen,Gersfeld (Rhön),,89.34,36129,5521,2737,2784, 62
+Baden-Württemberg,Stühlingen,,93.2,79780,5518,2811,2707, 59
+Mecklenburg-Vorpommern,Zarrentin am Schaalsee,,91.9,19246,5518,2795,2723, 60
+Sachsen,Bad Gottleuba-Berggießhübel,,88.72,01816,5498,2744,2754, 62
+Niedersachsen,Braunlage,,31.65,38700,5495,2739,2756, 174
+Baden-Württemberg,Ingelfingen,,46.48,74653,5489,2745,2744, 118
+Thüringen,Ellrich,,69.41,99755,5488,2689,2799, 79
+Schleswig-Holstein,Lütjenburg,,6.15,24321,5479,2594,2885, 891
+Sachsen,Tharandt,,71.23,01737,5467,2731,2736, 77
+Sachsen,Großschirma,,61.63,09603,5465,2741,2724, 89
+Mecklenburg-Vorpommern,Gadebusch,,47.76,19205,5459,2649,2810, 114
+Rheinland-Pfalz,Otterberg,,32.11,67697,5438,2626,2812, 169
+Baden-Württemberg,Munderkingen,,13.07,89597,5422,2688,2734, 415
+Baden-Württemberg,Külsheim,,81.43,97900,5414,2794,2620, 66
+Thüringen,Wasungen,,89.08,98634,5413,2726,2687, 61
+Rheinland-Pfalz,Rockenhausen,,36.83,67806,5395,2699,2696, 146
+Baden-Württemberg,Mahlberg,,16.59,77972,5381,2675,2706, 324
+Hessen,Lindenfels,,21.09,64678,5378,2625,2753, 255
+Hessen,Diemelstadt,,82.55,34474,5360,2686,2674, 65
+Bayern,Oettingen i.Bay.,,34.22,86732,5359,2684,2675, 157
+Rheinland-Pfalz,Cochem,,21.18,56812,5346,2701,2645, 252
+Baden-Württemberg,Adelsheim,,43.84,74740,5313,2842,2471, 121
+Mecklenburg-Vorpommern,Burg Stargard,,76.61,17094,5306,2604,2702, 69
+Baden-Württemberg,Forchtenberg,,38.09,74670,5302,2717,2585, 139
+Thüringen,Dornburg-Camburg,,30.77,07774,5298,2574,2724, 172
+Rheinland-Pfalz,Waldmohr,,13.03,66914,5281,2562,2719, 405
+Bayern,Spalt,,55.67,91174,5272,2670,2602, 95
+Bayern,Pfreimd,,51.48,92536,5266,2609,2657, 102
+Thüringen,Ruhla,,38.55,99842,5254,2588,2666, 136
+Sachsen,Kitzscher,,29.04,04567,5243,2580,2663, 181
+Bayern,Pottenstein,,73.29,91278,5225,2655,2570, 71
+Mecklenburg-Vorpommern,Altentreptow,,53.07,17087,5213,2604,2609, 98
+Bayern,Hofheim i.UFr.,,56.34,97461,5203,2606,2597, 92
+Niedersachsen,Freren,,48.97,49832,5193,2634,2559, 106
+Bayern,Wörth a.d.Donau,,52.24,93086,5148,2615,2533, 99
+Niedersachsen,Hitzacker (Elbe),,58.67,29456,5126,2385,2741, 87
+Bayern,Creußen,,64.87,95473,5111,2558,2553, 79
+Sachsen-Anhalt,Falkenstein/Harz,,104.11,06463,5104,2594,2510, 49
+Thüringen,Ronneburg,,19.13,07580,5098,2540,2558, 266
+Hessen,Naumburg,,66.32,34311,5095,2529,2566, 77
+Bayern,Arzberg,,43.19,95659,5094,2560,2534, 118
+Brandenburg,Uebigau-Wahrenbrück,,135.61,04938,5092,2584,2508, 38
+Bayern,Erbendorf,,67.56,92677,5088,2529,2559, 75
+Mecklenburg-Vorpommern,Schwaan,,38.29,18258,5061,2413,2648, 132
+Baden-Württemberg,Lichtenau,,27.62,77839,5051,2505,2546, 183
+Rheinland-Pfalz,Unkel,,8.16,53572,5041,2440,2601, 618
+Niedersachsen,Borkum,,30.98,26757,5012,2407,2605, 162
+Mecklenburg-Vorpommern,Röbel/Müritz,,30.68,17207,5012,2390,2622, 163
+Hessen,Amöneburg,,43.9,35287,5000,2500,2500, 114
+Bayern,Oberviechtach,,62.42,92526,4985,2519,2466, 80
+Bayern,Windischeschenbach,,36.37,92670,4984,2500,2484, 137
+Baden-Württemberg,Todtnau,,69.75,79674,4962,2484,2478, 71
+Rheinland-Pfalz,Freinsheim,,13.59,67251,4954,2381,2573, 365
+Rheinland-Pfalz,Emmelshausen,,8.05,56281,4951,2406,2545, 615
+Bayern,Scheinfeld,,45.12,91443,4945,2544,2401, 110
+Schleswig-Holstein,Tönning,,44.43,25832,4940,2444,2496, 111
+Baden-Württemberg,Triberg im Schwarzwald,,33.33,78098,4926,2543,2383, 148
+Baden-Württemberg,Niederstotzingen,,29.81,89168,4925,2449,2476, 165
+Baden-Württemberg,Niederstetten,,104.05,97996,4922,2534,2388, 47
+Baden-Württemberg,Oppenau,,72.98,77728,4914,2463,2451, 67
+Nordrhein-Westfalen,Marienmünster,,64.36,37696,4913,2499,2414, 76
+Sachsen,Thum,,18.9,09419,4912,2406,2506, 260
+Baden-Württemberg,Lauchheim,,40.87,73466,4905,2471,2434, 120
+Thüringen,Vacha,,44.41,36404,4903,2427,2476, 110
+Bayern,Hollfeld,,80.66,96142,4884,2425,2459, 61
+Baden-Württemberg,Tengen,,62.03,78250,4873,2428,2445, 79
+Brandenburg,Dahme/Mark,,162.57,15936,4863,2383,2480, 30
+Bayern,Iphofen,,78.06,97346,4843,2406,2437, 62
+Baden-Württemberg,Schömberg,,23.25,72355,4834,2487,2347, 208
+Mecklenburg-Vorpommern,Kröpelin,,67.55,18236,4816,2425,2391, 71
+Thüringen,Geisa,,71.94,36419,4807,2402,2405, 67
+Bayern,Weismain,,90.14,96260,4803,2414,2389, 53
+Bayern,Wörth a.Main,,15.88,63939,4791,2348,2443, 302
+Sachsen,Reichenbach/O.L.,,62.64,02894,4789,2375,2414, 76
+Mecklenburg-Vorpommern,Eggesin,,88.22,17367,4785,2320,2465, 54
+Hessen,Trendelburg,,69.37,34388,4785,2380,2405, 69
+Hessen,Groß-Bieberau,,18.27,64401,4762,2383,2379, 261
+Mecklenburg-Vorpommern,Crivitz,,75.86,19089,4760,2263,2497, 63
+Sachsen,Wilthen,,17.04,02681,4756,2218,2538, 279
+Bayern,Bischofsheim i.d.Rhön,,67.7,97653,4756,2364,2392, 70
+Baden-Württemberg,Vellberg,,31.89,74541,4752,2385,2367, 149
+Sachsen,Lommatzsch,,66.61,01623,4745,2314,2431, 71
+Brandenburg,Müllrose,,69.23,15299,4734,2264,2470, 68
+Baden-Württemberg,Bad Buchau,,23.75,88422,4710,2388,2322, 198
+Sachsen,Adorf/Vogtl.,,42.97,08626,4694,2288,2406, 109
+Sachsen-Anhalt,Seehausen (Altmark),Hansestadt,107.2,39615,4693,2312,2381, 44
+Bayern,Heideck,,58.64,91180,4688,2371,2317, 80
+Rheinland-Pfalz,Nassau,,17.55,56377,4687,2333,2354, 267
+Sachsen,Pausa-Mühltroff,,64.13,07952,4682,2307,2375, 73
+Mecklenburg-Vorpommern,Schönberg,,52.19,23923,4674,2298,2376, 90
+Mecklenburg-Vorpommern,Marlow,,140.52,18337,4673,2393,2280, 33
+Sachsen,Königsbrück,,78.48,01936,4664,2284,2380, 59
+Bayern,Eschenbach i.d.OPf.,,35.13,92676,4646,2261,2385, 132
+Baden-Württemberg,Krautheim,,52.9,74238,4643,2432,2211, 88
+Hessen,Herbstein,,79.98,36358,4625,2365,2260, 58
+Mecklenburg-Vorpommern,Lübtheen,,120.16,19249,4621,2465,2156, 38
+Hessen,Rauschenberg,,67.32,35282,4615,2303,2312, 69
+Thüringen,Amt Creuzburg,,69.73,99831,4602,2355,2247, 66
+Thüringen,Heringen/Helme,,66.91,99765,4582,2336,2246, 68
+Sachsen-Anhalt,Freyburg (Unstrut),,46.69,06632,4579,2250,2329, 98
+Hessen,Tann (Rhön),,60.45,36142,4579,2343,2236, 76
+Baden-Württemberg,Kirchberg an der Jagst,,40.93,74592,4567,2453,2114, 112
+Baden-Württemberg,Creglingen,,117.23,97993,4565,2349,2216, 39
+Rheinland-Pfalz,Baumholder,,69.19,55774,4538,2167,2371, 66
+Rheinland-Pfalz,Wachenheim an der Weinstraße,,24.97,67157,4535,2214,2321, 182
+Rheinland-Pfalz,Dahn,,40.76,66994,4535,2232,2303, 111
+Bayern,Bad Berneck i.Fichtelgebirge,,38.26,95460,4526,2279,2247, 118
+Sachsen,Ehrenfriedersdorf,,15.89,09427,4521,2162,2359, 285
+Baden-Württemberg,Gerabronn,,40.38,74582,4520,2300,2220, 112
+Brandenburg,Liebenwalde,,142.14,16559,4500,2245,2255, 32
+Mecklenburg-Vorpommern,Putbus,,66.69,18581,4492,2186,2306, 67
+Nordrhein-Westfalen,Hallenberg,,65.35,59969,4488,2340,2148, 69
+Sachsen,Augustusburg,,23.38,09573,4482,2206,2276, 192
+Sachsen,Rabenau,,30.73,01734,4467,2239,2228, 145
+Sachsen,Hartenstein,,36.7,08118,4458,2191,2267, 121
+Brandenburg,Peitz/Picnjo,,13.49,03185,4452,2131,2321, 330
+Rheinland-Pfalz,Nastätten,,13.05,56355,4445,2158,2287, 341
+Rheinland-Pfalz,Rennerod,,18.14,56477,4426,2225,2201, 244
+Mecklenburg-Vorpommern,Strasburg (Uckermark),,87.48,17335,4399,2150,2249, 50
+Schleswig-Holstein,Wilster,,2.71,25554,4389,2166,2223,1 620
+Niedersachsen,Dransfeld,,28.91,37127,4381,2130,2251, 152
+Baden-Württemberg,Schönau,,22.49,69250,4376,2196,2180, 195
+Rheinland-Pfalz,Rheinböllen,,16.36,55494,4366,2193,2173, 267
+Schleswig-Holstein,Wyk auf Föhr,,8.08,25938,4355,2048,2307, 539
+Nordrhein-Westfalen,Heimbach,,64.96,52396,4349,2176,2173, 67
+Thüringen,Tambach-Dietharz/Thür. Wald,,41.64,99897,4318,2155,2163, 104
+Mecklenburg-Vorpommern,Dargun,,118.01,17159,4318,2117,2201, 37
+Brandenburg,Baruth/Mark,,233.83,15837,4314,2215,2099, 18
+Bayern,Schwarzenbach a.Wald,,36.7,95131,4301,2098,2203, 117
+Sachsen,Rothenburg/O.L.,,72.41,02929,4292,2179,2113, 59
+Bayern,Pressath,,66.34,92690,4287,2140,2147, 65
+Bayern,Schnaittenbach,,63.41,92253,4277,2182,2095, 67
+Bayern,Selbitz,,27.75,95152,4274,2049,2225, 154
+Baden-Württemberg,Hornberg,,54.45,78132,4256,2135,2121, 78
+Mecklenburg-Vorpommern,Loitz,,89.91,17121,4254,2135,2119, 47
+Brandenburg,Brück,,86.19,14822,4248,2139,2109, 49
+Bayern,Gräfenberg,,37.83,91322,4248,2155,2093, 112
+Bayern,Gefrees,,50.32,95480,4248,2036,2212, 84
+Bayern,Waldershof,,60.37,95679,4233,2074,2159, 70
+Rheinland-Pfalz,Daaden,,19.58,57567,4223,2083,2140, 216
+Baden-Württemberg,Neckarbischofsheim,,26.41,74924,4213,2134,2079, 160
+Baden-Württemberg,Niedernhall,,17.69,74676,4213,2154,2059, 238
+Hessen,Wanfried,,46.88,37281,4212,2077,2135, 90
+Mecklenburg-Vorpommern,Woldegk,Windmühlenstadt,164.17,17348,4209,2080,2129, 26
+Baden-Württemberg,St. Blasien,,54.41,79837,4207,2052,2155, 77
+Sachsen,Dahlen,,71.87,04774,4201,2085,2116, 58
+Hessen,Waldkappel,,96.53,37284,4200,2096,2104, 44
+Rheinland-Pfalz,Kirchberg (Hunsrück),,18.05,55481,4177,2075,2102, 231
+Sachsen,Geringswalde,,30.05,09326,4166,2027,2139, 139
+Rheinland-Pfalz,Lambrecht (Pfalz),,8.32,67466,4131,2021,2110, 497
+Rheinland-Pfalz,Zell (Mosel),,44.95,56856,4117,2074,2043, 92
+Hessen,Lichtenfels,,96.77,35104,4114,2084,2030, 43
+Hessen,Allendorf (Lumda),,22.05,35469,4101,2092,2009, 186
+Hessen,Neckarsteinach,,17.24,69239,4099,2092,2007, 238
+Bayern,Baunach,,32.14,96148,4065,2033,2032, 126
+Mecklenburg-Vorpommern,Penzlin,,115.56,17217,4053,2014,2039, 35
+Bayern,Ellingen,,31.25,91792,4045,1993,2052, 129
+Sachsen,Lunzenau,,28.34,09328,4027,1987,2040, 142
+Mecklenburg-Vorpommern,Dassow,,66.96,23942,4021,2026,1995, 60
+Niedersachsen,Hoya,,8.45,27318,4020,1940,2080, 476
+Hessen,Lorch,,54.43,65391,4019,2041,1978, 74
+Mecklenburg-Vorpommern,Neubukow,Schliemannstadt,25.14,18233,4019,1964,2055, 160
+Mecklenburg-Vorpommern,Tessin,Blumenstadt,24.51,18195,4019,1973,2046, 164
+Mecklenburg-Vorpommern,Neukloster,,27.51,23992,3974,2011,1963, 144
+Bayern,Tegernsee,,22.74,83684,3967,1971,1996, 174
+Sachsen-Anhalt,Güsten,,36.23,39439,3962,1924,2038, 109
+Bayern,Marktbreit,,20.16,97340,3961,2029,1932, 196
+Bayern,Pappenheim,,64.32,91788,3951,1996,1955, 61
+Mecklenburg-Vorpommern,Sternberg,,67.69,19406,3943,1914,2029, 58
+Bayern,Seßlach,,72.53,96145,3942,2001,1941, 54
+Thüringen,Kindelbrück,,64.65,99638,3941,2001,1940, 61
+Sachsen,Waldenburg,,25.06,08396,3923,1934,1989, 157
+Hessen,Gemünden (Wohra),,58.65,35285,3915,1961,1954, 67
+Bayern,Amorbach,,50.9,63916,3914,1913,2001, 77
+Mecklenburg-Vorpommern,Mirow,,158.28,17252,3871,1888,1983, 24
+Sachsen,Regis-Breitingen,,26.37,04565,3845,1922,1923, 146
+Sachsen,Wolkenstein,,30.51,09429,3821,1887,1934, 125
+Rheinland-Pfalz,Speicher,,15.36,54662,3818,1910,1908, 249
+Rheinland-Pfalz,Deidesheim,,26.54,67146,3773,1803,1970, 142
+Sachsen,Trebsen/Mulde,,35.05,04687,3771,1888,1883, 108
+Sachsen,Johanngeorgenstadt,,29.59,08349,3749,1850,1899, 127
+Thüringen,Weißensee,,55.33,99631,3746,1896,1850, 68
+Brandenburg,Ruhland,,37.22,01945,3737,1807,1930, 100
+Sachsen,Strehla,,30.27,01616,3726,1787,1939, 123
+Baden-Württemberg,Schiltach,,34.21,77761,3725,1836,1889, 109
+Sachsen,Netzschkau,,12.51,08491,3718,1811,1907, 297
+Baden-Württemberg,Vöhrenbach,,70.47,78147,3709,1902,1807, 53
+Baden-Württemberg,Freudenberg,,34.76,97896,3701,1857,1844, 106
+Sachsen,Elsterberg,,25.1,07985,3701,1784,1917, 147
+Hessen,Bad Karlshafen,,14.85,34385,3701,1849,1852, 249
+Baden-Württemberg,Grünsfeld,,44.72,97947,3696,1863,1833, 83
+Sachsen,Bad Muskau / Mužakow,,15.38,02953,3685,1817,1868, 240
+Thüringen,Bad Köstritz,,20.34,07586,3672,1783,1889, 181
+Mecklenburg-Vorpommern,Rehna,,44.59,19217,3638,1799,1839, 82
+Thüringen,Triptis,,33.15,07819,3631,1822,1809, 110
+Sachsen,Bad Elster,,19.77,08645,3617,1718,1899, 183
+Bayern,Königsberg i.Bay.,,61.88,97486,3614,1803,1811, 58
+Sachsen,Seifhennersdorf,,19.12,02782,3610,1758,1852, 189
+Thüringen,Steinach,,26.35,96523,3587,1767,1820, 136
+Baden-Württemberg,Mühlheim an der Donau,,21.74,78570,3570,1761,1809, 164
+Niedersachsen,Eschershausen,,23.92,37632,3568,1783,1785, 149
+Schleswig-Holstein,Wesselburen,,5.13,25764,3545,1707,1838, 691
+Sachsen-Anhalt,Gröningen,,59.89,39397,3525,1749,1776, 59
+Bayern,Goldkronach,,30.68,95497,3523,1725,1798, 115
+Rheinland-Pfalz,Ulmen,,28.74,56766,3515,1763,1752, 122
+Baden-Württemberg,Owen,,9.7,73277,3505,1753,1752, 361
+Thüringen,Lucka,,12.93,04613,3500,1672,1828, 271
+Sachsen,Wildenfels,,20.68,08134,3491,1765,1726, 169
+Brandenburg,Mühlberg/Elbe,,89.2,04931,3481,1729,1752, 39
+Brandenburg,Neustadt (Dosse),,75.87,16845,3477,1680,1797, 46
+Hessen,Hirschhorn (Neckar),,30.85,69434,3473,1702,1771, 113
+Rheinland-Pfalz,Stromberg,,9.01,55442,3466,1637,1829, 385
+Bayern,Burgbernheim,,42.3,91593,3464,1717,1747, 82
+Thüringen,Gößnitz,,14.07,04639,3459,1687,1772, 246
+Rheinland-Pfalz,Münstermaifeld,,27.77,56294,3457,1643,1814, 124
+Mecklenburg-Vorpommern,Krakow am See,,87.36,18292,3443,1708,1735, 39
+Baden-Württemberg,Löwenstein,,23.46,74245,3436,1713,1723, 146
+Brandenburg,Joachimsthal,,121.68,16247,3430,1731,1699, 28
+Sachsen,Bad Schandau,,46.78,01814,3409,1671,1738, 73
+Thüringen,Tanna,,87.35,07922,3389,1689,1700, 39
+Mecklenburg-Vorpommern,Goldberg,,64.72,19399,3372,1627,1745, 52
+Baden-Württemberg,Oberriexingen,,8.16,71739,3370,1695,1675, 413
+Bayern,Ostheim v.d.Rhön,,40.85,97645,3358,1660,1698, 82
+Thüringen,Schwarzatal,,25.98,98744,3355,1623,1732, 129
+Thüringen,Auma-Weidatal,,55.91,07955,3332,1655,1677, 60
+Bayern,Rötz,,66.67,92444,3328,1685,1643, 50
+Thüringen,Heldburg,,112.74,98663,3322,1698,1624, 29
+Sachsen,Geyer,,18.56,09468,3317,1591,1726, 179
+Bayern,Ludwigsstadt,,58.74,96337,3315,1622,1693, 56
+Thüringen,Saalburg-Ebersdorf,,72.05,07929,3292,1621,1671, 46
+Mecklenburg-Vorpommern,Warin,,44.45,19417,3271,1648,1623, 74
+Rheinland-Pfalz,Kaisersesch,,8.18,56759,3267,1582,1685, 399
+Thüringen,Kranichfeld,,23.1,99448,3266,1634,1632, 141
+Baden-Württemberg,Bad Teinach-Zavelstein,,25.17,75385,3241,1669,1572, 129
+Rheinland-Pfalz,Hillesheim,,20.62,54576,3230,1599,1631, 157
+Brandenburg,Welzow/Wjelcej,,39.57,03119,3229,1588,1641, 82
+Bayern,Prichsenstadt,,48.87,97357,3229,1661,1568, 66
+Bayern,Wolframs-Eschenbach,,25.47,91639,3221,1540,1681, 126
+Brandenburg,Havelsee,,81.97,14798,3212,1610,1602, 39
+Sachsen-Anhalt,Kelbra (Kyffhäuser),,40.82,06537,3199,1574,1625, 78
+Thüringen,Schalkau,,44.02,96528,3199,1597,1602, 73
+Sachsen-Anhalt,Egeln,,29.33,39435,3195,1557,1638, 109
+Thüringen,Berga/Elster,,43.52,07980,3193,1584,1609, 73
+Sachsen,Hohnstein,,64.64,01848,3183,1592,1591, 49
+Bayern,Stadtsteinach,,39.8,95346,3183,1591,1592, 80
+Brandenburg,Sonnewalde,,119.29,03249,3182,1610,1572, 27
+Thüringen,Lauscha,,18.72,98724,3173,1550,1623, 169
+Sachsen,Bernstadt a. d. Eigen,,52,02748,3173,1596,1577, 61
+Sachsen,Neusalza-Spremberg,,22.91,02742,3169,1573,1596, 138
+Bayern,Schönwald,,19.19,95173,3165,1517,1648, 165
+Baden-Württemberg,Fridingen an der Donau,,22.47,78567,3161,1583,1578, 141
+Bayern,Kirchenlamitz,,48.48,95153,3144,1550,1594, 65
+Brandenburg,Lebus,,54.42,15326,3142,1563,1579, 58
+Brandenburg,Lychen,,111.98,17279,3139,1522,1617, 28
+Bayern,Eibelstadt,,7.07,97246,3135,1493,1642, 443
+Mecklenburg-Vorpommern,Klütz,,44.44,23948,3128,1466,1662, 70
+Brandenburg,Döbern/Derbno,,15.79,03159,3118,1505,1613, 197
+Hessen,Kirtorf,,79.91,36320,3114,1537,1577, 39
+Bayern,Waischenfeld,,57.93,91344,3104,1622,1482, 54
+Bayern,Merkendorf,,26.07,91732,3083,1561,1522, 118
+Bayern,Bärnau,,74.41,95671,3077,1608,1469, 41
+Thüringen,Bürgel,,27.19,07616,3070,1516,1554, 113
+Sachsen,Weißenberg / Wóspork,,50.96,02627,3068,1552,1516, 60
+Sachsen-Anhalt,Nebra (Unstrut),,25.46,06642,3067,1499,1568, 120
+Baden-Württemberg,Waldenburg,,31.54,74638,3040,1556,1484, 96
+Bayern,Weißenstadt,,42.23,95163,3031,1516,1515, 72
+Rheinland-Pfalz,Rhens,,16.31,56321,3031,1474,1557, 186
+Mecklenburg-Vorpommern,Wesenberg,,89.65,17255,3029,1503,1526, 34
+Hessen,Ulrichstein,,65.61,35327,3019,1501,1518, 46
+Rheinland-Pfalz,Selters (Westerwald),,8.7,56242,3014,1475,1539, 346
+Hessen,Hatzfeld (Eder),,58.51,35116,3000,1490,1510, 51
+Brandenburg,Friedland,,174.15,15848,2985,1513,1472, 17
+Brandenburg,Schönewalde,,156.16,04916,2973,1508,1465, 19
+Hessen,Liebenau,,48.88,34396,2970,1448,1522, 61
+Rheinland-Pfalz,Braubach,,19.5,56338,2969,1495,1474, 152
+Sachsen,Schöneck/Vogtl.,,55.04,08261,2969,1437,1532, 54
+Mecklenburg-Vorpommern,Dömitz,,60.57,19303,2967,1477,1490, 49
+Baden-Württemberg,Ravenstein,,55.97,74747,2958,1519,1439, 53
+Mecklenburg-Vorpommern,Gützkow,,57.65,17506,2955,1489,1466, 51
+Brandenburg,Lindow (Mark),,65.47,16835,2941,1500,1441, 45
+Thüringen,Wurzbach,,72.32,07343,2940,1473,1467, 41
+Rheinland-Pfalz,Adenau,,18.56,53518,2916,1447,1469, 157
+Rheinland-Pfalz,Sankt Goar,,23.17,56329,2913,1461,1452, 126
+Thüringen,Münchenbernsdorf,,15.45,07589,2902,1416,1486, 188
+Rheinland-Pfalz,Oberwesel,,18.08,55430,2899,1423,1476, 160
+Hessen,Frankenau,Nationalparkstadt,57.29,35110,2886,1424,1462, 50
+Bayern,Marktleuthen,,35.48,95168,2878,1401,1477, 81
+Mecklenburg-Vorpommern,Gnoien,Warbelstadt,41.11,17179,2867,1391,1476, 70
+Mecklenburg-Vorpommern,Jarmen,,30.71,17126,2846,1405,1441, 93
+Rheinland-Pfalz,Meisenheim,,10.33,55590,2836,1370,1466, 275
+Schleswig-Holstein,Garding,,3.06,25836,2814,1360,1454, 920
+Bayern,Schillingsfürst,,27.5,91583,2805,1438,1367, 102
+Baden-Württemberg,Sulzburg,,22.74,79295,2769,1324,1445, 122
+Sachsen-Anhalt,Laucha an der Unstrut,,31.28,06636,2768,1416,1352, 88
+Sachsen,Elterlein,,45.74,09481,2749,1356,1393, 60
+Niedersachsen,Wustrow (Wendland),,30.18,29462,2748,1366,1382, 91
+Thüringen,Themar,,20.18,98660,2739,1360,1379, 136
+Thüringen,Ebeleben,,44.54,99713,2730,1378,1352, 61
+Sachsen,Elstra / Halštrow,,32.63,01920,2697,1374,1323, 83
+Mecklenburg-Vorpommern,Tribsees,,54.97,18465,2694,1365,1329, 49
+Sachsen,Frauenstein,,58.98,09623,2690,1351,1339, 46
+Hessen,Romrod,,54.43,36329,2690,1294,1396, 49
+Mecklenburg-Vorpommern,Brüel,,27.22,19412,2620,1301,1319, 96
+Sachsen-Anhalt,Bad Bibra,,49.93,06647,2602,1314,1288, 52
+Thüringen,Schkölen,,53.43,07619,2592,1345,1247, 49
+Brandenburg,Putlitz,,119.68,16949,2589,1310,1279, 22
+Baden-Württemberg,Lauterstein,,23.31,73111,2587,1287,1300, 111
+Brandenburg,Bad Wilsnack,,79.38,19336,2577,1223,1354, 32
+Bayern,Wallenfels,,45.65,96346,2566,1284,1282, 56
+Brandenburg,Friesack,,84.03,14662,2555,1286,1269, 30
+Schleswig-Holstein,Friedrichstadt,,4.02,25840,2544,1196,1348, 633
+Baden-Württemberg,Scheer,,18.73,72516,2535,1287,1248, 135
+Bayern,Betzenstein,,51.84,91282,2515,1276,1239, 49
+Thüringen,Rastenberg,,35.52,99636,2514,1278,1236, 71
+Thüringen,Bad Tennstedt,,27.42,99955,2497,1229,1268, 91
+Sachsen-Anhalt,Alsleben (Saale),,23.72,06425,2494,1157,1337, 105
+Brandenburg,Ziesar,,67.96,14793,2493,1222,1271, 37
+Sachsen,Jöhstadt,,49.69,09477,2493,1267,1226, 50
+Brandenburg,Golßen,,63.66,15938,2489,1253,1236, 39
+Baden-Württemberg,Schönau im Schwarzwald,,14.72,79677,2450,1221,1229, 166
+Sachsen-Anhalt,Schwanebeck,,32.97,39397,2437,1184,1253, 74
+Schleswig-Holstein,Krempe,,3.38,25361,2429,1218,1211, 719
+Baden-Württemberg,Aach,,10.68,78267,2427,1227,1200, 227
+Brandenburg,Gartz (Oder),,61.88,16307,2427,1204,1223, 39
+Sachsen-Anhalt,Osterfeld,,27.66,06721,2399,1239,1160, 87
+Brandenburg,Schlieben,,78.65,04936,2394,1168,1226, 30
+Thüringen,Gefell,,45.22,07926,2390,1204,1186, 53
+Niedersachsen,Rethem (Aller),,34.08,27336,2387,1209,1178, 70
+Sachsen-Anhalt,Wegeleben,,51.88,38828,2382,1202,1180, 46
+Hessen,Grebenau,,55.34,36323,2382,1189,1193, 43
+Bayern,Schönsee,,50.28,92539,2360,1202,1158, 47
+Bayern,Pleystein,,42.4,92714,2351,1168,1183, 55
+Bayern,Mainbernheim,,12.21,97350,2334,1163,1171, 191
+Sachsen,Dommitzsch,,30.44,04880,2319,1151,1168, 76
+Rheinland-Pfalz,Katzenelnbogen,,9.18,56368,2315,1083,1232, 252
+Sachsen,Schlettau,,21.22,09487,2272,1125,1147, 107
+Sachsen-Anhalt,Eckartsberga,,36.13,06648,2265,1144,1121, 63
+Mecklenburg-Vorpommern,Garz/Rügen,,65.91,18574,2256,1104,1152, 34
+Baden-Württemberg,Hayingen,,63.37,72534,2256,1116,1140, 36
+Sachsen,Ostritz,,23.48,02899,2228,1102,1126, 95
+Bayern,Fladungen,,46.34,97650,2190,1119,1071, 47
+Thüringen,Gebesee,,24.08,99189,2187,1096,1091, 91
+Mecklenburg-Vorpommern,Rerik,Ostseebad,34.22,18230,2186,1048,1138, 64
+Thüringen,Hirschberg,,24.13,07927,2147,1087,1060, 89
+Sachsen,Königstein/Sächs. Schw.,,27.05,01824,2141,1084,1057, 79
+Baden-Württemberg,Veringenstadt,,31.25,72519,2134,1056,1078, 68
+Brandenburg,Meyenburg,,50.71,16945,2129,1071,1058, 42
+Hessen,Rosenthal,,51.55,35119,2111,1068,1043, 41
+Brandenburg,Oderberg,,36.12,16248,2107,1080,1027, 58
+Brandenburg,Lenzen (Elbe),,96.2,19309,2066,1009,1057, 21
+Brandenburg,Niemegk,,45.11,14823,2056,1045,1011, 46
+Sachsen,Oberwiesenthal,Kurort,40.03,09484,2051,1010,1041, 51
+Rheinland-Pfalz,Lauterecken,,8.89,67742,2044,1005,1039, 230
+Baden-Württemberg,Wiesensteig,,23.41,73349,2044,1047,997, 87
+Brandenburg,Ortrand,,7.36,01990,2021,953,1068, 275
+Sachsen,Scheibenberg,,9,09481,2012,985,1027, 224
+Thüringen,Leutenberg,,57.52,07338,2011,1008,1003, 35
+Thüringen,Plaue,,22.69,99338,1975,966,1009, 87
+Niedersachsen,Sachsenhagen,,15.47,31553,1973,999,974, 128
+Thüringen,Magdala,,20.58,99441,1972,987,985, 96
+Bayern,Rieneck,,26.19,97794,1941,954,987, 74
+Bayern,Teuschnitz,,34.25,96358,1921,936,985, 56
+Bayern,Marktsteft,,10.51,97342,1920,1001,919, 183
+Rheinland-Pfalz,Wolfstein,,13.77,67752,1908,966,942, 139
+Bayern,Schauenstein,,26.66,95197,1899,950,949, 71
+Brandenburg,Teupitz,,48.16,15755,1895,931,964, 39
+Baden-Württemberg,Langenburg,,31.4,74595,1886,980,906, 60
+Thüringen,Gräfenthal,,36.42,98743,1869,928,941, 51
+Baden-Württemberg,Hettingen,,46.06,72513,1859,944,915, 40
+Rheinland-Pfalz,Bacharach,,23.35,55422,1845,923,922, 79
+Baden-Württemberg,Widdern,,25.23,74259,1836,961,875, 73
+Brandenburg,Brüssow,,101.81,17326,1835,946,889, 18
+Bayern,Velden,,21.34,91235,1808,918,890, 85
+Mecklenburg-Vorpommern,Bad Sülze,,26.67,18334,1764,889,875, 66
+Mecklenburg-Vorpommern,Penkun,,78.87,17328,1756,868,888, 22
+Mecklenburg-Vorpommern,Neukalen,Peenestadt,47.97,17154,1753,879,874, 37
+Mecklenburg-Vorpommern,Usedom,,39.06,17406,1723,836,887, 44
+Sachsen,Sayda,,35.3,09619,1702,866,836, 48
+Bayern,Ornbau,,15.16,91737,1697,879,818, 112
+Thüringen,Oberhof,,23.4,98559,1681,840,841, 72
+Bayern,Röttingen,,27.21,97285,1673,857,816, 61
+Thüringen,Ranis,,10.57,07389,1660,807,853, 157
+Bayern,Stadtprozelten,,10.87,97909,1604,843,761, 148
+Brandenburg,Rhinow,,31.67,14728,1584,775,809, 50
+Rheinland-Pfalz,Neuerburg,,10.17,54673,1560,790,770, 153
+Thüringen,Lehesten,,35.94,07349,1555,810,745, 43
+Sachsen,Stadt Wehlen,,10.85,01829,1543,788,755, 142
+Brandenburg,Buckow (Märkische Schweiz),,14.42,15377,1493,729,764, 104
+Mecklenburg-Vorpommern,Lassan,,28.21,17440,1473,733,740, 52
+Rheinland-Pfalz,Manderscheid,,10.06,54531,1462,694,768, 145
+Sachsen-Anhalt,Arneburg,,31.14,39596,1443,706,737, 46
+Bayern,Hohenberg a.d.Eger,,15.66,95691,1438,709,729, 92
+Thüringen,Hohenleuben,,9.53,07958,1426,798,628, 150
+Rheinland-Pfalz,Hornbach,,13.34,66500,1419,710,709, 106
+Bayern,Aub,,17.54,97239,1398,733,665, 80
+Sachsen-Anhalt,Kroppenstedt,,38.91,39397,1377,684,693, 35
+Mecklenburg-Vorpommern,Richtenberg,,15.67,18461,1365,677,688, 87
+Mecklenburg-Vorpommern,Franzburg,,15.2,18461,1353,656,697, 89
+Brandenburg,Lieberose,,73.03,15868,1338,670,668, 18
+Rheinland-Pfalz,Sankt Goarshausen,Loreleystadt,7.06,56346,1281,653,628, 181
+Sachsen,Liebstadt,,37.36,01825,1248,642,606, 33
+Hessen,Schwarzenborn,,26.9,34639,1194,653,541, 44
+Bayern,Neustadt am Kulm,,20.3,95514,1145,568,577, 56
+Bayern,Kupferberg,,8.28,95362,1070,544,526, 129
+Sachsen-Anhalt,Schraplau,,7.07,06279,1066,525,541, 151
+Thüringen,Orlamünde,,7.47,07768,1063,540,523, 142
+Rheinland-Pfalz,Obermoschel,,10.15,67823,1054,521,533, 104
+Thüringen,Clingen,,10.75,99718,1037,507,530, 96
+Bayern,Lichtenberg,,9.47,95192,1026,504,522, 108
+Bayern,Rothenfels,,12.07,97851,1022,517,505, 85
+Rheinland-Pfalz,Kyllburg,,4.62,54655,958,500,458, 207
+Sachsen-Anhalt,Werben (Elbe),Hansestadt,53.2,39615,933,484,449, 18
+Sachsen-Anhalt,Stößen,,7.33,06667,889,427,462, 121
+Brandenburg,Märkisch Buchholz,,24.86,15748,885,453,432, 36
+Sachsen-Anhalt,Sandau (Elbe),,18.56,39524,831,393,438, 45
+Rheinland-Pfalz,Kaub,,13.05,56349,786,402,384, 60
+Thüringen,Ziegenrück,,8.25,07924,615,303,312, 75
+Niedersachsen,Schnackenburg,,23.7,29493,521,259,262, 22
+Thüringen,Neumark,,8.67,99439,482,253,229, 56
+Thüringen,Ummerstadt,,15.73,98663,463,237,226, 29
+Schleswig-Holstein,Arnis,,0.45,24399,254,125,129, 564
