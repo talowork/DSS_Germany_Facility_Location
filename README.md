@@ -186,8 +186,4 @@ feed optimization models (p-median) after selecting candidate facilities
 
 run any network-based or ML feature engineering that relies on distances
 
-### Reproducibility Note
 
-All preprocessing steps are documented and reproducible in:
-
-codes/data_preprocessing.ipynb
