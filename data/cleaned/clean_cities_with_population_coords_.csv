@@ -1,0 +1,576 @@
+city_key2,city,state,population,latitude,longitude,demand_weight
+berlin,Berlin,Berlin,3782202,52.5167,13.3833,0.08257197394026213
+hamburg,Hamburg,Hamburg,1910160,53.55,10.0,0.041702077716031856
+munchen,München,Bayern,1510378,48.1372,11.5755,0.032974149148021506
+koln,Köln,Nordrhein-Westfalen,1087353,50.9422,6.9578,0.023738785918855164
+frankfurt am main,Frankfurt am Main,Hessen,775790,50.1136,8.6797,0.016936829831700147
+stuttgart,Stuttgart,Baden-Württemberg,633484,48.7761,9.1775,0.013830045127037904
+dusseldorf,Düsseldorf,Nordrhein-Westfalen,631217,51.2311,6.7724,0.013780552618461532
+leipzig,Leipzig,Sachsen,619879,51.35,12.3833,0.013533024580420546
+dortmund,Dortmund,Nordrhein-Westfalen,595471,51.5139,7.4653,0.01300015596580559
+essen,Essen,Nordrhein-Westfalen,586608,51.4508,7.0131,0.012806661434040087
+bremen,Bremen,Bremen,577026,53.1153,8.7975,0.012597469895805062
+dresden,Dresden,Sachsen,566222,51.0493,13.7384,0.012361599996087757
+hannover,Hannover,Niedersachsen,548186,52.3744,9.7386,0.011967843099447501
+nurnberg,Nürnberg,Bayern,526091,49.4528,11.0778,0.01148547125251545
+duisburg,Duisburg,Nordrhein-Westfalen,503707,51.4322,6.7611,0.010996790038588002
+bochum,Bochum,Nordrhein-Westfalen,366385,51.4833,7.2167,0.007998814624946775
+wuppertal,Wuppertal,Nordrhein-Westfalen,358938,51.2667,7.1833,0.007836233808286762
+bielefeld,Bielefeld,Nordrhein-Westfalen,338410,52.0167,8.5333,0.0073880722661359985
+bonn,Bonn,Nordrhein-Westfalen,335789,50.7339,7.0997,0.0073308513287832534
+munster,Münster,Nordrhein-Westfalen,322904,51.9625,7.6256,0.007049549620355127
+mannheim,Mannheim,Baden-Württemberg,316877,49.4878,8.4661,0.006917969845679433
+karlsruhe,Karlsruhe,Baden-Württemberg,309964,49.0167,8.4,0.0067670471673431
+augsburg,Augsburg,Bayern,303150,48.3717,10.8983,0.006618285829257788
+wiesbaden,Wiesbaden,Hessen,285522,50.0825,8.24,0.006233436274258097
+monchengladbach,Mönchengladbach,Nordrhein-Westfalen,268943,51.2,6.4333,0.005871488193231329
+gelsenkirchen,Gelsenkirchen,Nordrhein-Westfalen,265885,51.5167,7.1,0.005804726794366508
+aachen,Aachen,Nordrhein-Westfalen,252769,50.7762,6.0838,0.005518381958686003
+braunschweig,Braunschweig,Niedersachsen,252066,52.2692,10.5211,0.005503034259731795
+chemnitz,Chemnitz,Sachsen,250681,50.8333,12.9167,0.005472797327937231
+kiel,Kiel,Schleswig-Holstein,248873,54.3233,10.1394,0.0054333255787064934
+halle,Halle (Saale),Sachsen-Anhalt,242172,51.4828,11.9697,0.005287031224948102
+magdeburg,Magdeburg,Sachsen-Anhalt,240114,52.1278,11.6292,0.005242101545790547
+freiburg im breisgau,Freiburg im Breisgau,Baden-Württemberg,237244,47.9947,7.8497,0.005179444510230693
+krefeld,Krefeld,Nordrhein-Westfalen,228550,51.3333,6.5667,0.00498963953909572
+mainz,Mainz,Rheinland-Pfalz,222889,50.0,8.2711,0.004866050173832885
+lubeck,Lübeck,Schleswig-Holstein,219044,53.8697,10.6864,0.004782107211558446
+erfurt,Erfurt,Thüringen,215675,50.9787,11.0328,0.004708556147864666
+oberhausen,Oberhausen,Nordrhein-Westfalen,211099,51.4699,6.8514,0.004608654198484215
+rostock,Rostock,Mecklenburg-Vorpommern,210795,54.0833,12.1333,0.004602017355693206
+kassel,Kassel,Hessen,204687,51.3158,9.4979,0.004468669211721224
+hagen,Hagen,Nordrhein-Westfalen,190490,51.3594,7.475,0.004158724287037163
+potsdam,Potsdam,Brandenburg,187119,52.4,13.0667,0.0040851295599039685
+saarbrucken,Saarbrücken,Saarland,183509,49.2333,7.0,0.004006317051760737
+hamm,Hamm,Nordrhein-Westfalen,180761,51.6667,7.8167,0.003946323486005169
+oldenburg,Oldenburg (Oldenburg),Niedersachsen,174629,53.1439,8.2139,0.003812451380760212
+osnabruck,Osnabrück,Niedersachsen,166960,52.2789,8.0431,0.0036450239223251866
+leverkusen,Leverkusen,Nordrhein-Westfalen,166414,51.0333,6.9833,0.003633103803365019
+darmstadt,Darmstadt,Hessen,164792,49.8667,8.65,0.003597692753999833
+heidelberg,Heidelberg,Baden-Württemberg,162960,49.4122,8.71,0.003557697043496121
+solingen,Solingen,Nordrhein-Westfalen,161545,51.1667,7.0833,0.003526805160110339
+regensburg,Regensburg,Bayern,159465,49.0167,12.0833,0.0034813951831192255
+herne,Herne,Nordrhein-Westfalen,157896,51.5426,7.219,0.0034471412148985242
+paderborn,Paderborn,Nordrhein-Westfalen,155749,51.7167,8.7667,0.0034002685126870236
+neuss,Neuss,Nordrhein-Westfalen,155163,51.2003,6.6939,0.0033874751249385656
+ingolstadt,Ingolstadt,Bayern,142308,48.7636,11.4261,0.003106828368101657
+furth,Fürth,Bayern,132032,49.4783,10.9903,0.002882485616389788
+heilbronn,Heilbronn,Baden-Württemberg,130093,49.1404,9.218,0.0028401539118773985
+ulm,Ulm,Baden-Württemberg,129942,48.3984,9.9916,0.0028368573222016013
+pforzheim,Pforzheim,Baden-Württemberg,128992,48.895,8.705,0.0028161171884796984
+wurzburg,Würzburg,Bayern,128246,49.7944,9.9294,0.0027998307255780778
+wolfsburg,Wolfsburg,Niedersachsen,127256,52.4231,10.7872,0.002778217323067884
+gottingen,Göttingen,Niedersachsen,120261,51.5339,9.9356,0.002625504443715556
+bottrop,Bottrop,Nordrhein-Westfalen,118705,51.5232,6.9253,0.00259153428785105
+reutlingen,Reutlingen,Baden-Württemberg,118528,48.4833,9.2167,0.0025876700734628636
+erlangen,Erlangen,Bayern,117806,49.5964,11.0044,0.002571907571834217
+koblenz,Koblenz,Rheinland-Pfalz,115298,50.3597,7.5978,0.0025171536188083933
+bremerhaven,Bremerhaven,Bremen,114677,53.55,8.5833,0.002503596120870181
+remscheid,Remscheid,Nordrhein-Westfalen,112970,51.1906,7.2247,0.002466329375329877
+trier,Trier,Rheinland-Pfalz,112737,49.7567,6.6414,0.0024612425846380842
+bergisch gladbach,Bergisch Gladbach,Nordrhein-Westfalen,112660,50.9917,7.1367,0.0024595615422206246
+recklinghausen,Recklinghausen,Nordrhein-Westfalen,111693,51.6167,7.2,0.002438450269263698
+jena,Jena,Thüringen,110791,50.9272,11.5864,0.002418758058087744
+moers,Moers,Nordrhein-Westfalen,105606,51.4592,6.6197,0.002305560591405568
+salzgitter,Salzgitter,Niedersachsen,105039,52.1503,10.3593,0.002293182006331548
+hanau,Hanau,Hessen,103184,50.1328,8.9169,0.002252684166274569
+gutersloh,Gütersloh,Nordrhein-Westfalen,102464,51.9,8.3833,0.002236965328085337
+hildesheim,Hildesheim,Niedersachsen,102325,52.15,9.95,0.002233930719046027
+siegen,Siegen,Nordrhein-Westfalen,102114,50.8756,8.0167,0.002229324226187794
+kaiserslautern,Kaiserslautern,Rheinland-Pfalz,101486,49.4447,7.7689,0.002215613906211631
+cottbus,Cottbus/Chóśebuz,Brandenburg,100010,51.7606,14.3342,0.0021833902879237056
+schwerin,Schwerin,Mecklenburg-Vorpommern,98733,53.6333,11.4167,0.0021555111818575266
+witten,Witten,Nordrhein-Westfalen,95724,51.4333,7.3333,0.002089819537258362
+giessen,Gießen,Hessen,94996,50.5833,8.6667,0.0020739260453114723
+ludwigsburg,Ludwigsburg,Baden-Württemberg,94859,48.8975,9.1919,0.002070935099711577
+gera,Gera,Thüringen,94847,50.8782,12.0824,0.0020706731190750895
+tubingen,Tübingen,Baden-Württemberg,93615,48.52,9.0556,0.0020437764403957374
+duren,Düren,Nordrhein-Westfalen,93323,50.8,6.4833,0.0020374015782412156
+flensburg,Flensburg,Schleswig-Holstein,92667,54.7819,9.4367,0.002023079970113249
+iserlohn,Iserlohn,Nordrhein-Westfalen,92404,51.3833,7.6667,0.0020173382278302378
+villingen-schwenningen,Villingen-Schwenningen,Baden-Württemberg,89145,48.0603,8.4586,0.001946188653304257
+zwickau,Zwickau,Sachsen,87593,50.7189,12.4961,0.0019123058243185795
+ratingen,Ratingen,Nordrhein-Westfalen,87513,51.3,6.85,0.0019105592867419982
+lunen,Lünen,Nordrhein-Westfalen,87266,51.6167,7.5167,0.0019051668519743036
+konstanz,Konstanz,Baden-Württemberg,85770,47.6633,9.1753,0.0018725065992922332
+worms,Worms,Rheinland-Pfalz,85609,49.6319,8.3653,0.0018689916924193631
+marl,Marl,Nordrhein-Westfalen,85001,51.6667,7.1167,0.0018557180068373453
+minden,Minden,Nordrhein-Westfalen,83100,52.2883,8.9167,0.001814215907673832
+norderstedt,Norderstedt,Schleswig-Holstein,82719,53.7064,10.0103,0.0018058980224653636
+velbert,Velbert,Nordrhein-Westfalen,82462,51.34,7.0416,0.0018002872705005961
+bamberg,Bamberg,Bayern,80580,49.8917,10.8917,0.0017591999740115209
+neumunster,Neumünster,Schleswig-Holstein,80185,54.0714,9.99,0.0017505764447271507
+dessau-rosslau,Dessau-Roßlau,Sachsen-Anhalt,79686,51.8333,12.2333,0.0017396824165932248
+viersen,Viersen,Nordrhein-Westfalen,79250,51.2556,6.3917,0.0017301637868008567
+delmenhorst,Delmenhorst,Niedersachsen,78979,53.0506,8.6317,0.0017242473907601874
+rheine,Rheine,Nordrhein-Westfalen,78220,52.2833,7.4333,0.0017076771155023723
+marburg,Marburg,Hessen,78203,50.8167,8.7667,0.0017073059762673488
+luneburg,Lüneburg,Niedersachsen,77511,53.2525,10.4144,0.0016921984262299205
+dorsten,Dorsten,Nordrhein-Westfalen,76842,51.66,6.9642,0.0016775930057457593
+troisdorf,Troisdorf,Nordrhein-Westfalen,76503,50.8161,7.1556,0.001670192052764996
+wilhelmshaven,Wilhelmshaven,Niedersachsen,76247,53.5167,8.1333,0.001664603132519936
+gladbeck,Gladbeck,Nordrhein-Westfalen,75799,51.5713,6.9827,0.0016548225220910805
+landshut,Landshut,Bayern,75272,48.5397,12.1508,0.001643317205805351
+bayreuth,Bayreuth,Bayern,74907,49.9481,11.5783,0.001635348628112199
+detmold,Detmold,Nordrhein-Westfalen,74835,51.9378,8.8833,0.0016337767442932759
+castrop-rauxel,Castrop-Rauxel,Nordrhein-Westfalen,74370,51.55,7.3167,0.001623624994629397
+arnsberg,Arnsberg,Nordrhein-Westfalen,74206,51.3967,8.0644,0.0016200445925974053
+aschaffenburg,Aschaffenburg,Bayern,72918,49.9757,9.1478,0.0015919253376144463
+bocholt,Bocholt,Nordrhein-Westfalen,72409,51.8333,6.6167,0.0015808129922834477
+ludenscheid,Lüdenscheid,Nordrhein-Westfalen,71463,51.2198,7.6273,0.0015601601854403737
+kempten,Kempten (Allgäu),Bayern,70713,47.7333,10.3167,0.001543786395659924
+fulda,Fulda,Hessen,70366,50.5528,9.6775,0.0015362107889215027
+celle,Celle,Niedersachsen,70293,52.6256,10.0825,0.001534617073382872
+aalen,Aalen,Baden-Württemberg,69147,48.8372,10.0936,0.0015095979225983448
+lippstadt,Lippstadt,Nordrhein-Westfalen,69047,51.6667,8.35,0.0015074147506276183
+dinslaken,Dinslaken,Nordrhein-Westfalen,67949,51.5667,6.7333,0.0014834435223890399
+kerpen,Kerpen,Nordrhein-Westfalen,67627,50.8719,6.6961,0.0014764137086433
+herford,Herford,Nordrhein-Westfalen,67265,52.1146,8.6734,0.0014685106261092696
+neuwied,Neuwied,Rheinland-Pfalz,66243,50.4286,7.4614,0.0014461986085684436
+weimar,Weimar,Thüringen,65611,50.9833,11.3167,0.0014324009617134512
+sindelfingen,Sindelfingen,Baden-Württemberg,65504,48.7133,9.0028,0.0014300649677047737
+plauen,Plauen,Sachsen,65218,50.495,12.1383,0.0014238210958684955
+rosenheim,Rosenheim,Bayern,65192,47.8561,12.1289,0.0014232534711561065
+dormagen,Dormagen,Nordrhein-Westfalen,65170,51.0964,6.84,0.0014227731733225466
+grevenbroich,Grevenbroich,Nordrhein-Westfalen,64588,51.0883,6.5875,0.0014100671124529177
+neubrandenburg,Neubrandenburg,Mecklenburg-Vorpommern,64390,53.5569,13.2608,0.001405744431950879
+friedrichshafen,Friedrichshafen,Baden-Württemberg,63441,47.6542,9.4792,0.0013850261299486832
+schwabisch gmund,Schwäbisch Gmünd,Baden-Württemberg,62726,48.8,9.8,0.0013694164503579877
+herten,Herten,Nordrhein-Westfalen,62204,51.6,7.1333,0.0013580202926707949
+offenburg,Offenburg,Baden-Württemberg,62195,48.4708,7.9408,0.0013578238071934295
+bergheim,Bergheim,Nordrhein-Westfalen,62172,50.9667,6.65,0.0013573216776401622
+neu-ulm,Neu-Ulm,Bayern,61780,48.3833,10.0,0.0013487636435149139
+garbsen,Garbsen,Niedersachsen,61594,52.4183,9.5981,0.0013447029436493623
+wesel,Wesel,Nordrhein-Westfalen,61277,51.6586,6.6178,0.0013377822885021588
+hurth,Hürth,Nordrhein-Westfalen,61252,50.8775,6.8761,0.0013372364955094773
+euskirchen,Euskirchen,Nordrhein-Westfalen,60256,50.6597,6.7917,0.00131549210268104
+unna,Unna,Nordrhein-Westfalen,60223,51.5347,7.6889,0.0013147716559307001
+greifswald,Greifswald,Mecklenburg-Vorpommern,60071,54.0833,13.3833,0.0013114532345351957
+langenfeld,Langenfeld (Rheinland),Nordrhein-Westfalen,59908,51.1167,6.95,0.0013078946642229112
+stralsund,Stralsund,Mecklenburg-Vorpommern,59450,54.3,13.0833,0.0012978957365969834
+goppingen,Göppingen,Baden-Württemberg,59300,48.7025,9.6528,0.0012946209786408934
+frankfurt,Frankfurt (Oder),Brandenburg,58818,50.1136,8.6797,0.001284098089741991
+hameln,Hameln,Niedersachsen,57916,52.1031,9.36,0.0012644058785660367
+meerbusch,Meerbusch,Nordrhein-Westfalen,57440,51.2667,6.6667,0.001254013979985378
+baden-baden,Baden-Baden,Baden-Württemberg,57420,48.7619,8.2408,0.0012535773455912326
+lingen,Lingen (Ems),Niedersachsen,57075,52.5233,7.3172,0.0012460454022922257
+gorlitz,Görlitz,Sachsen,56694,51.1528,14.9872,0.0012377275170837572
+sankt augustin,Sankt Augustin,Nordrhein-Westfalen,56692,50.77,7.1867,0.0012376838536443428
+stolberg,Stolberg (Rhld.),Nordrhein-Westfalen,56584,50.7667,6.2333,0.001235326027915958
+pulheim,Pulheim,Nordrhein-Westfalen,56284,51.0,6.8,0.0012287765120037781
+eschweiler,Eschweiler,Nordrhein-Westfalen,56132,50.8167,6.2833,0.0012254580906082737
+waiblingen,Waiblingen,Baden-Württemberg,55917,48.8303,9.3169,0.0012207642708712114
+langenhagen,Langenhagen,Niedersachsen,55746,52.4394,9.74,0.0012170310468012687
+hilden,Hilden,Nordrhein-Westfalen,55689,51.1714,6.9394,0.0012157866387779547
+nordhorn,Nordhorn,Niedersachsen,55619,52.4333,7.0667,0.001214258418398446
+schweinfurt,Schweinfurt,Bayern,55067,50.05,10.2333,0.001202207309120035
+wetzlar,Wetzlar,Hessen,54629,50.5667,8.5,0.0011926450158882523
+hattingen,Hattingen,Nordrhein-Westfalen,54620,51.3992,7.1858,0.001192448530410887
+bad salzuflen,Bad Salzuflen,Nordrhein-Westfalen,54585,52.0875,8.7506,0.0011916844202211326
+passau,Passau,Bayern,54401,48.5667,13.4667,0.0011876673837949957
+kleve,Kleve,Nordrhein-Westfalen,53458,51.79,6.14,0.0011670800721110435
+ahlen,Ahlen,Nordrhein-Westfalen,53278,51.7633,7.8911,0.0011631503625637355
+frechen,Frechen,Nordrhein-Westfalen,53128,50.9167,6.8167,0.0011598756046076455
+wolfenbuttel,Wolfenbüttel,Niedersachsen,53034,52.1622,10.5369,0.0011578234229551625
+bad kreuznach,Bad Kreuznach,Rheinland-Pfalz,52989,49.8469,7.8669,0.0011568409955683356
+ibbenburen,Ibbenbüren,Nordrhein-Westfalen,52688,52.2778,7.7167,0.0011502696479364484
+boblingen,Böblingen,Baden-Württemberg,52093,48.6833,9.0,0.001137279774710625
+gummersbach,Gummersbach,Nordrhein-Westfalen,51845,51.0333,7.5667,0.001131865508223223
+rastatt,Rastatt,Baden-Württemberg,51800,48.8572,8.2031,0.0011308830808363958
+ravensburg,Ravensburg,Baden-Württemberg,51788,47.7831,9.6114,0.0011306211001999088
+peine,Peine,Niedersachsen,51521,52.3203,10.2336,0.0011247920310380685
+speyer,Speyer,Rheinland-Pfalz,51203,49.3194,8.4311,0.001117849544171158
+elmshorn,Elmshorn,Schleswig-Holstein,50728,53.7547,9.6536,0.0011074794773102063
+lorrach,Lörrach,Baden-Württemberg,50670,47.6156,7.6614,0.0011062132375671849
+emden,Emden,Niedersachsen,50659,53.3669,7.2061,0.001105973088650405
+goslar,Goslar,Niedersachsen,50253,51.906,10.4292,0.0010971094104492549
+willich,Willich,Nordrhein-Westfalen,50212,51.2631,6.5492,0.001096214309941257
+gronau,Gronau (Westf.),Nordrhein-Westfalen,50151,52.2125,7.0417,0.0010948825750391137
+erftstadt,Erftstadt,Nordrhein-Westfalen,50018,50.8167,6.7667,0.0010919789563180473
+freising,Freising,Bayern,49939,48.4028,11.7489,0.0010902542504611732
+rheda-wiedenbruck,Rheda-Wiedenbrück,Nordrhein-Westfalen,49849,51.8417,8.3,0.0010882893956875193
+leonberg,Leonberg,Baden-Württemberg,49845,48.8014,9.0131,0.0010882020688086902
+straubing,Straubing,Bayern,49775,48.8772,12.5758,0.0010866738484291815
+bad oeynhausen,Bad Oeynhausen,Nordrhein-Westfalen,49566,52.2,8.8,0.001082111019010363
+bergkamen,Bergkamen,Nordrhein-Westfalen,49475,51.6167,7.6333,0.0010801243325170016
+frankenthal,Frankenthal (Pfalz),Rheinland-Pfalz,49122,49.5333,8.35,0.0010724177354603367
+bornheim,Bornheim,Nordrhein-Westfalen,49074,50.7592,7.005,0.001071369812914388
+cuxhaven,Cuxhaven,Niedersachsen,48713,53.8667,8.7,0.0010634885621000646
+stade,Stade,Niedersachsen,48708,53.6008,9.4764,0.0010633794035015283
+alsdorf,Alsdorf,Nordrhein-Westfalen,48518,50.8744,6.1615,0.0010592313767571477
+oranienburg,Oranienburg,Brandenburg,48492,52.7544,13.2369,0.0010586637520447588
+dachau,Dachau,Bayern,48337,48.2603,11.4342,0.0010552798354901325
+soest,Soest,Nordrhein-Westfalen,48250,51.5711,8.1092,0.0010533804758756005
+dulmen,Dülmen,Nordrhein-Westfalen,47937,51.8308,7.2783,0.001046547147607226
+melle,Melle,Niedersachsen,47387,52.2031,8.3361,0.0010345397017682296
+oberursel,Oberursel (Taunus),Hessen,47241,50.2028,8.5769,0.0010313522706909687
+neunkirchen,Neunkirchen,Saarland,47097,49.3448,7.1799,0.0010282085030531222
+herzogenrath,Herzogenrath,Nordrhein-Westfalen,47071,50.8667,6.1,0.0010276408783407335
+bruchsal,Bruchsal,Baden-Württemberg,47014,49.1333,8.6,0.0010263964703174193
+hof,Hof,Bayern,46963,50.3167,11.9167,0.0010252830526123486
+albstadt,Albstadt,Baden-Württemberg,46831,48.2119,9.0239,0.0010224012656109894
+rodgau,Rodgau,Hessen,46683,50.0256,8.8841,0.001019170171094314
+schwerte,Schwerte,Nordrhein-Westfalen,46571,51.4458,7.5653,0.0010167250184871003
+kaufbeuren,Kaufbeuren,Bayern,46386,47.88,10.6225,0.001012686150341256
+gotha,Gotha,Thüringen,46300,50.9489,10.7183,0.0010108086224464312
+filderstadt,Filderstadt,Baden-Württemberg,46295,48.6667,9.2167,0.0010106994638478947
+fellbach,Fellbach,Baden-Württemberg,46205,48.8086,9.2758,0.0010087346090742408
+memmingen,Memmingen,Bayern,46178,47.9878,10.1811,0.0010081451526421446
+bunde,Bünde,Nordrhein-Westfalen,45891,52.2,8.6,0.0010018794490861591
+wittenberg,Wittenberg,Sachsen-Anhalt,45588,51.8671,12.6484,0.0009952644380148575
+bruhl,Brühl,Nordrhein-Westfalen,45515,50.8333,6.9,0.000993670722476227
+weinheim,Weinheim,Baden-Württemberg,45381,49.5561,8.6697,0.0009907452720354533
+neustadt am rubenberge,Neustadt am Rübenberge,Niedersachsen,45325,52.5055,9.4636,0.0009895226957318463
+lehrte,Lehrte,Niedersachsen,45097,52.3725,9.9769,0.0009845450636385897
+falkensee,Falkensee,Brandenburg,45005,52.5583,13.0917,0.0009825365454255212
+pinneberg,Pinneberg,Schleswig-Holstein,44756,53.6591,9.8009,0.0009771004472184119
+erkelenz,Erkelenz,Nordrhein-Westfalen,44572,51.08,6.3156,0.0009730834107922749
+kaarst,Kaarst,Nordrhein-Westfalen,44208,51.2278,6.6273,0.0009651366648188299
+wismar,Wismar,Mecklenburg-Vorpommern,44022,53.8925,11.465,0.0009610759649532783
+gifhorn,Gifhorn,Niedersachsen,43941,52.4886,10.5464,0.0009593075956569898
+bietigheim-bissingen,Bietigheim-Bissingen,Baden-Württemberg,43808,48.9667,9.1333,0.0009564039769359234
+erkrath,Erkrath,Nordrhein-Westfalen,43801,51.2239,6.9147,0.0009562511548979725
+heinsberg,Heinsberg,Nordrhein-Westfalen,43620,51.0631,6.0964,0.0009522996136309573
+borken,Borken,Nordrhein-Westfalen,43589,51.8439,6.8583,0.0009516228303200321
+nettetal,Nettetal,Nordrhein-Westfalen,43425,51.3167,6.2833,0.0009480424282880404
+aurich,Aurich,Niedersachsen,43375,53.4714,7.4836,0.000946950842302677
+kamen,Kamen,Nordrhein-Westfalen,43001,51.5917,7.6653,0.0009387857791321594
+eisenach,Eisenach,Thüringen,42817,50.9747,10.3244,0.0009347687427060224
+schwabisch hall,Schwäbisch Hall,Baden-Württemberg,42743,49.1122,9.7375,0.0009331531954476848
+amberg,Amberg,Bayern,42676,49.4444,11.8483,0.0009316904702272978
+laatzen,Laatzen,Niedersachsen,42560,52.3077,9.8133,0.000929157990741255
+homburg,Homburg,Saarland,42498,49.3167,7.3333,0.0009278044241194045
+dreieich,Dreieich,Hessen,42389,50.0189,8.6961,0.0009254247666713125
+ansbach,Ansbach,Bayern,42311,49.3,10.5833,0.0009237218925341457
+kirchheim unter teck,Kirchheim unter Teck,Baden-Württemberg,42178,48.6483,9.4511,0.0009208182738130793
+coburg,Coburg,Bayern,42139,50.2666,10.9666,0.0009199668367444959
+siegburg,Siegburg,Nordrhein-Westfalen,42025,50.8014,7.2044,0.0009174780206978675
+germering,Germering,Bayern,41822,48.1333,11.3667,0.0009130461815972925
+bensheim,Bensheim,Hessen,41758,49.6811,8.6228,0.0009116489515360274
+eberswalde,Eberswalde,Brandenburg,41704,52.8331,13.8331,0.000910470038671835
+wunstorf,Wunstorf,Niedersachsen,41666,52.4238,9.4359,0.0009096404333229589
+konigswinter,Königswinter,Nordrhein-Westfalen,41642,50.6833,7.1833,0.0009091164720499845
+huckelhoven,Hückelhoven,Nordrhein-Westfalen,41594,51.0608,6.2197,0.0009080685495040357
+nurtingen,Nürtingen,Baden-Württemberg,41447,48.6267,9.3353,0.0009048592867070675
+schwabach,Schwabach,Bayern,41380,49.3292,11.0208,0.0009033965614866807
+buxtehude,Buxtehude,Niedersachsen,41256,53.4769,9.7011,0.0009006894282429797
+nordhausen,Nordhausen,Thüringen,41233,51.505,10.7911,0.0009001872986897126
+freiberg,Freiberg,Sachsen,41045,50.9119,13.3428,0.0008960829353847465
+pirmasens,Pirmasens,Rheinland-Pfalz,40941,49.2,7.6,0.0008938124365351908
+schorndorf,Schorndorf,Baden-Württemberg,40614,48.8,9.5333,0.0008866734641909147
+ahaus,Ahaus,Nordrhein-Westfalen,40580,52.0794,7.0134,0.0008859311857208677
+lemgo,Lemgo,Nordrhein-Westfalen,40531,52.0277,8.9043,0.0008848614314552116
+leinfelden-echterdingen,Leinfelden-Echterdingen,Baden-Württemberg,40526,48.6928,9.1428,0.0008847522728566752
+volklingen,Völklingen,Saarland,40358,49.25,6.8333,0.0008810845439458546
+lohne,Löhne,Nordrhein-Westfalen,40162,52.2,8.7,0.0008768055268832303
+halberstadt,Halberstadt,Sachsen-Anhalt,40069,51.8958,11.0467,0.0008747751769504546
+langen,Langen (Hessen),Hessen,40009,49.9893,8.6803,0.0008734652737680186
+ostfildern,Ostfildern,Baden-Württemberg,39833,48.7228,9.2631,0.0008696228910995398
+ettlingen,Ettlingen,Baden-Württemberg,39763,48.9333,8.4,0.0008680946707200311
+maintal,Maintal,Hessen,39698,50.15,8.8333,0.0008666756089390588
+freital,Freital,Sachsen,39477,51.0167,13.65,0.0008618507988837529
+niederkassel,Niederkassel,Nordrhein-Westfalen,39424,50.8167,7.0333,0.0008606937177392678
+pirna,Pirna,Sachsen,39303,50.9622,13.9403,0.0008580520796546885
+mettmann,Mettmann,Nordrhein-Westfalen,39197,51.25,6.9667,0.0008557379173657183
+weissenfels,Weißenfels,Sachsen-Anhalt,39181,51.2,11.9667,0.0008553886098504021
+ilmenau,Ilmenau,Thüringen,39147,50.6872,10.9142,0.000854646331380355
+konigs wusterhausen,Königs Wusterhausen,Brandenburg,39096,52.2917,13.625,0.0008535329136752845
+stendal,Stendal,Sachsen-Anhalt,38946,52.6,11.85,0.0008502581557191945
+papenburg,Papenburg,Niedersachsen,38841,53.0667,7.4,0.0008479658251499316
+wurselen,Würselen,Nordrhein-Westfalen,38750,50.8247,6.1275,0.0008459791386565702
+kamp-lintfort,Kamp-Lintfort,Nordrhein-Westfalen,38731,51.5,6.5333,0.0008455643359821322
+kehl,Kehl,Baden-Württemberg,38721,48.5711,7.8089,0.0008453460187850595
+wesseling,Wesseling,Nordrhein-Westfalen,38355,50.8207,6.9786,0.0008373556093722001
+greven,Greven,Nordrhein-Westfalen,38321,52.0917,7.6083,0.0008366133309021531
+furstenfeldbruck,Fürstenfeldbruck,Bayern,38187,48.1778,11.2556,0.0008336878804613793
+backnang,Backnang,Baden-Württemberg,38184,48.9464,9.4306,0.0008336223853022576
+bautzen,Bautzen / Budyšin,Sachsen,38039,51.1814,14.4239,0.0008304567859447039
+warendorf,Warendorf,Nordrhein-Westfalen,37847,51.9539,7.9933,0.0008262650957609088
+tuttlingen,Tuttlingen,Baden-Württemberg,37784,47.985,8.8233,0.000824889697419351
+beckum,Beckum,Nordrhein-Westfalen,37452,51.7558,8.0408,0.0008176415664765386
+cloppenburg,Cloppenburg,Niedersachsen,37280,52.8478,8.0439,0.0008138865106868888
+coesfeld,Coesfeld,Nordrhein-Westfalen,37259,51.9458,7.1675,0.0008134280445730362
+erding,Erding,Bayern,37169,48.3001,11.9082,0.0008114631897993822
+suhl,Suhl,Thüringen,36986,50.6106,10.6931,0.0008074679850929525
+sinsheim,Sinsheim,Baden-Württemberg,36978,49.25,8.8833,0.0008072933313352943
+muhlhausen,Mühlhausen/Thüringen,Thüringen,36641,51.2167,10.45,0.0007999360417939456
+emsdetten,Emsdetten,Nordrhein-Westfalen,36556,52.1728,7.5344,0.000798080345618828
+winsen,Winsen (Luhe),Niedersachsen,36499,53.3667,10.2167,0.0007968359375955138
+porta westfalica,Porta Westfalica,Nordrhein-Westfalen,36300,52.2167,8.9333,0.0007924914253737678
+crailsheim,Crailsheim,Baden-Württemberg,36239,49.1347,10.0706,0.0007911596904716245
+meppen,Meppen,Niedersachsen,36137,52.6906,7.291,0.0007889328550614833
+bad vilbel,Bad Vilbel,Hessen,36021,50.1781,8.7361,0.0007864003755754405
+deggendorf,Deggendorf,Bayern,35757,48.8353,12.9644,0.0007806368015727222
+goch,Goch,Nordrhein-Westfalen,35520,51.6839,6.1619,0.0007754626840021001
+steinfurt,Steinfurt,Nordrhein-Westfalen,35456,52.1504,7.3366,0.000774065453940835
+morfelden-walldorf,Mörfelden-Walldorf,Hessen,35359,49.9896,8.5661,0.0007719477771292301
+lage,Lage,Nordrhein-Westfalen,35311,51.9833,8.8,0.0007708998545832813
+dietzenbach,Dietzenbach,Hessen,35268,50.0086,8.7756,0.0007699610906358689
+datteln,Datteln,Nordrhein-Westfalen,35200,51.6539,7.3417,0.0007684765336957748
+leer,Leer (Ostfriesland),Niedersachsen,35163,53.2308,7.4528,0.000767668760066606
+balingen,Balingen,Baden-Württemberg,35054,48.2731,8.8506,0.0007652891026185139
+barsinghausen,Barsinghausen,Niedersachsen,34955,52.3031,9.4606,0.0007631277623674946
+saarlouis,Saarlouis,Saarland,34893,49.3167,6.75,0.0007617741957456441
+kempen,Kempen,Nordrhein-Westfalen,34888,51.3658,6.4194,0.0007616650371471077
+seelze,Seelze,Niedersachsen,34798,52.3961,9.5981,0.0007597001823734538
+merseburg,Merseburg,Sachsen-Anhalt,34721,51.3544,11.9928,0.0007580191399559942
+wermelskirchen,Wermelskirchen,Nordrhein-Westfalen,34673,51.1392,7.2051,0.0007569712174100454
+wedel,Wedel,Schleswig-Holstein,34617,53.5833,9.7,0.0007557486411064385
+zweibrucken,Zweibrücken,Rheinland-Pfalz,34613,49.2494,7.3608,0.0007556613142276095
+geldern,Geldern,Nordrhein-Westfalen,34604,51.5197,6.3325,0.0007554648287502441
+ahrensburg,Ahrensburg,Schleswig-Holstein,34601,53.6747,10.2411,0.0007553993335911223
+viernheim,Viernheim,Hessen,34348,49.538,8.5792,0.000749875908505184
+korschenbroich,Korschenbroich,Nordrhein-Westfalen,34324,51.1833,6.5167,0.0007493519472322095
+kornwestheim,Kornwestheim,Baden-Württemberg,34177,48.8597,9.185,0.0007461426844352413
+vechta,Vechta,Niedersachsen,34145,52.7306,8.2886,0.0007454440694046089
+uelzen,Uelzen,Niedersachsen,33991,52.9647,10.5658,0.0007420819845696898
+hemer,Hemer,Nordrhein-Westfalen,33916,51.3833,7.7667,0.0007404446055916448
+rheinfelden,Rheinfelden (Baden),Baden-Württemberg,33849,47.5611,7.7917,0.000738981880371258
+bad nauheim,Bad Nauheim,Hessen,33809,50.3667,8.75,0.0007381086115829673
+radebeul,Radebeul,Sachsen,33804,51.1033,13.67,0.000737999452984431
+schwedt,Schwedt/Oder,Brandenburg,33635,53.0631,14.2831,0.0007343098923539031
+forchheim,Forchheim,Bayern,33610,49.7197,11.0581,0.0007337640993612213
+julich,Jülich,Nordrhein-Westfalen,33359,50.9222,6.3583,0.0007282843377146975
+lampertheim,Lampertheim,Hessen,33053,49.5942,8.4671,0.000721603831484274
+herrenberg,Herrenberg,Baden-Württemberg,32961,48.5967,8.8708,0.0007195953132712055
+achim,Achim,Niedersachsen,32961,53.013,9.033,0.0007195953132712055
+delbruck,Delbrück,Nordrhein-Westfalen,32874,51.7667,8.5667,0.0007176959536566733
+furstenwalde,Fürstenwalde/Spree,Brandenburg,32763,52.3667,14.0667,0.0007152726327691668
+geesthacht,Geesthacht,Schleswig-Holstein,32763,53.4381,10.3747,0.0007152726327691668
+radolfzell am bodensee,Radolfzell am Bodensee,Baden-Württemberg,32575,47.7369,8.9697,0.0007111682694642007
+nienburg,Nienburg (Weser),Niedersachsen,32423,52.6461,9.2208,0.0007078498480686962
+naumburg,Naumburg (Saale),Sachsen-Anhalt,32336,51.1521,11.8098,0.000705950488454164
+itzehoe,Itzehoe,Schleswig-Holstein,32319,53.925,9.5164,0.0007055793492191405
+bernburg,Bernburg (Saale),Sachsen-Anhalt,32106,51.8,11.7333,0.0007009291929214928
+georgsmarienhutte,Georgsmarienhütte,Niedersachsen,32022,52.2031,8.0447,0.0006990953284660824
+wernigerode,Wernigerode,Sachsen-Anhalt,31943,51.835,10.7853,0.0006973706226092083
+oer-erkenschwick,Oer-Erkenschwick,Nordrhein-Westfalen,31918,51.6422,7.2508,0.0006968248296165267
+neuruppin,Neuruppin,Brandenburg,31803,52.9222,12.8,0.0006943141818501911
+bramsche,Bramsche,Niedersachsen,31801,52.4089,7.9728,0.0006942705184107765
+altenburg,Altenburg,Thüringen,31580,50.985,12.4333,0.0006894457083554706
+hoyerswerda,Hoyerswerda / Wojerecy,Sachsen,31404,51.4331,14.25,0.0006856033256869918
+burgdorf,Burgdorf,Niedersachsen,31302,52.45,10.0083,0.0006833764902768507
+kreuztal,Kreuztal,Nordrhein-Westfalen,31251,50.962,8.0064,0.0006822630725717801
+gevelsberg,Gevelsberg,Nordrhein-Westfalen,31198,51.3265,7.3559,0.000681105991427295
+friedberg,Friedberg (Hessen),Hessen,31131,48.35,10.9833,0.0006796432662069081
+rheinberg,Rheinberg,Nordrhein-Westfalen,31096,51.5467,6.6006,0.0006788791560171538
+weil am rhein,Weil am Rhein,Baden-Württemberg,31065,47.5947,7.6108,0.0006782023727062285
+werl,Werl,Nordrhein-Westfalen,30938,51.5528,7.9139,0.0006754297443034058
+lohmar,Lohmar,Nordrhein-Westfalen,30894,50.8415,7.2166,0.000674469148636286
+taunusstein,Taunusstein,Hessen,30820,50.1435,8.1606,0.0006728536013779483
+bad hersfeld,Bad Hersfeld,Hessen,30770,50.8683,9.7067,0.000671762015392585
+einbeck,Einbeck,Niedersachsen,30725,51.8167,9.8667,0.0006707795880057579
+osterholz-scharmbeck,Osterholz-Scharmbeck,Niedersachsen,30717,53.2269,8.7947,0.0006706049342480999
+haan,Haan,Nordrhein-Westfalen,30558,51.1931,7.0131,0.0006671336908146445
+rendsburg,Rendsburg,Schleswig-Holstein,30545,54.3044,9.6644,0.00066684987845845
+ennepetal,Ennepetal,Nordrhein-Westfalen,30502,51.3021,7.3425,0.0006659111145110376
+rietberg,Rietberg,Nordrhein-Westfalen,30461,51.8,8.4333,0.0006650160140030397
+andernach,Andernach,Rheinland-Pfalz,30408,50.4397,7.4017,0.0006638589328585545
+schonebeck,Schönebeck (Elbe),Sachsen-Anhalt,30402,52.0167,11.75,0.000663727942540311
+schwandorf,Schwandorf,Bayern,30239,49.3236,12.0993,0.0006601693722280266
+gaggenau,Gaggenau,Baden-Württemberg,30190,48.8039,8.3194,0.0006590996179623705
+bretten,Bretten,Baden-Württemberg,30136,49.0364,8.7061,0.0006579207050981781
+merzig,Merzig,Saarland,30070,49.4471,6.6312,0.0006564798115974986
+meschede,Meschede,Nordrhein-Westfalen,29988,51.3503,8.2836,0.0006546896105815027
+oelde,Oelde,Nordrhein-Westfalen,29783,51.8258,8.1436,0.0006502141080415131
+unterschleissheim,Unterschleißheim,Bayern,29661,48.2833,11.5667,0.0006475506382372266
+waltrop,Waltrop,Nordrhein-Westfalen,29586,51.6167,7.3833,0.0006459132592591816
+gustrow,Güstrow,Mecklenburg-Vorpommern,29582,53.7939,12.1764,0.0006458259323803525
+ludwigsfelde,Ludwigsfelde,Brandenburg,29441,52.2997,13.2667,0.0006427476599016281
+winnenden,Winnenden,Baden-Württemberg,29436,48.8764,9.3978,0.0006426385013030917
+vaihingen an der enz,Vaihingen an der Enz,Baden-Württemberg,29387,48.9328,8.9564,0.0006415687470374356
+northeim,Northeim,Niedersachsen,29337,51.7067,10.0011,0.0006404771610520724
+tonisvorst,Tönisvorst,Nordrhein-Westfalen,29331,51.3208,6.4931,0.0006403461707338287
+geislingen an der steige,Geislingen an der Steige,Baden-Württemberg,29261,48.6244,9.8306,0.00063881795035432
+springe,Springe,Niedersachsen,29258,52.2167,9.55,0.0006387524551951983
+buhl,Bühl,Baden-Württemberg,29214,48.6953,8.135,0.0006377918595280786
+rosrath,Rösrath,Nordrhein-Westfalen,29206,50.9,7.1833,0.0006376172057704204
+idar-oberstein,Idar-Oberstein,Rheinland-Pfalz,29158,49.7019,7.3253,0.0006365692832244717
+riesa,Riesa,Sachsen,29127,51.3081,13.2939,0.0006358924999135464
+saalfeld,Saalfeld/Saale,Thüringen,29121,50.6506,11.3542,0.0006357615095953028
+kelkheim,Kelkheim (Taunus),Hessen,29106,50.138,8.4525,0.0006354340337996938
+meissen,Meißen,Sachsen,29051,51.1636,13.4775,0.0006342332892157941
+emmendingen,Emmendingen,Baden-Württemberg,29035,48.1214,7.8492,0.0006338839817004779
+mechernich,Mechernich,Nordrhein-Westfalen,28900,50.6,6.65,0.0006309366995399969
+hoxter,Höxter,Nordrhein-Westfalen,28749,51.7667,9.3667,0.0006276401098641997
+schwelm,Schwelm,Nordrhein-Westfalen,28711,51.2904,7.2972,0.0006268105045153236
+reinbek,Reinbek,Schleswig-Holstein,28579,53.5089,10.2483,0.0006239287175139644
+kevelaer,Kevelaer,Nordrhein-Westfalen,28466,51.5833,6.25,0.0006214617331870433
+verden,Verden (Aller),Niedersachsen,28453,52.9234,9.2349,0.0006211779208308488
+geilenkirchen,Geilenkirchen,Nordrhein-Westfalen,28399,50.9653,6.1194,0.0006199990079666565
+konigsbrunn,Königsbrunn,Bayern,28377,48.2689,10.8908,0.0006195187101330966
+zeitz,Zeitz,Sachsen-Anhalt,28345,51.0478,12.1383,0.0006188200951024642
+baunatal,Baunatal,Hessen,28298,51.2589,9.4183,0.0006177940042762226
+grimma,Grimma,Sachsen,28269,51.2386,12.7253,0.0006171608844047119
+arnstadt,Arnstadt,Thüringen,28264,50.8342,10.9464,0.0006170517258061755
+griesheim,Griesheim,Hessen,28210,49.8594,8.5525,0.0006158728129419832
+leichlingen,Leichlingen (Rheinland),Nordrhein-Westfalen,28202,51.1167,7.0167,0.000615698159184325
+olching,Olching,Bayern,28052,48.2,11.3167,0.0006124234012282351
+baesweiler,Baesweiler,Nordrhein-Westfalen,28005,50.9,6.1833,0.0006113973104019936
+teltow,Teltow,Brandenburg,27880,52.4022,13.2706,0.0006086683454385853
+sundern,Sundern (Sauerland),Nordrhein-Westfalen,27783,51.3167,8.0,0.0006065506686269805
+strausberg,Strausberg,Brandenburg,27780,52.5808,13.8814,0.0006064851734678586
+bad neuenahr-ahrweiler,Bad Neuenahr-Ahrweiler,Rheinland-Pfalz,27647,50.5447,7.1133,0.0006035815547467922
+heppenheim,Heppenheim (Bergstraße),Hessen,27610,49.6415,8.645,0.0006027737811176234
+wangen im allgau,Wangen im Allgäu,Baden-Württemberg,27608,47.6858,9.8342,0.0006027301176782089
+butzbach,Butzbach,Hessen,27528,50.4367,8.6622,0.0006009835801016276
+schloss holte-stukenbrock,Schloß Holte-Stukenbrock,Nordrhein-Westfalen,27520,51.8833,8.6167,0.0006008089263439694
+overath,Overath,Nordrhein-Westfalen,27489,50.95,7.3,0.0006001321430330441
+wetter,Wetter (Ruhr),Nordrhein-Westfalen,27450,51.3881,7.395,0.0005992807059644607
+hamminkeln,Hamminkeln,Nordrhein-Westfalen,27450,51.7319,6.5908,0.0005992807059644607
+wegberg,Wegberg,Nordrhein-Westfalen,27305,51.1333,6.2667,0.0005961151066069071
+leimen,Leimen,Baden-Württemberg,27286,49.3481,8.6911,0.000595700303932469
+rheinbach,Rheinbach,Nordrhein-Westfalen,27238,50.6256,6.9491,0.0005946523813865203
+hohen neuendorf,Hohen Neuendorf,Brandenburg,27131,52.6667,13.2831,0.0005923163873778428
+wiesloch,Wiesloch,Baden-Württemberg,27120,49.2942,8.6983,0.0005920762384610628
+selm,Selm,Nordrhein-Westfalen,26767,51.6833,7.4833,0.0005843696414043979
+achern,Achern,Baden-Württemberg,26664,48.6314,8.0739,0.0005821209742745494
+muhlacker,Mühlacker,Baden-Württemberg,26664,48.95,8.8392,0.0005821209742745494
+hennigsdorf,Hennigsdorf,Brandenburg,26623,52.6378,13.2036,0.0005812258737665515
+gross-gerau,Groß-Gerau,Hessen,26614,49.9214,8.4818,0.0005810293882891861
+heiligenhaus,Heiligenhaus,Nordrhein-Westfalen,26590,51.3265,6.971,0.0005805054270162117
+neckarsulm,Neckarsulm,Baden-Württemberg,26523,49.1917,9.2244,0.0005790427017958249
+aschersleben,Aschersleben,Sachsen-Anhalt,26416,51.75,11.4667,0.0005767067077871473
+nordenham,Nordenham,Niedersachsen,26410,53.5,8.4667,0.0005765757174689038
+bingen am rhein,Bingen am Rhein,Rheinland-Pfalz,26339,49.9669,7.895,0.0005750256653696879
+weiterstadt,Weiterstadt,Hessen,26291,49.9,8.6,0.0005739777428237391
+zirndorf,Zirndorf,Bayern,26257,49.45,10.95,0.0005732354643536921
+lubbecke,Lübbecke,Nordrhein-Westfalen,26161,52.3081,8.6231,0.0005711396192617944
+lindau,Lindau (Bodensee),Bayern,26155,47.5458,9.6839,0.0005710086289435509
+harsewinkel,Harsewinkel,Nordrhein-Westfalen,26126,51.9667,8.2331,0.0005703755090720401
+kulmbach,Kulmbach,Bayern,26052,50.1,11.4333,0.0005687599618137024
+friedrichsdorf,Friedrichsdorf,Hessen,25937,50.2569,8.6418,0.0005662493140473668
+schleswig,Schleswig,Schleswig-Holstein,25904,54.5153,9.5697,0.000565528867297027
+geretsried,Geretsried,Bayern,25863,47.8667,11.4667,0.0005646337667890291
+idstein,Idstein,Hessen,25709,50.2206,8.2692,0.0005612716819541101
+horb am neckar,Horb am Neckar,Baden-Württemberg,25695,48.445,8.6911,0.0005609660378782084
+verl,Verl,Nordrhein-Westfalen,25691,51.8831,8.5167,0.0005608787109993793
+helmstedt,Helmstedt,Niedersachsen,25633,52.2281,11.0106,0.0005596124712563579
+rinteln,Rinteln,Niedersachsen,25626,52.1906,9.0814,0.000559459649218407
+brilon,Brilon,Nordrhein-Westfalen,25624,51.3956,8.5678,0.0005594159857789925
+rottweil,Rottweil,Baden-Württemberg,25548,48.1681,8.6247,0.0005577567750812401
+obertshausen,Obertshausen,Hessen,25531,50.0715,8.8482,0.0005573856358462167
+weingarten,Weingarten,Baden-Württemberg,25521,47.8078,9.6417,0.000557167318649144
+roth,Roth,Bayern,25405,49.2461,11.0911,0.0005546348391631011
+wiehl,Wiehl,Nordrhein-Westfalen,25356,50.95,7.5333,0.0005535650848974451
+delitzsch,Delitzsch,Sachsen,25341,51.5264,12.3425,0.0005532376091018361
+ditzingen,Ditzingen,Baden-Württemberg,25318,48.8264,9.0667,0.000552735479548569
+sangerhausen,Sangerhausen,Sachsen-Anhalt,25300,51.4667,11.3,0.0005523425085938381
+pfungstadt,Pfungstadt,Hessen,25299,49.8056,8.6044,0.0005523206768741309
+espelkamp,Espelkamp,Nordrhein-Westfalen,25294,52.3772,8.6328,0.0005522115182755946
+salzkotten,Salzkotten,Nordrhein-Westfalen,25283,51.6708,8.6047,0.0005519713693588146
+lennestadt,Lennestadt,Nordrhein-Westfalen,25275,51.1236,8.0681,0.0005517967156011565
+petershagen,Petershagen,Nordrhein-Westfalen,25226,52.3833,8.9667,0.0005507269613355004
+norden,Norden,Niedersachsen,25210,53.5967,7.2056,0.0005503776538201842
+waldshut-tiengen,Waldshut-Tiengen,Baden-Württemberg,25114,47.6231,8.2144,0.0005482818087282866
+bad oldesloe,Bad Oldesloe,Schleswig-Holstein,25104,53.8117,10.3742,0.000548063491531214
+kothen,Köthen (Anhalt),Sachsen-Anhalt,24974,51.7518,11.9709,0.0005452253679692693
+schmallenberg,Schmallenberg,Nordrhein-Westfalen,24970,51.1333,8.3,0.0005451380410904402
+olpe,Olpe,Nordrhein-Westfalen,24961,51.0289,7.8514,0.0005449415556130748
+sprockhovel,Sprockhövel,Nordrhein-Westfalen,24956,51.3614,7.244,0.0005448323970145385
+rathenow,Rathenow,Brandenburg,24918,52.6,12.3333,0.0005440027916656624
+meiningen,Meiningen,Thüringen,24867,50.55,10.4167,0.0005428893739605918
+plettenberg,Plettenberg,Nordrhein-Westfalen,24788,51.2128,7.8715,0.0005411646681037178
+rudolstadt,Rudolstadt,Thüringen,24767,50.7169,11.3275,0.0005407062019898652
+zittau,Zittau,Sachsen,24710,50.8961,14.8072,0.000539461793966551
+warstein,Warstein,Nordrhein-Westfalen,24464,51.45,8.3667,0.0005340911909185635
+calw,Calw,Baden-Württemberg,24448,48.7144,8.7375,0.0005337418834032473
+freudenstadt,Freudenstadt,Baden-Württemberg,24337,48.4633,8.4111,0.0005313185625157407
+korbach,Korbach,Hessen,24089,51.2719,8.8731,0.0005259042960283387
+westerstede,Westerstede,Niedersachsen,23984,53.25,7.9167,0.0005236119654590756
+stassfurt,Staßfurt,Sachsen-Anhalt,23963,51.8667,11.5667,0.0005231534993452231
+starnberg,Starnberg,Bayern,23940,47.9972,11.3406,0.0005226513697919559
+husum,Husum,Schleswig-Holstein,23814,54.4769,9.0511,0.0005199005731088403
+mosbach,Mosbach,Baden-Württemberg,23647,49.35,9.1333,0.0005162546759177269
+sonneberg,Sonneberg,Thüringen,23435,50.35,11.1667,0.0005116263513397864
+salzwedel,Salzwedel,Sachsen-Anhalt,23394,52.85,11.15,0.0005107312508317886
+kitzingen,Kitzingen,Bayern,23377,49.7333,10.1667,0.000510360111596765
+senftenberg,Senftenberg/Zły Komorow,Brandenburg,23282,51.5167,14.0167,0.0005082860982245747
+bad kissingen,Bad Kissingen,Bayern,23245,50.2,10.0667,0.0005074783245954058
+bad salzungen,Bad Salzungen,Thüringen,23133,50.8117,10.2333,0.000505033171988192
+stadthagen,Stadthagen,Niedersachsen,22924,52.3247,9.2069,0.0005004703425693733
+apolda,Apolda,Thüringen,22896,51.0247,11.5139,0.0004998590544175699
+rotenburg,Rotenburg (Wümme),Niedersachsen,22789,53.0851,9.3879,0.0004975230604088923
+burg,Burg,Sachsen-Anhalt,22738,52.2725,11.855,0.0004964096427038218
+heide,Heide,Schleswig-Holstein,22467,54.1961,9.0933,0.0004904932466631526
+aichach,Aichach,Bayern,22222,48.45,11.1333,0.0004851444753348724
+sonthofen,Sonthofen,Bayern,22035,47.5142,10.2817,0.0004810619437496136
+gunzburg,Günzburg,Bayern,21865,48.4525,10.2711,0.0004773505513993783
+traunstein,Traunstein,Bayern,21551,47.8683,12.6433,0.0004704953914112967
+germersheim,Germersheim,Rheinland-Pfalz,21295,49.2167,8.3667,0.0004649064711662365
+sondershausen,Sondershausen,Thüringen,21183,51.3667,10.8667,0.00046246131855902264
+luckenwalde,Luckenwalde,Brandenburg,21000,52.0831,13.1667,0.0004584661138525929
+dingolfing,Dingolfing,Bayern,20927,48.6333,12.5,0.0004568723983139625
+wittmund,Wittmund,Niedersachsen,20835,53.5747,7.7808,0.000454863880100894
+lichtenfels,Lichtenfels,Bayern,20403,50.1333,11.0333,0.00044543257718735493
+greiz,Greiz,Thüringen,20220,50.6547,12.1997,0.0004414373724809252
+holzminden,Holzminden,Niedersachsen,20217,51.8297,9.4483,0.0004413718773218034
+donauworth,Donauwörth,Bayern,20108,48.7184,10.777,0.00043899221987371133
+dillingen,Dillingen/ Saar,Saarland,19941,48.5667,10.4667,0.0004353463226825979
+wittlich,Wittlich,Rheinland-Pfalz,19718,49.9869,6.8897,0.0004304778491878775
+torgau,Torgau,Sachsen,19683,51.5603,13.0056,0.0004297137389981232
+alzey,Alzey,Rheinland-Pfalz,19530,49.7517,8.1161,0.0004263734858829114
+annaberg-buchholz,Annaberg-Buchholz,Sachsen,19470,50.58,13.0022,0.00042506358270047543
+eschwege,Eschwege,Hessen,19435,51.1881,10.0528,0.00042429947251072114
+bad tolz,Bad Tölz,Bayern,19360,47.7603,11.5567,0.00042266209353267615
+haldensleben,Haldensleben,Sachsen-Anhalt,19188,52.2833,11.4167,0.00041890703774302636
+bad reichenhall,Bad Reichenhall,Bayern,19087,47.7247,12.8769,0.0004167020340525924
+sommerda,Sömmerda,Thüringen,19052,51.1617,11.1169,0.00041593792386283813
+marktoberdorf,Marktoberdorf,Bayern,19033,47.7667,10.6167,0.0004155231211884001
+prenzlau,Prenzlau,Brandenburg,19022,53.3167,13.8667,0.00041528297227162015
+bad segeberg,Bad Segeberg,Schleswig-Holstein,18891,53.9356,10.3089,0.0004124230169899682
+bad durkheim,Bad Dürkheim,Rheinland-Pfalz,18821,49.4618,8.1724,0.0004108947966104596
+parchim,Parchim,Mecklenburg-Vorpommern,18270,53.4167,11.8333,0.0003988655190517558
+sigmaringen,Sigmaringen,Baden-Württemberg,18127,48.0867,9.2164,0.00039574358313361675
+forst,Forst (Lausitz)/Baršć (Łužyca),Brandenburg,17721,51.7333,14.6333,0.00038687990493246666
+diepholz,Diepholz,Niedersachsen,17608,52.6072,8.3711,0.00038441292060554556
+cham,Cham,Bayern,17593,49.2183,12.6658,0.00038408544480993654
+bitburg,Bitburg,Rheinland-Pfalz,17465,49.9747,6.5256,0.00038129098468740643
+eutin,Eutin,Schleswig-Holstein,17296,54.1378,10.6181,0.00037760142405687846
+heilbad heiligenstadt,Heilbad Heiligenstadt,Thüringen,17260,51.3775,10.1344,0.00037681548214741684
+kelheim,Kelheim,Bayern,17094,48.9167,11.8667,0.00037319141667601063
+kronach,Kronach,Bayern,16924,50.2411,11.3281,0.0003694800243257754
+kunzelsau,Künzelsau,Baden-Württemberg,16436,49.2833,9.6833,0.0003588261451086294
+mindelheim,Mindelheim,Bayern,16226,48.0333,10.4667,0.00035424148397010345
+brake,Brake (Unterweser),Niedersachsen,15102,53.3333,8.4833,0.0003297026310191361
+landsberg,Landsberg,Sachsen-Anhalt,15088,48.0528,10.8689,0.00032939698694323436
+karlstadt,Karlstadt,Bayern,15062,49.9603,9.7724,0.00032882936223084546
+jever,Jever,Niedersachsen,14913,53.5744,7.9008,0.00032557643599446276
+homberg,Homberg (Efze),Hessen,14712,51.0299,9.4026,0.00032118826033330225
+montabaur,Montabaur,Rheinland-Pfalz,14677,50.4375,7.8258,0.0003204241501435479
+ratzeburg,Ratzeburg,Schleswig-Holstein,14552,53.7017,10.7567,0.0003176951851801396
+erbach,Erbach,Hessen,14099,49.6569,8.9931,0.000307805416152748
+hassfurt,Haßfurt,Bayern,13982,50.0353,10.5123,0.00030525110494699785
+lubben,Lübben (Spreewald) / Lubin (Błota),Brandenburg,13967,51.95,13.9,0.00030492362915138883
+lauterbach,Lauterbach (Hessen),Hessen,13883,50.6378,9.3944,0.00030308976469597845
+eichstatt,Eichstätt,Bayern,13867,48.8919,11.1839,0.0003027404571806622
+pfarrkirchen,Pfarrkirchen,Bayern,13694,48.4419,12.9443,0.0002989635696713051
+tauberbischofsheim,Tauberbischofsheim,Baden-Württemberg,13621,49.6225,9.6628,0.00029736985413267465
+altotting,Altötting,Bayern,13172,48.2264,12.6759,0.0002875674119841121
+ebersberg,Ebersberg,Bayern,12527,48.0833,11.9667,0.0002734859527729253
+bad fallingbostel,Bad Fallingbostel,Niedersachsen,12119,52.8675,9.6967,0.00026457861113236066
+miesbach,Miesbach,Bayern,12109,47.789,11.8338,0.000264360293935288
+perleberg,Perleberg,Brandenburg,12026,53.0667,11.8667,0.0002625482611995849
+hildburghausen,Hildburghausen,Thüringen,11682,50.4261,10.7289,0.00025503814962028526
+bad schwalbach,Bad Schwalbach,Hessen,11602,50.1401,8.0694,0.00025329161204370396
+eisenberg,Eisenberg,Thüringen,11196,50.9667,11.9,0.0002444279338425538
+regen,Regen,Bayern,11009,48.97,13.1264,0.00024034540225729504
+neustadt,Neustadt (Hessen),Hessen,10051,49.35,8.15,0.00021943061477773388
+bad ems,Bad Ems,Rheinland-Pfalz,10002,50.3381,7.7106,0.00021836086051207784
+miltenberg,Miltenberg,Bayern,9622,49.7039,9.2644,0.00021006480702331662
+luchow,Lüchow (Wendland),Niedersachsen,9588,52.9667,11.15,0.00020932252855326958
+wunsiedel,Wunsiedel,Bayern,9294,50.0374,11.9994,0.00020290400295933328
+plon,Plön,Schleswig-Holstein,8919,54.1622,10.4214,0.0001947171080691084
+schleiz,Schleiz,Thüringen,8788,50.5833,11.8167,0.00019185715278745652
+herzberg,Herzberg (Elster),Brandenburg,8678,51.6831,13.2331,0.0001894556636196572
+tirschenreuth,Tirschenreuth,Bayern,8580,49.8789,12.3369,0.00018731615508834511
+beeskow,Beeskow,Brandenburg,8272,52.1667,14.25,0.00018059198541850707
+daun,Daun,Rheinland-Pfalz,8220,50.1986,6.8319,0.00017945673599372924
+simmern,Simmern/ Hunsrück,Rheinland-Pfalz,8155,49.9833,7.5167,0.00017803767421275692
+kirchheimbolanden,Kirchheimbolanden,Rheinland-Pfalz,8067,49.6664,8.0117,0.00017611648287851748
+freyung,Freyung,Bayern,7263,48.8075,13.5475,0.00015856378023387536
+birkenfeld,Birkenfeld,Rheinland-Pfalz,7236,49.65,7.1833,0.00015797432380177916
+altenkirchen,Altenkirchen (Westerwald),Rheinland-Pfalz,6603,50.6872,7.6456,0.00014415484522707959
+kusel,Kusel,Rheinland-Pfalz,6057,49.5347,7.3981,0.00013223472626691215
+seelow,Seelow,Brandenburg,5670,52.5167,14.3831,0.00012378585074020008
+cochem,Cochem,Rheinland-Pfalz,5346,50.1469,7.1667,0.0001167123735550458
